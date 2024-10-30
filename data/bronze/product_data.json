@@ -1,702 +1,702 @@
 [
   {
-    "product_id":"P4fe0ea44",
+    "product_id":"Pd5513125",
     "product_name":"Product_1",
-    "category":"Home",
-    "price":201.29,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"Pb942dcf7",
-    "product_name":"Product_2",
-    "category":"Books",
-    "price":729.68,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P9e5b97ee",
-    "product_name":"Product_3",
     "category":"Clothing",
-    "price":100.52,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":54.42,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P9fe38932",
-    "product_name":"Product_4",
+    "product_id":"P637928d7",
+    "product_name":"Product_2",
+    "category":"Sports",
+    "price":131.4,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P155266b0",
+    "product_name":"Product_3",
     "category":"Books",
-    "price":561.93,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":831.05,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P4ffd2baf",
+    "product_id":"P71128636",
+    "product_name":"Product_4",
+    "category":"Electronics",
+    "price":263.42,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P3ef4fb47",
     "product_name":"Product_5",
     "category":"Books",
-    "price":146.6,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":287.47,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P40c68227",
+    "product_id":"Pae2cb509",
     "product_name":"Product_6",
-    "category":"Books",
-    "price":80.56,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P2fffc4bc",
-    "product_name":"Product_7",
-    "category":"Home",
-    "price":542.62,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P028ee69e",
-    "product_name":"Product_8",
-    "category":"Electronics",
-    "price":780.44,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P2a1d9c21",
-    "product_name":"Product_9",
-    "category":"Clothing",
-    "price":638.08,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P9cb72711",
-    "product_name":"Product_10",
     "category":"Sports",
-    "price":68.32,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":541.37,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pfdddacb1",
-    "product_name":"Product_11",
+    "product_id":"P390f8eb3",
+    "product_name":"Product_7",
+    "category":"Sports",
+    "price":976.05,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P17ec520f",
+    "product_name":"Product_8",
     "category":"Clothing",
-    "price":529.38,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":807.63,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pe0cd5cab",
+    "product_id":"P66d6d303",
+    "product_name":"Product_9",
+    "category":"Sports",
+    "price":24.87,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P411888e9",
+    "product_name":"Product_10",
+    "category":"Clothing",
+    "price":67.16,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P89f79d2f",
+    "product_name":"Product_11",
+    "category":"Electronics",
+    "price":172.66,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P82c9825c",
     "product_name":"Product_12",
-    "category":"Home",
-    "price":98.76,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Clothing",
+    "price":990.93,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P67213d02",
+    "product_id":"P487fd0cb",
     "product_name":"Product_13",
     "category":"Electronics",
-    "price":389.02,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":448.69,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P53902d10",
+    "product_id":"P2e2cfb10",
     "product_name":"Product_14",
-    "category":"Clothing",
-    "price":51.53,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Home",
+    "price":772.98,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Peec78329",
+    "product_id":"Pc84c326a",
     "product_name":"Product_15",
-    "category":"Sports",
-    "price":929.21,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Electronics",
+    "price":171.65,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pcc5e816a",
+    "product_id":"P3527f5bb",
     "product_name":"Product_16",
-    "category":"Books",
-    "price":969.18,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Sports",
+    "price":646.41,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P9d5f5359",
+    "product_id":"P578ffb2b",
     "product_name":"Product_17",
     "category":"Home",
-    "price":902.04,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":921.52,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P7405d91b",
+    "product_id":"P4d8f9eeb",
     "product_name":"Product_18",
-    "category":"Clothing",
-    "price":382.77,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Sports",
+    "price":593.9,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P4be5271e",
+    "product_id":"P73dc48b7",
     "product_name":"Product_19",
-    "category":"Home",
-    "price":588.47,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Electronics",
+    "price":130.36,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pb2bd700e",
+    "product_id":"Pce72ca92",
     "product_name":"Product_20",
     "category":"Sports",
-    "price":423.1,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":582.6,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pd3650d53",
+    "product_id":"Pbbe013a8",
     "product_name":"Product_21",
     "category":"Home",
-    "price":521.21,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":695.44,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P122065d4",
+    "product_id":"Pe23dd0f9",
     "product_name":"Product_22",
-    "category":"Electronics",
-    "price":236.17,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Books",
+    "price":606.53,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P65d0dfba",
+    "product_id":"P72e771e1",
     "product_name":"Product_23",
-    "category":"Home",
-    "price":871.35,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Sports",
+    "price":975.51,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P2001d61b",
+    "product_id":"P3d6d4aa3",
     "product_name":"Product_24",
     "category":"Sports",
-    "price":337.08,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":585.41,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pfbab9eff",
+    "product_id":"Pd4de44b5",
     "product_name":"Product_25",
-    "category":"Electronics",
-    "price":416.0,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"Pc53ea489",
-    "product_name":"Product_26",
     "category":"Sports",
-    "price":263.7,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":593.67,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pc5766581",
-    "product_name":"Product_27",
-    "category":"Home",
-    "price":974.08,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P47b2abdd",
-    "product_name":"Product_28",
-    "category":"Home",
-    "price":74.5,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P9b0226bc",
-    "product_name":"Product_29",
-    "category":"Books",
-    "price":275.21,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P6694b24f",
-    "product_name":"Product_30",
+    "product_id":"Pb0997250",
+    "product_name":"Product_26",
     "category":"Electronics",
-    "price":893.55,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":328.08,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pa06ba34f",
+    "product_id":"Pd6647cec",
+    "product_name":"Product_27",
+    "category":"Books",
+    "price":172.99,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"Pd19489da",
+    "product_name":"Product_28",
+    "category":"Clothing",
+    "price":661.91,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P474f35c8",
+    "product_name":"Product_29",
+    "category":"Clothing",
+    "price":669.33,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"Pd63779b8",
+    "product_name":"Product_30",
+    "category":"Clothing",
+    "price":193.19,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P260bfe19",
     "product_name":"Product_31",
     "category":"Sports",
-    "price":635.37,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":712.95,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P35b204bb",
+    "product_id":"P0098b387",
     "product_name":"Product_32",
-    "category":"Sports",
-    "price":719.79,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Clothing",
+    "price":546.27,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P3ddeaad5",
+    "product_id":"P06855b3d",
     "product_name":"Product_33",
-    "category":"Home",
-    "price":626.65,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Sports",
+    "price":781.2,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pfa83b03b",
+    "product_id":"Pa30e0ca3",
     "product_name":"Product_34",
     "category":"Books",
-    "price":926.5,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":518.41,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P623830f5",
+    "product_id":"P2192d5ce",
     "product_name":"Product_35",
     "category":"Clothing",
-    "price":840.05,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":988.3,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P808b97e0",
+    "product_id":"P195a3881",
     "product_name":"Product_36",
-    "category":"Electronics",
-    "price":937.93,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Clothing",
+    "price":602.07,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P7493fca4",
+    "product_id":"P401bbced",
     "product_name":"Product_37",
     "category":"Clothing",
-    "price":130.0,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":918.83,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pe6e5a63f",
+    "product_id":"Pfd4b1903",
     "product_name":"Product_38",
-    "category":"Books",
-    "price":856.82,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Clothing",
+    "price":716.54,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P7f572717",
+    "product_id":"P0b1b36b8",
     "product_name":"Product_39",
-    "category":"Books",
-    "price":503.36,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Clothing",
+    "price":143.21,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pefc78e45",
+    "product_id":"P1b1a0023",
     "product_name":"Product_40",
-    "category":"Books",
-    "price":483.47,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Clothing",
+    "price":455.41,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pf55158e5",
+    "product_id":"P0ae8a567",
     "product_name":"Product_41",
-    "category":"Books",
-    "price":473.06,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"Pe6aa9e82",
-    "product_name":"Product_42",
-    "category":"Electronics",
-    "price":157.83,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P40c62792",
-    "product_name":"Product_43",
-    "category":"Books",
-    "price":250.84,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"Pb7a8d10b",
-    "product_name":"Product_44",
-    "category":"Clothing",
-    "price":568.99,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"Pf2ac2f1f",
-    "product_name":"Product_45",
-    "category":"Clothing",
-    "price":257.65,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P8e622afa",
-    "product_name":"Product_46",
-    "category":"Home",
-    "price":549.18,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P8d29d463",
-    "product_name":"Product_47",
     "category":"Sports",
-    "price":596.07,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":376.64,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P4fc27c7d",
+    "product_id":"P59e578d4",
+    "product_name":"Product_42",
+    "category":"Sports",
+    "price":726.76,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P73625da0",
+    "product_name":"Product_43",
+    "category":"Clothing",
+    "price":890.1,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P9b0fbc1d",
+    "product_name":"Product_44",
+    "category":"Sports",
+    "price":310.48,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"Pd68129d9",
+    "product_name":"Product_45",
+    "category":"Sports",
+    "price":664.94,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P2b2dc682",
+    "product_name":"Product_46",
+    "category":"Clothing",
+    "price":696.06,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"Pf28df856",
+    "product_name":"Product_47",
+    "category":"Clothing",
+    "price":33.33,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P3800c279",
     "product_name":"Product_48",
     "category":"Home",
-    "price":554.48,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":609.02,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P6f065b64",
+    "product_id":"Pfc1ac4a4",
     "product_name":"Product_49",
     "category":"Clothing",
-    "price":390.77,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":898.07,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pb64ac92c",
+    "product_id":"P242b6f7c",
     "product_name":"Product_50",
     "category":"Books",
-    "price":103.83,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":500.64,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P1585aa6e",
+    "product_id":"Pb07e5988",
     "product_name":"Product_51",
-    "category":"Electronics",
-    "price":908.54,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Clothing",
+    "price":72.34,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P68a57c1b",
+    "product_id":"P2121c6ad",
     "product_name":"Product_52",
-    "category":"Home",
-    "price":168.72,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Electronics",
+    "price":124.21,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pb3efdb45",
+    "product_id":"Pd17412ed",
     "product_name":"Product_53",
-    "category":"Home",
-    "price":153.79,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Clothing",
+    "price":463.16,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P944743cc",
+    "product_id":"P03606759",
     "product_name":"Product_54",
     "category":"Home",
-    "price":388.56,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":560.47,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pa07825de",
+    "product_id":"Pcc2486ef",
     "product_name":"Product_55",
-    "category":"Sports",
-    "price":464.37,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Electronics",
+    "price":818.13,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P973b6ed1",
+    "product_id":"P7f99fd77",
     "product_name":"Product_56",
     "category":"Sports",
-    "price":634.7,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":719.3,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P2937eb74",
+    "product_id":"P2785a033",
     "product_name":"Product_57",
-    "category":"Sports",
-    "price":174.4,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Home",
+    "price":421.36,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P48d548fd",
+    "product_id":"P5e2f653d",
     "product_name":"Product_58",
-    "category":"Clothing",
-    "price":780.61,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Books",
+    "price":646.33,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P9625fbf4",
+    "product_id":"Pcfdb2270",
     "product_name":"Product_59",
     "category":"Sports",
-    "price":333.02,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":179.1,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pd0d6cdec",
+    "product_id":"Pbb9f0160",
     "product_name":"Product_60",
-    "category":"Home",
-    "price":496.93,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Books",
+    "price":520.74,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P5b508224",
+    "product_id":"P036735d3",
     "product_name":"Product_61",
-    "category":"Electronics",
-    "price":182.12,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Home",
+    "price":962.03,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pace97b04",
+    "product_id":"P7a7926ee",
     "product_name":"Product_62",
-    "category":"Sports",
-    "price":345.96,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Books",
+    "price":283.61,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pb567521b",
+    "product_id":"P27c51933",
     "product_name":"Product_63",
-    "category":"Sports",
-    "price":722.85,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Home",
+    "price":385.82,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P38f6b8ed",
+    "product_id":"P2372ab0a",
     "product_name":"Product_64",
-    "category":"Home",
-    "price":351.1,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Clothing",
+    "price":29.83,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P038eff59",
+    "product_id":"Pd594fdc3",
     "product_name":"Product_65",
-    "category":"Home",
-    "price":521.03,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Books",
+    "price":552.75,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P8fe39cca",
+    "product_id":"P3dae93b6",
     "product_name":"Product_66",
-    "category":"Electronics",
-    "price":30.11,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Books",
+    "price":220.08,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P5946ff20",
+    "product_id":"P43cef9c3",
     "product_name":"Product_67",
-    "category":"Electronics",
-    "price":522.76,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Clothing",
+    "price":565.15,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P574bae9e",
+    "product_id":"P8cca0e48",
     "product_name":"Product_68",
     "category":"Sports",
-    "price":660.15,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":856.45,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P4a841237",
+    "product_id":"Pffbc258f",
     "product_name":"Product_69",
-    "category":"Sports",
-    "price":536.2,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Books",
+    "price":75.58,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pe284d2f7",
+    "product_id":"Pa0a29887",
     "product_name":"Product_70",
     "category":"Sports",
-    "price":845.64,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":340.59,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P9e5abe30",
+    "product_id":"Pd749e440",
     "product_name":"Product_71",
     "category":"Clothing",
-    "price":351.34,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":174.99,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pd4ec7acf",
+    "product_id":"P7ba26272",
     "product_name":"Product_72",
-    "category":"Clothing",
-    "price":874.15,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P99ee5ea9",
-    "product_name":"Product_73",
     "category":"Sports",
-    "price":362.92,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":604.49,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P1e735deb",
+    "product_id":"Pb0e8370d",
+    "product_name":"Product_73",
+    "category":"Electronics",
+    "price":194.51,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"Pf2473672",
     "product_name":"Product_74",
-    "category":"Clothing",
-    "price":45.2,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Sports",
+    "price":622.59,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P2dacb9fc",
+    "product_id":"P45d687eb",
     "product_name":"Product_75",
-    "category":"Books",
-    "price":509.82,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P79f5281c",
-    "product_name":"Product_76",
     "category":"Clothing",
-    "price":332.76,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":863.67,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P816badfc",
+    "product_id":"P67e4e37e",
+    "product_name":"Product_76",
+    "category":"Electronics",
+    "price":13.01,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P09c53240",
     "product_name":"Product_77",
-    "category":"Books",
-    "price":790.53,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Home",
+    "price":635.92,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pa9e91c0f",
+    "product_id":"Pf10a3578",
     "product_name":"Product_78",
     "category":"Electronics",
-    "price":926.54,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":152.77,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pf494dba4",
+    "product_id":"P5026b18a",
     "product_name":"Product_79",
     "category":"Home",
-    "price":26.53,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":103.36,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P04cc0bb7",
+    "product_id":"P1fdf2321",
     "product_name":"Product_80",
-    "category":"Books",
-    "price":512.09,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Home",
+    "price":434.36,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P165c0af5",
+    "product_id":"Pb2b81dfd",
     "product_name":"Product_81",
-    "category":"Clothing",
-    "price":139.73,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Home",
+    "price":410.2,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P4ba5953d",
+    "product_id":"Pb9a6fd1a",
     "product_name":"Product_82",
-    "category":"Clothing",
-    "price":719.9,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Electronics",
+    "price":617.69,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P441534dd",
+    "product_id":"P31eb84f9",
     "product_name":"Product_83",
-    "category":"Home",
-    "price":774.73,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P67e545c8",
-    "product_name":"Product_84",
     "category":"Sports",
-    "price":972.71,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":714.88,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P9dbece5f",
+    "product_id":"P42c7674c",
+    "product_name":"Product_84",
+    "category":"Electronics",
+    "price":11.55,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P8b64c7e1",
     "product_name":"Product_85",
-    "category":"Electronics",
-    "price":780.54,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Home",
+    "price":144.77,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pe59ba2a4",
+    "product_id":"Pa3ca9ef3",
     "product_name":"Product_86",
-    "category":"Home",
-    "price":516.87,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P9017da06",
-    "product_name":"Product_87",
-    "category":"Electronics",
-    "price":205.74,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P70e14083",
-    "product_name":"Product_88",
-    "category":"Home",
-    "price":972.05,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
-  },
-  {
-    "product_id":"P188cbc56",
-    "product_name":"Product_89",
     "category":"Clothing",
-    "price":487.6,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":408.31,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P20b1ef36",
+    "product_id":"P9fe7e283",
+    "product_name":"Product_87",
+    "category":"Home",
+    "price":579.1,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P997f0813",
+    "product_name":"Product_88",
+    "category":"Electronics",
+    "price":686.12,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P83172d35",
+    "product_name":"Product_89",
+    "category":"Electronics",
+    "price":881.55,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
+  },
+  {
+    "product_id":"P19e481ee",
     "product_name":"Product_90",
-    "category":"Books",
-    "price":553.64,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Clothing",
+    "price":873.13,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P923974d5",
+    "product_id":"P56176f6f",
     "product_name":"Product_91",
     "category":"Home",
-    "price":438.16,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":609.57,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P03d196fa",
+    "product_id":"Pb4db63e5",
     "product_name":"Product_92",
-    "category":"Sports",
-    "price":767.42,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Books",
+    "price":137.84,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P6bb65cf3",
+    "product_id":"Pea7997d4",
     "product_name":"Product_93",
     "category":"Home",
-    "price":708.02,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":437.44,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P307a8f04",
+    "product_id":"P0d7b9ce8",
     "product_name":"Product_94",
-    "category":"Clothing",
-    "price":271.85,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Books",
+    "price":803.55,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P076f0d4b",
+    "product_id":"P045f679b",
     "product_name":"Product_95",
     "category":"Sports",
-    "price":611.97,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":197.91,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P9189f004",
+    "product_id":"Pf71dc215",
     "product_name":"Product_96",
-    "category":"Sports",
-    "price":867.11,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Electronics",
+    "price":718.71,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P16ffc1fd",
+    "product_id":"P77159a30",
     "product_name":"Product_97",
-    "category":"Home",
-    "price":640.89,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Sports",
+    "price":415.24,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"P037b9bf5",
+    "product_id":"P4a701f9a",
     "product_name":"Product_98",
     "category":"Electronics",
-    "price":583.7,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":340.23,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pdf7027bb",
+    "product_id":"Pcd43a6f3",
     "product_name":"Product_99",
     "category":"Books",
-    "price":69.04,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "price":922.8,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   },
   {
-    "product_id":"Pbf7c9717",
+    "product_id":"P2a1f5428",
     "product_name":"Product_100",
-    "category":"Books",
-    "price":748.62,
-    "ingestion_timestamp":"2024-10-30T22:38:41.816Z"
+    "category":"Electronics",
+    "price":806.17,
+    "ingestion_timestamp":"2024-10-30T21:58:37.825"
   }
 ]
