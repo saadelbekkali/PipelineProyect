@@ -1,0 +1,50 @@
+2024-10-30 at 20:52:46 | INFO | Directories created: data/raw, data/bronze
+2024-10-30 at 20:52:46 | INFO | DataIngestion initialized
+2024-10-30 at 20:54:07 | INFO | Directories created: data/raw, data/bronze
+2024-10-30 at 20:54:07 | INFO | DataIngestion initialized
+2024-10-30 at 20:54:07 | INFO | Starting ingestion process
+2024-10-30 at 20:54:07 | INFO | Processing sales_data.json
+2024-10-30 at 20:54:07 | INFO | Reading from: data/raw/sales_data.json
+2024-10-30 at 20:54:07 | INFO | Writing to: data/bronze/sales_data.json
+2024-10-30 at 20:54:07 | INFO | Successfully wrote sales_data.json to bronze
+2024-10-30 at 20:54:07 | INFO | Processing product_data.json
+2024-10-30 at 20:54:07 | INFO | Reading from: data/raw/product_data.json
+2024-10-30 at 20:54:07 | INFO | Writing to: data/bronze/product_data.json
+2024-10-30 at 20:54:07 | INFO | Successfully wrote product_data.json to bronze
+2024-10-30 at 20:54:07 | INFO | Ingestion process completed successfully
+2024-10-30 at 20:55:48 | INFO | Directories created: data/raw, data/bronze
+2024-10-30 at 20:55:48 | INFO | DataIngestion initialized
+2024-10-30 at 20:55:48 | INFO | Starting ingestion process
+2024-10-30 at 20:55:48 | INFO | Processing sales_data.json
+2024-10-30 at 20:55:48 | INFO | Reading from: data/raw/sales_data.json
+2024-10-30 at 20:55:48 | INFO | Writing to: data/bronze/sales_data.json
+2024-10-30 at 20:55:49 | INFO | Successfully wrote sales_data.json to bronze
+2024-10-30 at 20:55:49 | INFO | Processing product_data.json
+2024-10-30 at 20:55:49 | INFO | Reading from: data/raw/product_data.json
+2024-10-30 at 20:55:49 | INFO | Writing to: data/bronze/product_data.json
+2024-10-30 at 20:55:49 | INFO | Successfully wrote product_data.json to bronze
+2024-10-30 at 20:55:49 | INFO | Ingestion process completed successfully
+2024-10-30 at 20:57:04 | INFO | Directories created: data/raw, data/bronze
+2024-10-30 at 20:57:04 | INFO | DataIngestion initialized
+2024-10-30 at 20:57:04 | INFO | Starting ingestion process
+2024-10-30 at 20:57:04 | INFO | Processing sales_data.json
+2024-10-30 at 20:57:04 | INFO | Reading from: data/raw/sales_data.json
+2024-10-30 at 20:57:04 | INFO | Writing to: data/bronze/sales_data.json
+2024-10-30 at 20:57:04 | INFO | Successfully wrote sales_data.json to bronze
+2024-10-30 at 20:57:04 | INFO | Processing product_data.json
+2024-10-30 at 20:57:04 | INFO | Reading from: data/raw/product_data.json
+2024-10-30 at 20:57:04 | INFO | Writing to: data/bronze/product_data.json
+2024-10-30 at 20:57:04 | INFO | Successfully wrote product_data.json to bronze
+2024-10-30 at 20:57:04 | INFO | Ingestion process completed successfully
+2024-10-30 at 20:58:24 | INFO | Directories created: data/raw, data/bronze
+2024-10-30 at 20:58:24 | INFO | DataIngestion initialized
+2024-10-30 at 20:58:24 | INFO | Starting ingestion process
+2024-10-30 at 20:58:24 | INFO | Processing sales_data.json
+2024-10-30 at 20:58:24 | INFO | Reading from: data/raw/sales_data.json
+2024-10-30 at 20:58:24 | INFO | Writing to: data/bronze/sales_data.json
+2024-10-30 at 20:58:24 | INFO | Successfully wrote sales_data.json to bronze
+2024-10-30 at 20:58:24 | INFO | Processing product_data.json
+2024-10-30 at 20:58:24 | INFO | Reading from: data/raw/product_data.json
+2024-10-30 at 20:58:24 | INFO | Writing to: data/bronze/product_data.json
+2024-10-30 at 20:58:24 | INFO | Successfully wrote product_data.json to bronze
+2024-10-30 at 20:58:24 | INFO | Ingestion process completed successfully

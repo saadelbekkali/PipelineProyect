@@ -1,0 +1,7002 @@
+[
+  {
+    "sale_id": 1,
+    "product_id": "P6eaf0059",
+    "sale_date": "2023-01-13",
+    "quantity": 2,
+    "price": 379.3
+  },
+  {
+    "sale_id": 2,
+    "product_id": null,
+    "sale_date": "2023-07-29",
+    "quantity": 10,
+    "price": 489.04
+  },
+  {
+    "sale_id": 3,
+    "product_id": "P57eb39b7",
+    "sale_date": "2023-02-06",
+    "quantity": 1,
+    "price": 28.63
+  },
+  {
+    "sale_id": 4,
+    "product_id": "P18e6512b",
+    "sale_date": "2023-12-21",
+    "quantity": 10,
+    "price": 845.15
+  },
+  {
+    "sale_id": 5,
+    "product_id": "P90df1385",
+    "sale_date": "2023-06-19",
+    "quantity": 7,
+    "price": 773.28
+  },
+  {
+    "sale_id": 6,
+    "product_id": "Pe8e2de1e",
+    "sale_date": "2023-06-10",
+    "quantity": 5,
+    "price": 273.52
+  },
+  {
+    "sale_id": 7,
+    "product_id": "P4b7652f7",
+    "sale_date": "2023-05-02",
+    "quantity": 2,
+    "price": 684.41
+  },
+  {
+    "sale_id": 8,
+    "product_id": "Pc030509d",
+    "sale_date": "2023-12-02",
+    "quantity": 8,
+    "price": 544.84
+  },
+  {
+    "sale_id": 9,
+    "product_id": "P756738d4",
+    "sale_date": "2023-05-25",
+    "quantity": 6,
+    "price": 614.37
+  },
+  {
+    "sale_id": 10,
+    "product_id": "P96170136",
+    "sale_date": "2023-10-09",
+    "quantity": 3,
+    "price": 272.46
+  },
+  {
+    "sale_id": 11,
+    "product_id": "Pd1b2bf92",
+    "sale_date": "2023-03-31",
+    "quantity": 5,
+    "price": 794.03
+  },
+  {
+    "sale_id": 12,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-11-07",
+    "quantity": 10,
+    "price": 418.73
+  },
+  {
+    "sale_id": 13,
+    "product_id": "P334ffc38",
+    "sale_date": "2023-06-01",
+    "quantity": 7,
+    "price": 688.27
+  },
+  {
+    "sale_id": 14,
+    "product_id": "Pdd69eb63",
+    "sale_date": "2023-02-12",
+    "quantity": 6,
+    "price": 204.92
+  },
+  {
+    "sale_id": 15,
+    "product_id": "P305f5a9a",
+    "sale_date": "2023-02-10",
+    "quantity": 1,
+    "price": 746.39
+  },
+  {
+    "sale_id": 16,
+    "product_id": "P3355fffe",
+    "sale_date": "2023-06-12",
+    "quantity": 8,
+    "price": 791.23
+  },
+  {
+    "sale_id": 17,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-06-04",
+    "quantity": 7,
+    "price": 950.56
+  },
+  {
+    "sale_id": 18,
+    "product_id": "Pd145ff69",
+    "sale_date": "2023-07-20",
+    "quantity": 3,
+    "price": 811.45
+  },
+  {
+    "sale_id": 19,
+    "product_id": "P30004008",
+    "sale_date": "2023-08-23",
+    "quantity": 5,
+    "price": 799.95
+  },
+  {
+    "sale_id": 20,
+    "product_id": "P81e0c9cf",
+    "sale_date": "2023-08-26",
+    "quantity": 1,
+    "price": 773.86
+  },
+  {
+    "sale_id": 21,
+    "product_id": "P3355fffe",
+    "sale_date": "2023-09-09",
+    "quantity": 1,
+    "price": 791.23
+  },
+  {
+    "sale_id": 22,
+    "product_id": "P305f5a9a",
+    "sale_date": "2023-01-22",
+    "quantity": 8,
+    "price": 746.39
+  },
+  {
+    "sale_id": 23,
+    "product_id": "P96170136",
+    "sale_date": "2023-04-07",
+    "quantity": 5,
+    "price": 272.46
+  },
+  {
+    "sale_id": 24,
+    "product_id": "Pe8e2de1e",
+    "sale_date": "2023-02-16",
+    "quantity": 8,
+    "price": 273.52
+  },
+  {
+    "sale_id": 25,
+    "product_id": "P18e6512b",
+    "sale_date": "2023-11-08",
+    "quantity": 5,
+    "price": 845.15
+  },
+  {
+    "sale_id": 26,
+    "product_id": "Pc030509d",
+    "sale_date": "2023-01-02",
+    "quantity": 10,
+    "price": 544.84
+  },
+  {
+    "sale_id": 27,
+    "product_id": "P6984f4b1",
+    "sale_date": "2023-05-19",
+    "quantity": 10,
+    "price": 717.75
+  },
+  {
+    "sale_id": 28,
+    "product_id": "Pbcca251f",
+    "sale_date": "2023-04-02",
+    "quantity": 4,
+    "price": 152.29
+  },
+  {
+    "sale_id": 29,
+    "product_id": "P0bae7a2a",
+    "sale_date": "2023-01-01",
+    "quantity": 9,
+    "price": 868.34
+  },
+  {
+    "sale_id": 30,
+    "product_id": "Pf54512a9",
+    "sale_date": "2023-04-22",
+    "quantity": 10,
+    "price": 989.61
+  },
+  {
+    "sale_id": 31,
+    "product_id": "P57eb39b7",
+    "sale_date": "2023-02-17",
+    "quantity": 4,
+    "price": 28.63
+  },
+  {
+    "sale_id": 32,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-10-08",
+    "quantity": 4,
+    "price": 672.41
+  },
+  {
+    "sale_id": 33,
+    "product_id": "Pbbeead39",
+    "sale_date": "2023-07-01",
+    "quantity": 5,
+    "price": 478.18
+  },
+  {
+    "sale_id": 34,
+    "product_id": "P4ff925d8",
+    "sale_date": "2023-06-03",
+    "quantity": 9,
+    "price": 799.53
+  },
+  {
+    "sale_id": 35,
+    "product_id": "Pe8e2de1e",
+    "sale_date": "2023-04-19",
+    "quantity": 1,
+    "price": 273.52
+  },
+  {
+    "sale_id": 36,
+    "product_id": "Pbcca251f",
+    "sale_date": "2023-08-16",
+    "quantity": 5,
+    "price": 152.29
+  },
+  {
+    "sale_id": 37,
+    "product_id": null,
+    "sale_date": "2023-05-13",
+    "quantity": 10,
+    "price": 273.52
+  },
+  {
+    "sale_id": 38,
+    "product_id": "P22a3350b",
+    "sale_date": "2023-01-02",
+    "quantity": 10,
+    "price": 988.67
+  },
+  {
+    "sale_id": 39,
+    "product_id": "Pc030509d",
+    "sale_date": null,
+    "quantity": 7,
+    "price": 544.84
+  },
+  {
+    "sale_id": 40,
+    "product_id": "P5d2aa999",
+    "sale_date": "2023-01-02",
+    "quantity": 9,
+    "price": 489.04
+  },
+  {
+    "sale_id": 41,
+    "product_id": "P61888905",
+    "sale_date": "2023-03-05",
+    "quantity": 9,
+    "price": 141.57
+  },
+  {
+    "sale_id": 42,
+    "product_id": "Pe64f7aad",
+    "sale_date": "2023-11-01",
+    "quantity": 1,
+    "price": 963.6
+  },
+  {
+    "sale_id": 43,
+    "product_id": "P90df1385",
+    "sale_date": "2023-07-05",
+    "quantity": 4,
+    "price": 773.28
+  },
+  {
+    "sale_id": 44,
+    "product_id": "Pe4451aad",
+    "sale_date": "2023-01-15",
+    "quantity": 3,
+    "price": 753.36
+  },
+  {
+    "sale_id": 45,
+    "product_id": "P3355fffe",
+    "sale_date": "2023-03-06",
+    "quantity": 10,
+    "price": 791.23
+  },
+  {
+    "sale_id": 46,
+    "product_id": "Pbcca251f",
+    "sale_date": "2023-05-15",
+    "quantity": 3,
+    "price": 152.29
+  },
+  {
+    "sale_id": 47,
+    "product_id": "Pf9dc4bf0",
+    "sale_date": "2023-08-04",
+    "quantity": 4,
+    "price": 576.81
+  },
+  {
+    "sale_id": 48,
+    "product_id": "P22a3350b",
+    "sale_date": "2023-12-31",
+    "quantity": 6,
+    "price": 988.67
+  },
+  {
+    "sale_id": 49,
+    "product_id": "P037a1296",
+    "sale_date": "2023-01-14",
+    "quantity": 7,
+    "price": 69.31
+  },
+  {
+    "sale_id": 50,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-12-25",
+    "quantity": 5,
+    "price": 672.41
+  },
+  {
+    "sale_id": 51,
+    "product_id": "P7273646e",
+    "sale_date": "2023-01-15",
+    "quantity": 3,
+    "price": 770.66
+  },
+  {
+    "sale_id": 52,
+    "product_id": "Pe64f7aad",
+    "sale_date": "2023-07-11",
+    "quantity": 10,
+    "price": 963.6
+  },
+  {
+    "sale_id": 53,
+    "product_id": "P66d770db",
+    "sale_date": null,
+    "quantity": 5,
+    "price": 382.75
+  },
+  {
+    "sale_id": 54,
+    "product_id": "Pb92cf35b",
+    "sale_date": "2023-10-23",
+    "quantity": 6,
+    "price": 957.81
+  },
+  {
+    "sale_id": 55,
+    "product_id": "P037a1296",
+    "sale_date": "2023-12-26",
+    "quantity": 8,
+    "price": 69.31
+  },
+  {
+    "sale_id": 56,
+    "product_id": "P30004008",
+    "sale_date": "2023-04-02",
+    "quantity": 5,
+    "price": 799.95
+  },
+  {
+    "sale_id": 57,
+    "product_id": "Pd45bc8b6",
+    "sale_date": "2023-02-04",
+    "quantity": 4,
+    "price": 609.69
+  },
+  {
+    "sale_id": 58,
+    "product_id": "P6eaf0059",
+    "sale_date": "2023-08-23",
+    "quantity": 5,
+    "price": 379.3
+  },
+  {
+    "sale_id": 59,
+    "product_id": "P5f05bcde",
+    "sale_date": "2023-04-28",
+    "quantity": 4,
+    "price": 328.14
+  },
+  {
+    "sale_id": 60,
+    "product_id": "Pc1a313e5",
+    "sale_date": "2023-08-26",
+    "quantity": 4,
+    "price": 880.15
+  },
+  {
+    "sale_id": 61,
+    "product_id": "P45832561",
+    "sale_date": "2023-01-26",
+    "quantity": 6,
+    "price": 148.85
+  },
+  {
+    "sale_id": 62,
+    "product_id": "P0e36ec5f",
+    "sale_date": "2023-03-13",
+    "quantity": 3,
+    "price": 625.26
+  },
+  {
+    "sale_id": 63,
+    "product_id": "P13cd8b1b",
+    "sale_date": "2023-04-05",
+    "quantity": 9,
+    "price": 657.03
+  },
+  {
+    "sale_id": 64,
+    "product_id": "P2742827a",
+    "sale_date": "2023-11-09",
+    "quantity": 10,
+    "price": 566.64
+  },
+  {
+    "sale_id": 65,
+    "product_id": null,
+    "sale_date": "2023-09-17",
+    "quantity": 7,
+    "price": 27.05
+  },
+  {
+    "sale_id": 66,
+    "product_id": "P6e9fa7b1",
+    "sale_date": "2023-10-28",
+    "quantity": 9,
+    "price": 981.22
+  },
+  {
+    "sale_id": 67,
+    "product_id": "P229b6e90",
+    "sale_date": "2023-05-27",
+    "quantity": 10,
+    "price": 867.47
+  },
+  {
+    "sale_id": 68,
+    "product_id": "Pb90294ac",
+    "sale_date": "2023-09-26",
+    "quantity": 9,
+    "price": 196.83
+  },
+  {
+    "sale_id": 69,
+    "product_id": "Pf9dc4bf0",
+    "sale_date": "2023-11-19",
+    "quantity": 8,
+    "price": 576.81
+  },
+  {
+    "sale_id": 70,
+    "product_id": "Pe8e2de1e",
+    "sale_date": "2023-09-02",
+    "quantity": 2,
+    "price": 273.52
+  },
+  {
+    "sale_id": 71,
+    "product_id": "P30004008",
+    "sale_date": "2023-08-20",
+    "quantity": 8,
+    "price": 799.95
+  },
+  {
+    "sale_id": 72,
+    "product_id": "Pf9504018",
+    "sale_date": "2023-09-21",
+    "quantity": 2,
+    "price": 227.37
+  },
+  {
+    "sale_id": 73,
+    "product_id": "P23c258c9",
+    "sale_date": "2023-01-20",
+    "quantity": 1,
+    "price": 142.04
+  },
+  {
+    "sale_id": 74,
+    "product_id": "Pbc91b309",
+    "sale_date": "2023-01-17",
+    "quantity": 8,
+    "price": 501.55
+  },
+  {
+    "sale_id": 75,
+    "product_id": "P3f50b02c",
+    "sale_date": "2023-12-29",
+    "quantity": 7,
+    "price": 490.85
+  },
+  {
+    "sale_id": 76,
+    "product_id": "Pe5ae5456",
+    "sale_date": "2023-08-09",
+    "quantity": 9,
+    "price": 665.79
+  },
+  {
+    "sale_id": 77,
+    "product_id": "P12338936",
+    "sale_date": "2023-10-28",
+    "quantity": 9,
+    "price": 575.3
+  },
+  {
+    "sale_id": 78,
+    "product_id": "Pd1b2bf92",
+    "sale_date": "2023-04-26",
+    "quantity": 2,
+    "price": 794.03
+  },
+  {
+    "sale_id": 79,
+    "product_id": "Pdd69eb63",
+    "sale_date": "2023-04-11",
+    "quantity": 2,
+    "price": 204.92
+  },
+  {
+    "sale_id": 80,
+    "product_id": "Pb29bd58e",
+    "sale_date": "2023-04-28",
+    "quantity": 9,
+    "price": 927.12
+  },
+  {
+    "sale_id": 81,
+    "product_id": "Pd1b2bf92",
+    "sale_date": "2023-06-14",
+    "quantity": 3,
+    "price": 794.03
+  },
+  {
+    "sale_id": 82,
+    "product_id": "P12cc8a9e",
+    "sale_date": "2023-08-06",
+    "quantity": 5,
+    "price": 633.8
+  },
+  {
+    "sale_id": 83,
+    "product_id": "Pa37c28b9",
+    "sale_date": "2023-12-30",
+    "quantity": 1,
+    "price": 67.04
+  },
+  {
+    "sale_id": 84,
+    "product_id": "P66d770db",
+    "sale_date": "2023-11-22",
+    "quantity": 3,
+    "price": 382.75
+  },
+  {
+    "sale_id": 85,
+    "product_id": "Pb92cf35b",
+    "sale_date": "2023-12-04",
+    "quantity": 5,
+    "price": 957.81
+  },
+  {
+    "sale_id": 86,
+    "product_id": "P18f8f0b8",
+    "sale_date": "2023-10-05",
+    "quantity": 9,
+    "price": 196.7
+  },
+  {
+    "sale_id": 87,
+    "product_id": "P37b852b3",
+    "sale_date": "2023-08-12",
+    "quantity": 6,
+    "price": 527.17
+  },
+  {
+    "sale_id": 88,
+    "product_id": "P7491bf62",
+    "sale_date": "2023-02-05",
+    "quantity": 1,
+    "price": 665.52
+  },
+  {
+    "sale_id": 89,
+    "product_id": "Pc6c8744b",
+    "sale_date": "2023-07-21",
+    "quantity": 6,
+    "price": 138.64
+  },
+  {
+    "sale_id": 90,
+    "product_id": "P314f27ab",
+    "sale_date": "2023-02-27",
+    "quantity": 8,
+    "price": 362.16
+  },
+  {
+    "sale_id": 91,
+    "product_id": "P12338936",
+    "sale_date": "2023-11-19",
+    "quantity": 8,
+    "price": 575.3
+  },
+  {
+    "sale_id": 92,
+    "product_id": "P641ea97e",
+    "sale_date": "2023-08-10",
+    "quantity": 7,
+    "price": 27.05
+  },
+  {
+    "sale_id": 93,
+    "product_id": "Pf6dd51df",
+    "sale_date": "2023-01-02",
+    "quantity": 10,
+    "price": 262.77
+  },
+  {
+    "sale_id": 94,
+    "product_id": "P3f50b02c",
+    "sale_date": "2023-05-19",
+    "quantity": 6,
+    "price": 490.85
+  },
+  {
+    "sale_id": 95,
+    "product_id": "P23c258c9",
+    "sale_date": "2023-03-07",
+    "quantity": 1,
+    "price": 142.04
+  },
+  {
+    "sale_id": 96,
+    "product_id": "P334ffc38",
+    "sale_date": "2023-05-15",
+    "quantity": 3,
+    "price": 688.27
+  },
+  {
+    "sale_id": 97,
+    "product_id": "Pa894811e",
+    "sale_date": "2023-03-29",
+    "quantity": 6,
+    "price": 640.52
+  },
+  {
+    "sale_id": 98,
+    "product_id": "Pd36dc6ee",
+    "sale_date": "2023-02-02",
+    "quantity": 9,
+    "price": 711.54
+  },
+  {
+    "sale_id": 99,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-12-02",
+    "quantity": 10,
+    "price": 950.56
+  },
+  {
+    "sale_id": 100,
+    "product_id": "Pbd0a1129",
+    "sale_date": "2023-01-07",
+    "quantity": 4,
+    "price": 541.69
+  },
+  {
+    "sale_id": 101,
+    "product_id": "P4b1f438a",
+    "sale_date": "2023-08-13",
+    "quantity": 7,
+    "price": 293.43
+  },
+  {
+    "sale_id": 102,
+    "product_id": "P5e6fdb01",
+    "sale_date": "2023-11-05",
+    "quantity": 8,
+    "price": 758.41
+  },
+  {
+    "sale_id": 103,
+    "product_id": "P5e6fdb01",
+    "sale_date": "2023-12-02",
+    "quantity": 8,
+    "price": 758.41
+  },
+  {
+    "sale_id": 104,
+    "product_id": null,
+    "sale_date": "2023-10-06",
+    "quantity": 6,
+    "price": 794.03
+  },
+  {
+    "sale_id": 105,
+    "product_id": "P0bae7a2a",
+    "sale_date": "2023-03-20",
+    "quantity": 1,
+    "price": 868.34
+  },
+  {
+    "sale_id": 106,
+    "product_id": "P037a1296",
+    "sale_date": "2023-07-07",
+    "quantity": 9,
+    "price": 69.31
+  },
+  {
+    "sale_id": 107,
+    "product_id": "P5e6fdb01",
+    "sale_date": "2023-12-17",
+    "quantity": 1,
+    "price": 758.41
+  },
+  {
+    "sale_id": 108,
+    "product_id": "P45832561",
+    "sale_date": "2023-12-31",
+    "quantity": 10,
+    "price": 148.85
+  },
+  {
+    "sale_id": 109,
+    "product_id": "P13cd8b1b",
+    "sale_date": null,
+    "quantity": 6,
+    "price": 657.03
+  },
+  {
+    "sale_id": 110,
+    "product_id": "P7491bf62",
+    "sale_date": "2023-11-03",
+    "quantity": 5,
+    "price": 665.52
+  },
+  {
+    "sale_id": 111,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-03-02",
+    "quantity": 7,
+    "price": 911.94
+  },
+  {
+    "sale_id": 112,
+    "product_id": "Pc030509d",
+    "sale_date": "2023-01-10",
+    "quantity": 8,
+    "price": 544.84
+  },
+  {
+    "sale_id": 113,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-04-27",
+    "quantity": 10,
+    "price": 418.73
+  },
+  {
+    "sale_id": 114,
+    "product_id": "Pa37c28b9",
+    "sale_date": "2023-01-04",
+    "quantity": 5,
+    "price": 67.04
+  },
+  {
+    "sale_id": 115,
+    "product_id": "P51e0297b",
+    "sale_date": "2023-06-05",
+    "quantity": 9,
+    "price": 947.48
+  },
+  {
+    "sale_id": 116,
+    "product_id": "Pd145ff69",
+    "sale_date": "2023-04-15",
+    "quantity": 6,
+    "price": 811.45
+  },
+  {
+    "sale_id": 117,
+    "product_id": "P037a1296",
+    "sale_date": "2023-06-19",
+    "quantity": 4,
+    "price": 69.31
+  },
+  {
+    "sale_id": 118,
+    "product_id": "P5d2aa999",
+    "sale_date": "2023-04-21",
+    "quantity": 1,
+    "price": 489.04
+  },
+  {
+    "sale_id": 119,
+    "product_id": "Pec5275bc",
+    "sale_date": "2023-05-24",
+    "quantity": 3,
+    "price": 394.78
+  },
+  {
+    "sale_id": 120,
+    "product_id": "P353df400",
+    "sale_date": "2023-07-20",
+    "quantity": 6,
+    "price": 386.17
+  },
+  {
+    "sale_id": 121,
+    "product_id": "P22a3350b",
+    "sale_date": null,
+    "quantity": 2,
+    "price": 988.67
+  },
+  {
+    "sale_id": 122,
+    "product_id": "Pbe5f88eb",
+    "sale_date": "2023-09-16",
+    "quantity": 5,
+    "price": 443.06
+  },
+  {
+    "sale_id": 123,
+    "product_id": "Pf99a0002",
+    "sale_date": "2023-03-13",
+    "quantity": 3,
+    "price": 489.72
+  },
+  {
+    "sale_id": 124,
+    "product_id": "P305f5a9a",
+    "sale_date": "2023-12-16",
+    "quantity": 2,
+    "price": 746.39
+  },
+  {
+    "sale_id": 125,
+    "product_id": null,
+    "sale_date": "2023-05-05",
+    "quantity": 3,
+    "price": 196.83
+  },
+  {
+    "sale_id": 126,
+    "product_id": "Pbc516115",
+    "sale_date": "2023-05-24",
+    "quantity": 1,
+    "price": 320.79
+  },
+  {
+    "sale_id": 127,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-03-16",
+    "quantity": 1,
+    "price": 223.1
+  },
+  {
+    "sale_id": 128,
+    "product_id": "P305f5a9a",
+    "sale_date": "2023-09-25",
+    "quantity": 1,
+    "price": 746.39
+  },
+  {
+    "sale_id": 129,
+    "product_id": "P314f27ab",
+    "sale_date": "2023-05-20",
+    "quantity": 3,
+    "price": 362.16
+  },
+  {
+    "sale_id": 130,
+    "product_id": "P334ffc38",
+    "sale_date": "2023-06-11",
+    "quantity": 3,
+    "price": 688.27
+  },
+  {
+    "sale_id": 131,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-07-17",
+    "quantity": 10,
+    "price": 911.94
+  },
+  {
+    "sale_id": 132,
+    "product_id": "Pdd69eb63",
+    "sale_date": null,
+    "quantity": 5,
+    "price": 204.92
+  },
+  {
+    "sale_id": 133,
+    "product_id": null,
+    "sale_date": "2023-05-25",
+    "quantity": 10,
+    "price": 957.81
+  },
+  {
+    "sale_id": 134,
+    "product_id": "Pc030509d",
+    "sale_date": "2023-06-08",
+    "quantity": 6,
+    "price": 544.84
+  },
+  {
+    "sale_id": 135,
+    "product_id": "P641ea97e",
+    "sale_date": "2023-06-15",
+    "quantity": 7,
+    "price": 27.05
+  },
+  {
+    "sale_id": 136,
+    "product_id": "P6984f4b1",
+    "sale_date": "2023-05-12",
+    "quantity": 3,
+    "price": 717.75
+  },
+  {
+    "sale_id": 137,
+    "product_id": "Pbc516115",
+    "sale_date": "2023-08-15",
+    "quantity": 5,
+    "price": 320.79
+  },
+  {
+    "sale_id": 138,
+    "product_id": "Pbbeead39",
+    "sale_date": "2023-01-04",
+    "quantity": 6,
+    "price": 478.18
+  },
+  {
+    "sale_id": 139,
+    "product_id": "P7491bf62",
+    "sale_date": "2023-03-09",
+    "quantity": 3,
+    "price": 665.52
+  },
+  {
+    "sale_id": 140,
+    "product_id": "Pd36dc6ee",
+    "sale_date": "2023-04-24",
+    "quantity": 2,
+    "price": 711.54
+  },
+  {
+    "sale_id": 141,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-02-18",
+    "quantity": 10,
+    "price": 672.41
+  },
+  {
+    "sale_id": 142,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-07-03",
+    "quantity": 6,
+    "price": 950.56
+  },
+  {
+    "sale_id": 143,
+    "product_id": "P756738d4",
+    "sale_date": "2023-12-14",
+    "quantity": 9,
+    "price": 614.37
+  },
+  {
+    "sale_id": 144,
+    "product_id": "Pbbeead39",
+    "sale_date": "2023-02-25",
+    "quantity": 8,
+    "price": 478.18
+  },
+  {
+    "sale_id": 145,
+    "product_id": "P6984f4b1",
+    "sale_date": "2023-03-11",
+    "quantity": 8,
+    "price": 717.75
+  },
+  {
+    "sale_id": 146,
+    "product_id": "Pd54c91b1",
+    "sale_date": "2023-10-01",
+    "quantity": 3,
+    "price": 237.1
+  },
+  {
+    "sale_id": 147,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-05-28",
+    "quantity": 7,
+    "price": 223.1
+  },
+  {
+    "sale_id": 148,
+    "product_id": null,
+    "sale_date": "2023-10-05",
+    "quantity": 1,
+    "price": 996.86
+  },
+  {
+    "sale_id": 149,
+    "product_id": "P4b1f438a",
+    "sale_date": null,
+    "quantity": 9,
+    "price": 293.43
+  },
+  {
+    "sale_id": 150,
+    "product_id": null,
+    "sale_date": "2023-01-24",
+    "quantity": 1,
+    "price": 950.56
+  },
+  {
+    "sale_id": 151,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-08-14",
+    "quantity": 6,
+    "price": 672.41
+  },
+  {
+    "sale_id": 152,
+    "product_id": "Pb3ad46f7",
+    "sale_date": "2023-04-05",
+    "quantity": 6,
+    "price": 484.78
+  },
+  {
+    "sale_id": 153,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-04-08",
+    "quantity": 3,
+    "price": 223.1
+  },
+  {
+    "sale_id": 154,
+    "product_id": "Pa37c28b9",
+    "sale_date": "2023-06-05",
+    "quantity": 8,
+    "price": 67.04
+  },
+  {
+    "sale_id": 155,
+    "product_id": "P334ffc38",
+    "sale_date": null,
+    "quantity": 10,
+    "price": 688.27
+  },
+  {
+    "sale_id": 156,
+    "product_id": "Pf6dd51df",
+    "sale_date": "2023-02-17",
+    "quantity": 2,
+    "price": 262.77
+  },
+  {
+    "sale_id": 157,
+    "product_id": "Pdd69eb63",
+    "sale_date": "2023-06-16",
+    "quantity": 2,
+    "price": 204.92
+  },
+  {
+    "sale_id": 158,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-02-27",
+    "quantity": 3,
+    "price": 223.1
+  },
+  {
+    "sale_id": 159,
+    "product_id": "Pe5ae5456",
+    "sale_date": "2023-03-09",
+    "quantity": 10,
+    "price": 665.79
+  },
+  {
+    "sale_id": 160,
+    "product_id": "P305f5a9a",
+    "sale_date": "2023-10-25",
+    "quantity": 2,
+    "price": 746.39
+  },
+  {
+    "sale_id": 161,
+    "product_id": "Pc030509d",
+    "sale_date": "2023-10-07",
+    "quantity": 9,
+    "price": 544.84
+  },
+  {
+    "sale_id": 162,
+    "product_id": "P305f5a9a",
+    "sale_date": "2023-06-17",
+    "quantity": 4,
+    "price": 746.39
+  },
+  {
+    "sale_id": 163,
+    "product_id": "P57eb39b7",
+    "sale_date": "2023-01-19",
+    "quantity": 6,
+    "price": 28.63
+  },
+  {
+    "sale_id": 164,
+    "product_id": null,
+    "sale_date": "2023-12-11",
+    "quantity": 1,
+    "price": 633.8
+  },
+  {
+    "sale_id": 165,
+    "product_id": "P4b1f438a",
+    "sale_date": "2023-08-01",
+    "quantity": 4,
+    "price": 293.43
+  },
+  {
+    "sale_id": 166,
+    "product_id": "Pf07cbe91",
+    "sale_date": "2023-08-01",
+    "quantity": 10,
+    "price": 189.18
+  },
+  {
+    "sale_id": 167,
+    "product_id": "P51e0297b",
+    "sale_date": "2023-03-29",
+    "quantity": 2,
+    "price": 947.48
+  },
+  {
+    "sale_id": 168,
+    "product_id": "P4b1f438a",
+    "sale_date": "2023-11-21",
+    "quantity": 6,
+    "price": 293.43
+  },
+  {
+    "sale_id": 169,
+    "product_id": null,
+    "sale_date": "2023-10-10",
+    "quantity": 8,
+    "price": 665.52
+  },
+  {
+    "sale_id": 170,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-04-23",
+    "quantity": 8,
+    "price": 911.94
+  },
+  {
+    "sale_id": 171,
+    "product_id": "P7273646e",
+    "sale_date": "2023-10-19",
+    "quantity": 8,
+    "price": 770.66
+  },
+  {
+    "sale_id": 172,
+    "product_id": "P18f8f0b8",
+    "sale_date": "2023-09-04",
+    "quantity": 4,
+    "price": 196.7
+  },
+  {
+    "sale_id": 173,
+    "product_id": "Pf99a0002",
+    "sale_date": "2023-03-04",
+    "quantity": 5,
+    "price": 489.72
+  },
+  {
+    "sale_id": 174,
+    "product_id": "Pc0bca51b",
+    "sale_date": "2023-06-06",
+    "quantity": 1,
+    "price": 605.58
+  },
+  {
+    "sale_id": 175,
+    "product_id": "P7132e903",
+    "sale_date": "2023-08-25",
+    "quantity": 4,
+    "price": 609.92
+  },
+  {
+    "sale_id": 176,
+    "product_id": "P23c258c9",
+    "sale_date": "2023-06-16",
+    "quantity": 7,
+    "price": 142.04
+  },
+  {
+    "sale_id": 177,
+    "product_id": "P6b5a19f5",
+    "sale_date": "2023-06-22",
+    "quantity": 4,
+    "price": 873.33
+  },
+  {
+    "sale_id": 178,
+    "product_id": null,
+    "sale_date": "2023-09-15",
+    "quantity": 6,
+    "price": 148.85
+  },
+  {
+    "sale_id": 179,
+    "product_id": "Pb955ab77",
+    "sale_date": "2023-11-24",
+    "quantity": 10,
+    "price": 944.08
+  },
+  {
+    "sale_id": 180,
+    "product_id": "P334ffc38",
+    "sale_date": "2023-04-27",
+    "quantity": 3,
+    "price": 688.27
+  },
+  {
+    "sale_id": 181,
+    "product_id": "P6844351c",
+    "sale_date": "2023-09-02",
+    "quantity": 5,
+    "price": 638.15
+  },
+  {
+    "sale_id": 182,
+    "product_id": "Pdd69eb63",
+    "sale_date": "2023-09-07",
+    "quantity": 9,
+    "price": 204.92
+  },
+  {
+    "sale_id": 183,
+    "product_id": "P229b6e90",
+    "sale_date": "2023-09-04",
+    "quantity": 10,
+    "price": 867.47
+  },
+  {
+    "sale_id": 184,
+    "product_id": "P7491bf62",
+    "sale_date": "2023-08-12",
+    "quantity": 9,
+    "price": 665.52
+  },
+  {
+    "sale_id": 185,
+    "product_id": "Pd1b2bf92",
+    "sale_date": "2023-06-07",
+    "quantity": 10,
+    "price": 794.03
+  },
+  {
+    "sale_id": 186,
+    "product_id": "Pa37c28b9",
+    "sale_date": "2023-08-28",
+    "quantity": 8,
+    "price": 67.04
+  },
+  {
+    "sale_id": 187,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-03-18",
+    "quantity": 5,
+    "price": 911.94
+  },
+  {
+    "sale_id": 188,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-04-04",
+    "quantity": 4,
+    "price": 307.11
+  },
+  {
+    "sale_id": 189,
+    "product_id": "P51e0297b",
+    "sale_date": "2023-06-25",
+    "quantity": 7,
+    "price": 947.48
+  },
+  {
+    "sale_id": 190,
+    "product_id": "P4ff925d8",
+    "sale_date": "2023-11-20",
+    "quantity": 2,
+    "price": 799.53
+  },
+  {
+    "sale_id": 191,
+    "product_id": "Pbe5f88eb",
+    "sale_date": "2023-04-01",
+    "quantity": 7,
+    "price": 443.06
+  },
+  {
+    "sale_id": 192,
+    "product_id": "Pbbeead39",
+    "sale_date": "2023-12-27",
+    "quantity": 10,
+    "price": 478.18
+  },
+  {
+    "sale_id": 193,
+    "product_id": "P7491bf62",
+    "sale_date": "2023-09-18",
+    "quantity": 7,
+    "price": 665.52
+  },
+  {
+    "sale_id": 194,
+    "product_id": "P7132e903",
+    "sale_date": "2023-08-23",
+    "quantity": 6,
+    "price": 609.92
+  },
+  {
+    "sale_id": 195,
+    "product_id": "Pdd69eb63",
+    "sale_date": "2023-05-06",
+    "quantity": 1,
+    "price": 204.92
+  },
+  {
+    "sale_id": 196,
+    "product_id": "Pbcca251f",
+    "sale_date": "2023-02-15",
+    "quantity": 10,
+    "price": 152.29
+  },
+  {
+    "sale_id": 197,
+    "product_id": "Pd22247b2",
+    "sale_date": "2023-04-17",
+    "quantity": 6,
+    "price": 15.52
+  },
+  {
+    "sale_id": 198,
+    "product_id": "Pe8e2de1e",
+    "sale_date": "2023-03-18",
+    "quantity": 5,
+    "price": 273.52
+  },
+  {
+    "sale_id": 199,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-05-28",
+    "quantity": 2,
+    "price": 307.11
+  },
+  {
+    "sale_id": 200,
+    "product_id": "Pf99a0002",
+    "sale_date": "2023-12-03",
+    "quantity": 8,
+    "price": 489.72
+  },
+  {
+    "sale_id": 201,
+    "product_id": "Pf54512a9",
+    "sale_date": "2023-06-18",
+    "quantity": 7,
+    "price": 989.61
+  },
+  {
+    "sale_id": 202,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-09-09",
+    "quantity": 7,
+    "price": 418.73
+  },
+  {
+    "sale_id": 203,
+    "product_id": "Pbc91b309",
+    "sale_date": "2023-09-27",
+    "quantity": 4,
+    "price": 501.55
+  },
+  {
+    "sale_id": 204,
+    "product_id": "Pcc8d8340",
+    "sale_date": "2023-06-13",
+    "quantity": 8,
+    "price": 127.41
+  },
+  {
+    "sale_id": 205,
+    "product_id": "P66d770db",
+    "sale_date": "2023-06-01",
+    "quantity": 7,
+    "price": 382.75
+  },
+  {
+    "sale_id": 206,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-11-13",
+    "quantity": 2,
+    "price": 911.94
+  },
+  {
+    "sale_id": 207,
+    "product_id": "Pd45bc8b6",
+    "sale_date": "2023-12-21",
+    "quantity": 7,
+    "price": 609.69
+  },
+  {
+    "sale_id": 208,
+    "product_id": "P13cd8b1b",
+    "sale_date": "2023-06-21",
+    "quantity": 5,
+    "price": 657.03
+  },
+  {
+    "sale_id": 209,
+    "product_id": "P22a3350b",
+    "sale_date": null,
+    "quantity": 7,
+    "price": 988.67
+  },
+  {
+    "sale_id": 210,
+    "product_id": "Pcb7d6b7c",
+    "sale_date": "2023-02-11",
+    "quantity": 7,
+    "price": 983.51
+  },
+  {
+    "sale_id": 211,
+    "product_id": null,
+    "sale_date": "2023-06-04",
+    "quantity": 4,
+    "price": 418.73
+  },
+  {
+    "sale_id": 212,
+    "product_id": "Pa894811e",
+    "sale_date": null,
+    "quantity": 5,
+    "price": 640.52
+  },
+  {
+    "sale_id": 213,
+    "product_id": "Pc0bca51b",
+    "sale_date": "2023-07-25",
+    "quantity": 3,
+    "price": 605.58
+  },
+  {
+    "sale_id": 214,
+    "product_id": "Pf99a0002",
+    "sale_date": "2023-11-12",
+    "quantity": 3,
+    "price": 489.72
+  },
+  {
+    "sale_id": 215,
+    "product_id": "Pd54c91b1",
+    "sale_date": "2023-03-05",
+    "quantity": 6,
+    "price": 237.1
+  },
+  {
+    "sale_id": 216,
+    "product_id": null,
+    "sale_date": "2023-10-25",
+    "quantity": 2,
+    "price": 989.61
+  },
+  {
+    "sale_id": 217,
+    "product_id": "P356d389b",
+    "sale_date": "2023-01-12",
+    "quantity": 8,
+    "price": 309.96
+  },
+  {
+    "sale_id": 218,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-01-15",
+    "quantity": 4,
+    "price": 950.56
+  },
+  {
+    "sale_id": 219,
+    "product_id": null,
+    "sale_date": "2023-06-21",
+    "quantity": 4,
+    "price": 196.7
+  },
+  {
+    "sale_id": 220,
+    "product_id": "Pc030509d",
+    "sale_date": "2023-10-31",
+    "quantity": 6,
+    "price": 544.84
+  },
+  {
+    "sale_id": 221,
+    "product_id": "P037a1296",
+    "sale_date": "2023-09-13",
+    "quantity": 5,
+    "price": 69.31
+  },
+  {
+    "sale_id": 222,
+    "product_id": "P641ea97e",
+    "sale_date": "2023-07-19",
+    "quantity": 4,
+    "price": 27.05
+  },
+  {
+    "sale_id": 223,
+    "product_id": "P756738d4",
+    "sale_date": "2023-04-28",
+    "quantity": 4,
+    "price": 614.37
+  },
+  {
+    "sale_id": 224,
+    "product_id": "P0bae7a2a",
+    "sale_date": "2023-02-08",
+    "quantity": 9,
+    "price": 868.34
+  },
+  {
+    "sale_id": 225,
+    "product_id": "Pa31ceb3a",
+    "sale_date": "2023-01-13",
+    "quantity": 10,
+    "price": 57.82
+  },
+  {
+    "sale_id": 226,
+    "product_id": "P334ffc38",
+    "sale_date": "2023-01-17",
+    "quantity": 3,
+    "price": 688.27
+  },
+  {
+    "sale_id": 227,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-03-21",
+    "quantity": 7,
+    "price": 418.73
+  },
+  {
+    "sale_id": 228,
+    "product_id": "Pf9dc4bf0",
+    "sale_date": "2023-03-21",
+    "quantity": 6,
+    "price": 576.81
+  },
+  {
+    "sale_id": 229,
+    "product_id": "Pc1a313e5",
+    "sale_date": "2023-06-06",
+    "quantity": 4,
+    "price": 880.15
+  },
+  {
+    "sale_id": 230,
+    "product_id": "Pa31ceb3a",
+    "sale_date": "2023-04-13",
+    "quantity": 8,
+    "price": 57.82
+  },
+  {
+    "sale_id": 231,
+    "product_id": "P6f47d618",
+    "sale_date": "2023-12-16",
+    "quantity": 4,
+    "price": 855.83
+  },
+  {
+    "sale_id": 232,
+    "product_id": "P0e36ec5f",
+    "sale_date": "2023-01-09",
+    "quantity": 1,
+    "price": 625.26
+  },
+  {
+    "sale_id": 233,
+    "product_id": "P81e0c9cf",
+    "sale_date": "2023-03-18",
+    "quantity": 1,
+    "price": 773.86
+  },
+  {
+    "sale_id": 234,
+    "product_id": "P7491bf62",
+    "sale_date": null,
+    "quantity": 9,
+    "price": 665.52
+  },
+  {
+    "sale_id": 235,
+    "product_id": "P4ff925d8",
+    "sale_date": "2023-03-21",
+    "quantity": 5,
+    "price": 799.53
+  },
+  {
+    "sale_id": 236,
+    "product_id": "Pcc8d8340",
+    "sale_date": "2023-08-11",
+    "quantity": 1,
+    "price": 127.41
+  },
+  {
+    "sale_id": 237,
+    "product_id": "P037a1296",
+    "sale_date": "2023-11-04",
+    "quantity": 9,
+    "price": 69.31
+  },
+  {
+    "sale_id": 238,
+    "product_id": "P0bae7a2a",
+    "sale_date": "2023-07-09",
+    "quantity": 10,
+    "price": 868.34
+  },
+  {
+    "sale_id": 239,
+    "product_id": "Pbd0a1129",
+    "sale_date": "2023-07-28",
+    "quantity": 4,
+    "price": 541.69
+  },
+  {
+    "sale_id": 240,
+    "product_id": "Pd36dc6ee",
+    "sale_date": "2023-09-02",
+    "quantity": 8,
+    "price": 711.54
+  },
+  {
+    "sale_id": 241,
+    "product_id": "P37b852b3",
+    "sale_date": "2023-11-07",
+    "quantity": 3,
+    "price": 527.17
+  },
+  {
+    "sale_id": 242,
+    "product_id": null,
+    "sale_date": "2023-12-26",
+    "quantity": 3,
+    "price": 867.47
+  },
+  {
+    "sale_id": 243,
+    "product_id": "Pe8e2de1e",
+    "sale_date": "2023-08-25",
+    "quantity": 3,
+    "price": 273.52
+  },
+  {
+    "sale_id": 244,
+    "product_id": "P037a1296",
+    "sale_date": "2023-06-20",
+    "quantity": 1,
+    "price": 69.31
+  },
+  {
+    "sale_id": 245,
+    "product_id": "P22a3350b",
+    "sale_date": "2023-04-23",
+    "quantity": 7,
+    "price": 988.67
+  },
+  {
+    "sale_id": 246,
+    "product_id": "Pa67e2d7f",
+    "sale_date": "2023-07-10",
+    "quantity": 4,
+    "price": 127.15
+  },
+  {
+    "sale_id": 247,
+    "product_id": "P45832561",
+    "sale_date": "2023-02-28",
+    "quantity": 3,
+    "price": 148.85
+  },
+  {
+    "sale_id": 248,
+    "product_id": "P3f50b02c",
+    "sale_date": "2023-06-06",
+    "quantity": 6,
+    "price": 490.85
+  },
+  {
+    "sale_id": 249,
+    "product_id": "P51e0297b",
+    "sale_date": "2023-07-06",
+    "quantity": 8,
+    "price": 947.48
+  },
+  {
+    "sale_id": 250,
+    "product_id": "P6844351c",
+    "sale_date": "2023-04-26",
+    "quantity": 5,
+    "price": 638.15
+  },
+  {
+    "sale_id": 251,
+    "product_id": "P6eaf0059",
+    "sale_date": "2023-08-02",
+    "quantity": 1,
+    "price": 379.3
+  },
+  {
+    "sale_id": 252,
+    "product_id": "Pd54c91b1",
+    "sale_date": "2023-07-27",
+    "quantity": 5,
+    "price": 237.1
+  },
+  {
+    "sale_id": 253,
+    "product_id": "P23c258c9",
+    "sale_date": "2023-02-16",
+    "quantity": 10,
+    "price": 142.04
+  },
+  {
+    "sale_id": 254,
+    "product_id": null,
+    "sale_date": "2023-01-23",
+    "quantity": 2,
+    "price": 947.48
+  },
+  {
+    "sale_id": 255,
+    "product_id": "P8d0f618c",
+    "sale_date": null,
+    "quantity": 4,
+    "price": 307.11
+  },
+  {
+    "sale_id": 256,
+    "product_id": "P356d389b",
+    "sale_date": "2023-04-26",
+    "quantity": 1,
+    "price": 309.96
+  },
+  {
+    "sale_id": 257,
+    "product_id": "P6e9fa7b1",
+    "sale_date": "2023-09-16",
+    "quantity": 4,
+    "price": 981.22
+  },
+  {
+    "sale_id": 258,
+    "product_id": "Pa894811e",
+    "sale_date": "2023-05-16",
+    "quantity": 6,
+    "price": 640.52
+  },
+  {
+    "sale_id": 259,
+    "product_id": "Pbc91b309",
+    "sale_date": "2023-10-31",
+    "quantity": 6,
+    "price": 501.55
+  },
+  {
+    "sale_id": 260,
+    "product_id": "Pf9dc4bf0",
+    "sale_date": "2023-02-11",
+    "quantity": 10,
+    "price": 576.81
+  },
+  {
+    "sale_id": 261,
+    "product_id": "P5b5ceadd",
+    "sale_date": "2023-12-29",
+    "quantity": 2,
+    "price": 44.27
+  },
+  {
+    "sale_id": 262,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-03-13",
+    "quantity": 4,
+    "price": 672.41
+  },
+  {
+    "sale_id": 263,
+    "product_id": null,
+    "sale_date": "2023-04-18",
+    "quantity": 6,
+    "price": 799.53
+  },
+  {
+    "sale_id": 264,
+    "product_id": "Pbe5f88eb",
+    "sale_date": "2023-03-26",
+    "quantity": 4,
+    "price": 443.06
+  },
+  {
+    "sale_id": 265,
+    "product_id": "P356d389b",
+    "sale_date": "2023-05-13",
+    "quantity": 1,
+    "price": 309.96
+  },
+  {
+    "sale_id": 266,
+    "product_id": "P30004008",
+    "sale_date": "2023-09-03",
+    "quantity": 1,
+    "price": 799.95
+  },
+  {
+    "sale_id": 267,
+    "product_id": "P23c258c9",
+    "sale_date": "2023-05-16",
+    "quantity": 3,
+    "price": 142.04
+  },
+  {
+    "sale_id": 268,
+    "product_id": "Pb955ab77",
+    "sale_date": "2023-12-18",
+    "quantity": 6,
+    "price": 944.08
+  },
+  {
+    "sale_id": 269,
+    "product_id": "P96170136",
+    "sale_date": "2023-10-29",
+    "quantity": 4,
+    "price": 272.46
+  },
+  {
+    "sale_id": 270,
+    "product_id": "P37b852b3",
+    "sale_date": "2023-10-01",
+    "quantity": 7,
+    "price": 527.17
+  },
+  {
+    "sale_id": 271,
+    "product_id": "Pf07cbe91",
+    "sale_date": "2023-08-24",
+    "quantity": 10,
+    "price": 189.18
+  },
+  {
+    "sale_id": 272,
+    "product_id": "Pf9dc4bf0",
+    "sale_date": null,
+    "quantity": 8,
+    "price": 576.81
+  },
+  {
+    "sale_id": 273,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-05-26",
+    "quantity": 6,
+    "price": 418.73
+  },
+  {
+    "sale_id": 274,
+    "product_id": "P6b5a19f5",
+    "sale_date": "2023-07-22",
+    "quantity": 9,
+    "price": 873.33
+  },
+  {
+    "sale_id": 275,
+    "product_id": "P90df1385",
+    "sale_date": "2023-09-28",
+    "quantity": 1,
+    "price": 773.28
+  },
+  {
+    "sale_id": 276,
+    "product_id": "P0e36ec5f",
+    "sale_date": "2023-02-20",
+    "quantity": 6,
+    "price": 625.26
+  },
+  {
+    "sale_id": 277,
+    "product_id": "P6d2ebd51",
+    "sale_date": "2023-09-21",
+    "quantity": 8,
+    "price": 921.93
+  },
+  {
+    "sale_id": 278,
+    "product_id": "P5d2aa999",
+    "sale_date": "2023-12-12",
+    "quantity": 1,
+    "price": 489.04
+  },
+  {
+    "sale_id": 279,
+    "product_id": "P7491bf62",
+    "sale_date": "2023-01-12",
+    "quantity": 9,
+    "price": 665.52
+  },
+  {
+    "sale_id": 280,
+    "product_id": "Pbcca251f",
+    "sale_date": null,
+    "quantity": 6,
+    "price": 152.29
+  },
+  {
+    "sale_id": 281,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-06-01",
+    "quantity": 7,
+    "price": 911.94
+  },
+  {
+    "sale_id": 282,
+    "product_id": "P90df1385",
+    "sale_date": "2023-09-22",
+    "quantity": 2,
+    "price": 773.28
+  },
+  {
+    "sale_id": 283,
+    "product_id": "P037a1296",
+    "sale_date": "2023-10-12",
+    "quantity": 10,
+    "price": 69.31
+  },
+  {
+    "sale_id": 284,
+    "product_id": "P57eb39b7",
+    "sale_date": "2023-03-12",
+    "quantity": 10,
+    "price": 28.63
+  },
+  {
+    "sale_id": 285,
+    "product_id": "Pdd69eb63",
+    "sale_date": "2023-05-27",
+    "quantity": 6,
+    "price": 204.92
+  },
+  {
+    "sale_id": 286,
+    "product_id": "Pb29bd58e",
+    "sale_date": "2023-02-21",
+    "quantity": 10,
+    "price": 927.12
+  },
+  {
+    "sale_id": 287,
+    "product_id": "Pec5275bc",
+    "sale_date": "2023-09-19",
+    "quantity": 10,
+    "price": 394.78
+  },
+  {
+    "sale_id": 288,
+    "product_id": "P40fe6be2",
+    "sale_date": "2023-01-21",
+    "quantity": 4,
+    "price": 229.66
+  },
+  {
+    "sale_id": 289,
+    "product_id": "P3355fffe",
+    "sale_date": "2023-07-20",
+    "quantity": 1,
+    "price": 791.23
+  },
+  {
+    "sale_id": 290,
+    "product_id": "Pe8e2de1e",
+    "sale_date": "2023-07-31",
+    "quantity": 3,
+    "price": 273.52
+  },
+  {
+    "sale_id": 291,
+    "product_id": null,
+    "sale_date": "2023-03-24",
+    "quantity": 6,
+    "price": 15.52
+  },
+  {
+    "sale_id": 292,
+    "product_id": "P96170136",
+    "sale_date": "2023-02-28",
+    "quantity": 6,
+    "price": 272.46
+  },
+  {
+    "sale_id": 293,
+    "product_id": "Pa37c28b9",
+    "sale_date": "2023-11-01",
+    "quantity": 7,
+    "price": 67.04
+  },
+  {
+    "sale_id": 294,
+    "product_id": "P756738d4",
+    "sale_date": "2023-03-26",
+    "quantity": 6,
+    "price": 614.37
+  },
+  {
+    "sale_id": 295,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-09-04",
+    "quantity": 3,
+    "price": 223.1
+  },
+  {
+    "sale_id": 296,
+    "product_id": "P229b6e90",
+    "sale_date": "2023-04-13",
+    "quantity": 1,
+    "price": 867.47
+  },
+  {
+    "sale_id": 297,
+    "product_id": "P37b852b3",
+    "sale_date": "2023-07-10",
+    "quantity": 6,
+    "price": 527.17
+  },
+  {
+    "sale_id": 298,
+    "product_id": "P61888905",
+    "sale_date": "2023-07-26",
+    "quantity": 2,
+    "price": 141.57
+  },
+  {
+    "sale_id": 299,
+    "product_id": "P641ea97e",
+    "sale_date": "2023-06-02",
+    "quantity": 3,
+    "price": 27.05
+  },
+  {
+    "sale_id": 300,
+    "product_id": "Pc6c8744b",
+    "sale_date": "2023-10-13",
+    "quantity": 8,
+    "price": 138.64
+  },
+  {
+    "sale_id": 301,
+    "product_id": "P1795da75",
+    "sale_date": "2023-08-01",
+    "quantity": 6,
+    "price": 996.86
+  },
+  {
+    "sale_id": 302,
+    "product_id": "P30004008",
+    "sale_date": "2023-03-07",
+    "quantity": 5,
+    "price": 799.95
+  },
+  {
+    "sale_id": 303,
+    "product_id": "P3f50b02c",
+    "sale_date": "2023-04-22",
+    "quantity": 8,
+    "price": 490.85
+  },
+  {
+    "sale_id": 304,
+    "product_id": "Pdd69eb63",
+    "sale_date": "2023-08-10",
+    "quantity": 1,
+    "price": 204.92
+  },
+  {
+    "sale_id": 305,
+    "product_id": "Pd36dc6ee",
+    "sale_date": "2023-12-08",
+    "quantity": 6,
+    "price": 711.54
+  },
+  {
+    "sale_id": 306,
+    "product_id": "P60464576",
+    "sale_date": "2023-12-05",
+    "quantity": 4,
+    "price": 797.24
+  },
+  {
+    "sale_id": 307,
+    "product_id": "P3f50b02c",
+    "sale_date": "2023-05-02",
+    "quantity": 10,
+    "price": 490.85
+  },
+  {
+    "sale_id": 308,
+    "product_id": "P314f27ab",
+    "sale_date": "2023-07-15",
+    "quantity": 9,
+    "price": 362.16
+  },
+  {
+    "sale_id": 309,
+    "product_id": "Pdd69eb63",
+    "sale_date": "2023-07-03",
+    "quantity": 9,
+    "price": 204.92
+  },
+  {
+    "sale_id": 310,
+    "product_id": "P4ff925d8",
+    "sale_date": "2023-08-28",
+    "quantity": 8,
+    "price": 799.53
+  },
+  {
+    "sale_id": 311,
+    "product_id": null,
+    "sale_date": "2023-11-10",
+    "quantity": 4,
+    "price": 272.46
+  },
+  {
+    "sale_id": 312,
+    "product_id": "P314f27ab",
+    "sale_date": null,
+    "quantity": 3,
+    "price": 362.16
+  },
+  {
+    "sale_id": 313,
+    "product_id": "P6984f4b1",
+    "sale_date": "2023-11-12",
+    "quantity": 7,
+    "price": 717.75
+  },
+  {
+    "sale_id": 314,
+    "product_id": "Pbcca251f",
+    "sale_date": "2023-12-19",
+    "quantity": 7,
+    "price": 152.29
+  },
+  {
+    "sale_id": 315,
+    "product_id": "Pa894811e",
+    "sale_date": "2023-10-11",
+    "quantity": 4,
+    "price": 640.52
+  },
+  {
+    "sale_id": 316,
+    "product_id": "Pe8e2de1e",
+    "sale_date": "2023-02-26",
+    "quantity": 10,
+    "price": 273.52
+  },
+  {
+    "sale_id": 317,
+    "product_id": "P18e6512b",
+    "sale_date": null,
+    "quantity": 10,
+    "price": 845.15
+  },
+  {
+    "sale_id": 318,
+    "product_id": "P6b5a19f5",
+    "sale_date": "2023-10-02",
+    "quantity": 1,
+    "price": 873.33
+  },
+  {
+    "sale_id": 319,
+    "product_id": "P2742827a",
+    "sale_date": "2023-09-10",
+    "quantity": 6,
+    "price": 566.64
+  },
+  {
+    "sale_id": 320,
+    "product_id": null,
+    "sale_date": "2023-06-16",
+    "quantity": 7,
+    "price": 57.82
+  },
+  {
+    "sale_id": 321,
+    "product_id": "Pa31ceb3a",
+    "sale_date": "2023-08-11",
+    "quantity": 2,
+    "price": 57.82
+  },
+  {
+    "sale_id": 322,
+    "product_id": "Pf9504018",
+    "sale_date": "2023-06-05",
+    "quantity": 2,
+    "price": 227.37
+  },
+  {
+    "sale_id": 323,
+    "product_id": "P45832561",
+    "sale_date": "2023-03-06",
+    "quantity": 5,
+    "price": 148.85
+  },
+  {
+    "sale_id": 324,
+    "product_id": "Pf99a0002",
+    "sale_date": "2023-10-16",
+    "quantity": 5,
+    "price": 489.72
+  },
+  {
+    "sale_id": 325,
+    "product_id": "P7273646e",
+    "sale_date": "2023-04-27",
+    "quantity": 10,
+    "price": 770.66
+  },
+  {
+    "sale_id": 326,
+    "product_id": "P6e9fa7b1",
+    "sale_date": "2023-05-06",
+    "quantity": 4,
+    "price": 981.22
+  },
+  {
+    "sale_id": 327,
+    "product_id": "Pf54512a9",
+    "sale_date": "2023-02-19",
+    "quantity": 5,
+    "price": 989.61
+  },
+  {
+    "sale_id": 328,
+    "product_id": "Pf07cbe91",
+    "sale_date": "2023-06-17",
+    "quantity": 1,
+    "price": 189.18
+  },
+  {
+    "sale_id": 329,
+    "product_id": "Pd54c91b1",
+    "sale_date": "2023-05-14",
+    "quantity": 4,
+    "price": 237.1
+  },
+  {
+    "sale_id": 330,
+    "product_id": "P12338936",
+    "sale_date": "2023-07-04",
+    "quantity": 6,
+    "price": 575.3
+  },
+  {
+    "sale_id": 331,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-09-24",
+    "quantity": 3,
+    "price": 223.1
+  },
+  {
+    "sale_id": 332,
+    "product_id": "Pbd0a1129",
+    "sale_date": "2023-11-12",
+    "quantity": 1,
+    "price": 541.69
+  },
+  {
+    "sale_id": 333,
+    "product_id": "Pbbeead39",
+    "sale_date": "2023-05-11",
+    "quantity": 6,
+    "price": 478.18
+  },
+  {
+    "sale_id": 334,
+    "product_id": "Pe64f7aad",
+    "sale_date": "2023-10-05",
+    "quantity": 8,
+    "price": 963.6
+  },
+  {
+    "sale_id": 335,
+    "product_id": "P1795da75",
+    "sale_date": "2023-07-24",
+    "quantity": 2,
+    "price": 996.86
+  },
+  {
+    "sale_id": 336,
+    "product_id": "P75467b4a",
+    "sale_date": "2023-02-24",
+    "quantity": 10,
+    "price": 148.89
+  },
+  {
+    "sale_id": 337,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-10-30",
+    "quantity": 8,
+    "price": 950.56
+  },
+  {
+    "sale_id": 338,
+    "product_id": "Pa31ceb3a",
+    "sale_date": "2023-12-10",
+    "quantity": 1,
+    "price": 57.82
+  },
+  {
+    "sale_id": 339,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-11-01",
+    "quantity": 3,
+    "price": 672.41
+  },
+  {
+    "sale_id": 340,
+    "product_id": "Pc030509d",
+    "sale_date": "2023-11-27",
+    "quantity": 9,
+    "price": 544.84
+  },
+  {
+    "sale_id": 341,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-08-28",
+    "quantity": 2,
+    "price": 307.11
+  },
+  {
+    "sale_id": 342,
+    "product_id": "P18e6512b",
+    "sale_date": "2023-06-30",
+    "quantity": 10,
+    "price": 845.15
+  },
+  {
+    "sale_id": 343,
+    "product_id": "Pb92cf35b",
+    "sale_date": "2023-07-04",
+    "quantity": 10,
+    "price": 957.81
+  },
+  {
+    "sale_id": 344,
+    "product_id": "Pbcca251f",
+    "sale_date": "2023-03-12",
+    "quantity": 4,
+    "price": 152.29
+  },
+  {
+    "sale_id": 345,
+    "product_id": "P6f47d618",
+    "sale_date": "2023-07-08",
+    "quantity": 7,
+    "price": 855.83
+  },
+  {
+    "sale_id": 346,
+    "product_id": "Pcc8d8340",
+    "sale_date": "2023-02-20",
+    "quantity": 8,
+    "price": 127.41
+  },
+  {
+    "sale_id": 347,
+    "product_id": "P60464576",
+    "sale_date": "2023-10-23",
+    "quantity": 4,
+    "price": 797.24
+  },
+  {
+    "sale_id": 348,
+    "product_id": "P4ff925d8",
+    "sale_date": null,
+    "quantity": 9,
+    "price": 799.53
+  },
+  {
+    "sale_id": 349,
+    "product_id": "P4ff925d8",
+    "sale_date": "2023-04-04",
+    "quantity": 8,
+    "price": 799.53
+  },
+  {
+    "sale_id": 350,
+    "product_id": "P75467b4a",
+    "sale_date": "2023-03-12",
+    "quantity": 8,
+    "price": 148.89
+  },
+  {
+    "sale_id": 351,
+    "product_id": "P18f8f0b8",
+    "sale_date": "2023-01-18",
+    "quantity": 2,
+    "price": 196.7
+  },
+  {
+    "sale_id": 352,
+    "product_id": "P45832561",
+    "sale_date": "2023-10-02",
+    "quantity": 9,
+    "price": 148.85
+  },
+  {
+    "sale_id": 353,
+    "product_id": "Pd54c91b1",
+    "sale_date": "2023-06-05",
+    "quantity": 9,
+    "price": 237.1
+  },
+  {
+    "sale_id": 354,
+    "product_id": "P45832561",
+    "sale_date": "2023-05-10",
+    "quantity": 10,
+    "price": 148.85
+  },
+  {
+    "sale_id": 355,
+    "product_id": "P6b5a19f5",
+    "sale_date": "2023-01-11",
+    "quantity": 8,
+    "price": 873.33
+  },
+  {
+    "sale_id": 356,
+    "product_id": "P4b1f438a",
+    "sale_date": "2023-06-21",
+    "quantity": 4,
+    "price": 293.43
+  },
+  {
+    "sale_id": 357,
+    "product_id": "P37b852b3",
+    "sale_date": "2023-05-14",
+    "quantity": 8,
+    "price": 527.17
+  },
+  {
+    "sale_id": 358,
+    "product_id": "Pb3ad46f7",
+    "sale_date": "2023-05-04",
+    "quantity": 10,
+    "price": 484.78
+  },
+  {
+    "sale_id": 359,
+    "product_id": "Pd1b2bf92",
+    "sale_date": "2023-07-22",
+    "quantity": 6,
+    "price": 794.03
+  },
+  {
+    "sale_id": 360,
+    "product_id": "Pc030509d",
+    "sale_date": "2023-01-12",
+    "quantity": 6,
+    "price": 544.84
+  },
+  {
+    "sale_id": 361,
+    "product_id": "Pf54512a9",
+    "sale_date": "2023-07-25",
+    "quantity": 2,
+    "price": 989.61
+  },
+  {
+    "sale_id": 362,
+    "product_id": "Pf54512a9",
+    "sale_date": "2023-03-19",
+    "quantity": 2,
+    "price": 989.61
+  },
+  {
+    "sale_id": 363,
+    "product_id": "Pcb7d6b7c",
+    "sale_date": "2023-01-28",
+    "quantity": 1,
+    "price": 983.51
+  },
+  {
+    "sale_id": 364,
+    "product_id": "P4b7652f7",
+    "sale_date": "2023-09-11",
+    "quantity": 4,
+    "price": 684.41
+  },
+  {
+    "sale_id": 365,
+    "product_id": "Pf99a0002",
+    "sale_date": "2023-11-07",
+    "quantity": 6,
+    "price": 489.72
+  },
+  {
+    "sale_id": 366,
+    "product_id": null,
+    "sale_date": "2023-11-01",
+    "quantity": 9,
+    "price": 944.08
+  },
+  {
+    "sale_id": 367,
+    "product_id": "Pb92cf35b",
+    "sale_date": "2023-04-30",
+    "quantity": 3,
+    "price": 957.81
+  },
+  {
+    "sale_id": 368,
+    "product_id": "P60464576",
+    "sale_date": "2023-06-17",
+    "quantity": 4,
+    "price": 797.24
+  },
+  {
+    "sale_id": 369,
+    "product_id": "P37b852b3",
+    "sale_date": "2023-09-24",
+    "quantity": 9,
+    "price": 527.17
+  },
+  {
+    "sale_id": 370,
+    "product_id": "P75467b4a",
+    "sale_date": "2023-04-17",
+    "quantity": 5,
+    "price": 148.89
+  },
+  {
+    "sale_id": 371,
+    "product_id": "P66d770db",
+    "sale_date": "2023-08-09",
+    "quantity": 8,
+    "price": 382.75
+  },
+  {
+    "sale_id": 372,
+    "product_id": "P75467b4a",
+    "sale_date": "2023-05-31",
+    "quantity": 1,
+    "price": 148.89
+  },
+  {
+    "sale_id": 373,
+    "product_id": "Pbe5f88eb",
+    "sale_date": "2023-05-12",
+    "quantity": 7,
+    "price": 443.06
+  },
+  {
+    "sale_id": 374,
+    "product_id": "P7273646e",
+    "sale_date": "2023-03-13",
+    "quantity": 3,
+    "price": 770.66
+  },
+  {
+    "sale_id": 375,
+    "product_id": "P6f47d618",
+    "sale_date": "2023-08-07",
+    "quantity": 5,
+    "price": 855.83
+  },
+  {
+    "sale_id": 376,
+    "product_id": "P4b7652f7",
+    "sale_date": "2023-04-13",
+    "quantity": 6,
+    "price": 684.41
+  },
+  {
+    "sale_id": 377,
+    "product_id": "Pf9504018",
+    "sale_date": "2023-12-07",
+    "quantity": 10,
+    "price": 227.37
+  },
+  {
+    "sale_id": 378,
+    "product_id": "Pbc516115",
+    "sale_date": "2023-06-22",
+    "quantity": 8,
+    "price": 320.79
+  },
+  {
+    "sale_id": 379,
+    "product_id": "P756738d4",
+    "sale_date": "2023-09-23",
+    "quantity": 4,
+    "price": 614.37
+  },
+  {
+    "sale_id": 380,
+    "product_id": "P22a3350b",
+    "sale_date": "2023-11-02",
+    "quantity": 2,
+    "price": 988.67
+  },
+  {
+    "sale_id": 381,
+    "product_id": null,
+    "sale_date": "2023-12-11",
+    "quantity": 5,
+    "price": 67.04
+  },
+  {
+    "sale_id": 382,
+    "product_id": "P6eaf0059",
+    "sale_date": "2023-07-16",
+    "quantity": 8,
+    "price": 379.3
+  },
+  {
+    "sale_id": 383,
+    "product_id": "P305f5a9a",
+    "sale_date": "2023-08-05",
+    "quantity": 7,
+    "price": 746.39
+  },
+  {
+    "sale_id": 384,
+    "product_id": "P6b5a19f5",
+    "sale_date": "2023-02-06",
+    "quantity": 8,
+    "price": 873.33
+  },
+  {
+    "sale_id": 385,
+    "product_id": "P8d72fba3",
+    "sale_date": "2023-03-10",
+    "quantity": 6,
+    "price": 611.73
+  },
+  {
+    "sale_id": 386,
+    "product_id": "P353df400",
+    "sale_date": "2023-12-21",
+    "quantity": 6,
+    "price": 386.17
+  },
+  {
+    "sale_id": 387,
+    "product_id": "P4b7652f7",
+    "sale_date": "2023-04-18",
+    "quantity": 2,
+    "price": 684.41
+  },
+  {
+    "sale_id": 388,
+    "product_id": "P7273646e",
+    "sale_date": "2023-09-10",
+    "quantity": 3,
+    "price": 770.66
+  },
+  {
+    "sale_id": 389,
+    "product_id": "Pa67e2d7f",
+    "sale_date": "2023-07-09",
+    "quantity": 9,
+    "price": 127.15
+  },
+  {
+    "sale_id": 390,
+    "product_id": "Pa894811e",
+    "sale_date": "2023-05-11",
+    "quantity": 2,
+    "price": 640.52
+  },
+  {
+    "sale_id": 391,
+    "product_id": "Pe8e2de1e",
+    "sale_date": null,
+    "quantity": 6,
+    "price": 273.52
+  },
+  {
+    "sale_id": 392,
+    "product_id": "Pa37c28b9",
+    "sale_date": "2023-09-11",
+    "quantity": 6,
+    "price": 67.04
+  },
+  {
+    "sale_id": 393,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-07-20",
+    "quantity": 3,
+    "price": 418.73
+  },
+  {
+    "sale_id": 394,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-09-12",
+    "quantity": 8,
+    "price": 950.56
+  },
+  {
+    "sale_id": 395,
+    "product_id": "P305f5a9a",
+    "sale_date": "2023-04-10",
+    "quantity": 1,
+    "price": 746.39
+  },
+  {
+    "sale_id": 396,
+    "product_id": "Pb90294ac",
+    "sale_date": "2023-12-25",
+    "quantity": 5,
+    "price": 196.83
+  },
+  {
+    "sale_id": 397,
+    "product_id": "Pbc516115",
+    "sale_date": "2023-08-07",
+    "quantity": 10,
+    "price": 320.79
+  },
+  {
+    "sale_id": 398,
+    "product_id": "Pa894811e",
+    "sale_date": "2023-02-27",
+    "quantity": 9,
+    "price": 640.52
+  },
+  {
+    "sale_id": 399,
+    "product_id": "Pc1a313e5",
+    "sale_date": "2023-02-25",
+    "quantity": 6,
+    "price": 880.15
+  },
+  {
+    "sale_id": 400,
+    "product_id": "P314f27ab",
+    "sale_date": "2023-05-28",
+    "quantity": 4,
+    "price": 362.16
+  },
+  {
+    "sale_id": 401,
+    "product_id": "Pb1944667",
+    "sale_date": null,
+    "quantity": 4,
+    "price": 418.73
+  },
+  {
+    "sale_id": 402,
+    "product_id": "Pd54c91b1",
+    "sale_date": "2023-08-26",
+    "quantity": 4,
+    "price": 237.1
+  },
+  {
+    "sale_id": 403,
+    "product_id": "P2742827a",
+    "sale_date": "2023-04-26",
+    "quantity": 3,
+    "price": 566.64
+  },
+  {
+    "sale_id": 404,
+    "product_id": "Pbd0a1129",
+    "sale_date": "2023-04-11",
+    "quantity": 2,
+    "price": 541.69
+  },
+  {
+    "sale_id": 405,
+    "product_id": "P81e0c9cf",
+    "sale_date": "2023-05-25",
+    "quantity": 9,
+    "price": 773.86
+  },
+  {
+    "sale_id": 406,
+    "product_id": "P61888905",
+    "sale_date": "2023-07-25",
+    "quantity": 3,
+    "price": 141.57
+  },
+  {
+    "sale_id": 407,
+    "product_id": "P037a1296",
+    "sale_date": "2023-05-07",
+    "quantity": 9,
+    "price": 69.31
+  },
+  {
+    "sale_id": 408,
+    "product_id": "P30004008",
+    "sale_date": "2023-07-16",
+    "quantity": 10,
+    "price": 799.95
+  },
+  {
+    "sale_id": 409,
+    "product_id": "Pcc8d8340",
+    "sale_date": "2023-06-01",
+    "quantity": 9,
+    "price": 127.41
+  },
+  {
+    "sale_id": 410,
+    "product_id": "Pb92cf35b",
+    "sale_date": "2023-09-10",
+    "quantity": 8,
+    "price": 957.81
+  },
+  {
+    "sale_id": 411,
+    "product_id": "P314f27ab",
+    "sale_date": "2023-03-27",
+    "quantity": 10,
+    "price": 362.16
+  },
+  {
+    "sale_id": 412,
+    "product_id": "Pe4451aad",
+    "sale_date": "2023-11-29",
+    "quantity": 8,
+    "price": 753.36
+  },
+  {
+    "sale_id": 413,
+    "product_id": "P641ea97e",
+    "sale_date": "2023-08-15",
+    "quantity": 10,
+    "price": 27.05
+  },
+  {
+    "sale_id": 414,
+    "product_id": "P90df1385",
+    "sale_date": "2023-01-13",
+    "quantity": 6,
+    "price": 773.28
+  },
+  {
+    "sale_id": 415,
+    "product_id": "P5d2aa999",
+    "sale_date": "2023-12-17",
+    "quantity": 2,
+    "price": 489.04
+  },
+  {
+    "sale_id": 416,
+    "product_id": "P1795da75",
+    "sale_date": "2023-06-10",
+    "quantity": 4,
+    "price": 996.86
+  },
+  {
+    "sale_id": 417,
+    "product_id": "Pbc516115",
+    "sale_date": "2023-07-22",
+    "quantity": 6,
+    "price": 320.79
+  },
+  {
+    "sale_id": 418,
+    "product_id": "P18f8f0b8",
+    "sale_date": "2023-10-04",
+    "quantity": 3,
+    "price": 196.7
+  },
+  {
+    "sale_id": 419,
+    "product_id": "Pec5275bc",
+    "sale_date": "2023-05-21",
+    "quantity": 5,
+    "price": 394.78
+  },
+  {
+    "sale_id": 420,
+    "product_id": "P23c258c9",
+    "sale_date": "2023-04-28",
+    "quantity": 7,
+    "price": 142.04
+  },
+  {
+    "sale_id": 421,
+    "product_id": "P3355fffe",
+    "sale_date": "2023-06-21",
+    "quantity": 10,
+    "price": 791.23
+  },
+  {
+    "sale_id": 422,
+    "product_id": null,
+    "sale_date": "2023-02-24",
+    "quantity": 3,
+    "price": 760.15
+  },
+  {
+    "sale_id": 423,
+    "product_id": "Pf54512a9",
+    "sale_date": "2023-05-09",
+    "quantity": 3,
+    "price": 989.61
+  },
+  {
+    "sale_id": 424,
+    "product_id": "P4b7652f7",
+    "sale_date": "2023-06-06",
+    "quantity": 7,
+    "price": 684.41
+  },
+  {
+    "sale_id": 425,
+    "product_id": null,
+    "sale_date": "2023-06-29",
+    "quantity": 4,
+    "price": 880.15
+  },
+  {
+    "sale_id": 426,
+    "product_id": null,
+    "sale_date": "2023-03-13",
+    "quantity": 3,
+    "price": 921.93
+  },
+  {
+    "sale_id": 427,
+    "product_id": "P60464576",
+    "sale_date": "2023-05-10",
+    "quantity": 3,
+    "price": 797.24
+  },
+  {
+    "sale_id": 428,
+    "product_id": "P229b6e90",
+    "sale_date": "2023-05-25",
+    "quantity": 8,
+    "price": 867.47
+  },
+  {
+    "sale_id": 429,
+    "product_id": "Pd45bc8b6",
+    "sale_date": "2023-02-19",
+    "quantity": 10,
+    "price": 609.69
+  },
+  {
+    "sale_id": 430,
+    "product_id": "P4b7652f7",
+    "sale_date": "2023-12-15",
+    "quantity": 1,
+    "price": 684.41
+  },
+  {
+    "sale_id": 431,
+    "product_id": "Pc0bca51b",
+    "sale_date": "2023-09-14",
+    "quantity": 7,
+    "price": 605.58
+  },
+  {
+    "sale_id": 432,
+    "product_id": "Pe64f7aad",
+    "sale_date": "2023-08-29",
+    "quantity": 3,
+    "price": 963.6
+  },
+  {
+    "sale_id": 433,
+    "product_id": "Pa67e2d7f",
+    "sale_date": "2023-11-28",
+    "quantity": 5,
+    "price": 127.15
+  },
+  {
+    "sale_id": 434,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-02-25",
+    "quantity": 9,
+    "price": 307.11
+  },
+  {
+    "sale_id": 435,
+    "product_id": "P3e2df371",
+    "sale_date": "2023-05-08",
+    "quantity": 4,
+    "price": 430.05
+  },
+  {
+    "sale_id": 436,
+    "product_id": "P51e0297b",
+    "sale_date": "2023-10-09",
+    "quantity": 6,
+    "price": 947.48
+  },
+  {
+    "sale_id": 437,
+    "product_id": "P13cd8b1b",
+    "sale_date": "2023-01-24",
+    "quantity": 9,
+    "price": 657.03
+  },
+  {
+    "sale_id": 438,
+    "product_id": "P12cc8a9e",
+    "sale_date": "2023-11-11",
+    "quantity": 5,
+    "price": 633.8
+  },
+  {
+    "sale_id": 439,
+    "product_id": "P353df400",
+    "sale_date": "2023-10-28",
+    "quantity": 1,
+    "price": 386.17
+  },
+  {
+    "sale_id": 440,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-05-13",
+    "quantity": 3,
+    "price": 418.73
+  },
+  {
+    "sale_id": 441,
+    "product_id": "P90df1385",
+    "sale_date": "2023-09-19",
+    "quantity": 8,
+    "price": 773.28
+  },
+  {
+    "sale_id": 442,
+    "product_id": "P23c258c9",
+    "sale_date": "2023-08-11",
+    "quantity": 9,
+    "price": 142.04
+  },
+  {
+    "sale_id": 443,
+    "product_id": "Pbc516115",
+    "sale_date": "2023-09-21",
+    "quantity": 3,
+    "price": 320.79
+  },
+  {
+    "sale_id": 444,
+    "product_id": null,
+    "sale_date": "2023-11-01",
+    "quantity": 7,
+    "price": 760.15
+  },
+  {
+    "sale_id": 445,
+    "product_id": "Pbc91b309",
+    "sale_date": "2023-01-10",
+    "quantity": 3,
+    "price": 501.55
+  },
+  {
+    "sale_id": 446,
+    "product_id": null,
+    "sale_date": "2023-06-08",
+    "quantity": 2,
+    "price": 227.37
+  },
+  {
+    "sale_id": 447,
+    "product_id": "P037a1296",
+    "sale_date": "2023-06-12",
+    "quantity": 6,
+    "price": 69.31
+  },
+  {
+    "sale_id": 448,
+    "product_id": "P6e9fa7b1",
+    "sale_date": "2023-11-14",
+    "quantity": 8,
+    "price": 981.22
+  },
+  {
+    "sale_id": 449,
+    "product_id": "P6984f4b1",
+    "sale_date": "2023-06-07",
+    "quantity": 9,
+    "price": 717.75
+  },
+  {
+    "sale_id": 450,
+    "product_id": "Pa31ceb3a",
+    "sale_date": "2023-12-14",
+    "quantity": 4,
+    "price": 57.82
+  },
+  {
+    "sale_id": 451,
+    "product_id": "P61888905",
+    "sale_date": "2023-04-28",
+    "quantity": 7,
+    "price": 141.57
+  },
+  {
+    "sale_id": 452,
+    "product_id": "Pc1a313e5",
+    "sale_date": "2023-09-28",
+    "quantity": 4,
+    "price": 880.15
+  },
+  {
+    "sale_id": 453,
+    "product_id": "P8e74e074",
+    "sale_date": "2023-07-07",
+    "quantity": 8,
+    "price": 760.15
+  },
+  {
+    "sale_id": 454,
+    "product_id": "P5b5ceadd",
+    "sale_date": "2023-03-30",
+    "quantity": 7,
+    "price": 44.27
+  },
+  {
+    "sale_id": 455,
+    "product_id": null,
+    "sale_date": "2023-10-29",
+    "quantity": 6,
+    "price": 189.18
+  },
+  {
+    "sale_id": 456,
+    "product_id": "P75467b4a",
+    "sale_date": "2023-08-13",
+    "quantity": 3,
+    "price": 148.89
+  },
+  {
+    "sale_id": 457,
+    "product_id": "P6b5a19f5",
+    "sale_date": "2023-12-26",
+    "quantity": 2,
+    "price": 873.33
+  },
+  {
+    "sale_id": 458,
+    "product_id": "P5f05bcde",
+    "sale_date": "2023-06-26",
+    "quantity": 7,
+    "price": 328.14
+  },
+  {
+    "sale_id": 459,
+    "product_id": "P229b6e90",
+    "sale_date": "2023-07-31",
+    "quantity": 2,
+    "price": 867.47
+  },
+  {
+    "sale_id": 460,
+    "product_id": "P7491bf62",
+    "sale_date": "2023-10-04",
+    "quantity": 8,
+    "price": 665.52
+  },
+  {
+    "sale_id": 461,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-05-28",
+    "quantity": 3,
+    "price": 418.73
+  },
+  {
+    "sale_id": 462,
+    "product_id": "P6b5a19f5",
+    "sale_date": "2023-09-22",
+    "quantity": 3,
+    "price": 873.33
+  },
+  {
+    "sale_id": 463,
+    "product_id": null,
+    "sale_date": "2023-02-12",
+    "quantity": 1,
+    "price": 989.61
+  },
+  {
+    "sale_id": 464,
+    "product_id": null,
+    "sale_date": "2023-03-17",
+    "quantity": 5,
+    "price": 794.03
+  },
+  {
+    "sale_id": 465,
+    "product_id": "P66d770db",
+    "sale_date": "2023-08-02",
+    "quantity": 10,
+    "price": 382.75
+  },
+  {
+    "sale_id": 466,
+    "product_id": "Pbc91b309",
+    "sale_date": "2023-05-17",
+    "quantity": 10,
+    "price": 501.55
+  },
+  {
+    "sale_id": 467,
+    "product_id": "Pcc8d8340",
+    "sale_date": "2023-05-24",
+    "quantity": 1,
+    "price": 127.41
+  },
+  {
+    "sale_id": 468,
+    "product_id": null,
+    "sale_date": "2023-08-09",
+    "quantity": 3,
+    "price": 996.86
+  },
+  {
+    "sale_id": 469,
+    "product_id": "Pe4451aad",
+    "sale_date": "2023-09-09",
+    "quantity": 9,
+    "price": 753.36
+  },
+  {
+    "sale_id": 470,
+    "product_id": "Pc030509d",
+    "sale_date": "2023-04-14",
+    "quantity": 2,
+    "price": 544.84
+  },
+  {
+    "sale_id": 471,
+    "product_id": "Pb29bd58e",
+    "sale_date": "2023-05-03",
+    "quantity": 8,
+    "price": 927.12
+  },
+  {
+    "sale_id": 472,
+    "product_id": "Pcb7d6b7c",
+    "sale_date": "2023-09-17",
+    "quantity": 10,
+    "price": 983.51
+  },
+  {
+    "sale_id": 473,
+    "product_id": "Pd45bc8b6",
+    "sale_date": "2023-12-02",
+    "quantity": 6,
+    "price": 609.69
+  },
+  {
+    "sale_id": 474,
+    "product_id": "P2742827a",
+    "sale_date": "2023-12-06",
+    "quantity": 4,
+    "price": 566.64
+  },
+  {
+    "sale_id": 475,
+    "product_id": "Pe5ae5456",
+    "sale_date": null,
+    "quantity": 1,
+    "price": 665.79
+  },
+  {
+    "sale_id": 476,
+    "product_id": "P7273646e",
+    "sale_date": "2023-12-21",
+    "quantity": 6,
+    "price": 770.66
+  },
+  {
+    "sale_id": 477,
+    "product_id": "P5e6fdb01",
+    "sale_date": "2023-12-11",
+    "quantity": 6,
+    "price": 758.41
+  },
+  {
+    "sale_id": 478,
+    "product_id": "Pc030509d",
+    "sale_date": "2023-07-06",
+    "quantity": 10,
+    "price": 544.84
+  },
+  {
+    "sale_id": 479,
+    "product_id": "Pbc91b309",
+    "sale_date": "2023-03-21",
+    "quantity": 10,
+    "price": 501.55
+  },
+  {
+    "sale_id": 480,
+    "product_id": "P7273646e",
+    "sale_date": null,
+    "quantity": 2,
+    "price": 770.66
+  },
+  {
+    "sale_id": 481,
+    "product_id": null,
+    "sale_date": "2023-07-10",
+    "quantity": 6,
+    "price": 873.33
+  },
+  {
+    "sale_id": 482,
+    "product_id": "P4b1f438a",
+    "sale_date": "2023-09-22",
+    "quantity": 8,
+    "price": 293.43
+  },
+  {
+    "sale_id": 483,
+    "product_id": "Pd145ff69",
+    "sale_date": "2023-03-03",
+    "quantity": 7,
+    "price": 811.45
+  },
+  {
+    "sale_id": 484,
+    "product_id": "P641ea97e",
+    "sale_date": "2023-08-20",
+    "quantity": 6,
+    "price": 27.05
+  },
+  {
+    "sale_id": 485,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-01-01",
+    "quantity": 9,
+    "price": 307.11
+  },
+  {
+    "sale_id": 486,
+    "product_id": "P61888905",
+    "sale_date": "2023-05-10",
+    "quantity": 5,
+    "price": 141.57
+  },
+  {
+    "sale_id": 487,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-03-19",
+    "quantity": 5,
+    "price": 911.94
+  },
+  {
+    "sale_id": 488,
+    "product_id": "P96170136",
+    "sale_date": "2023-01-11",
+    "quantity": 5,
+    "price": 272.46
+  },
+  {
+    "sale_id": 489,
+    "product_id": "Pec5275bc",
+    "sale_date": "2023-07-18",
+    "quantity": 10,
+    "price": 394.78
+  },
+  {
+    "sale_id": 490,
+    "product_id": null,
+    "sale_date": "2023-12-12",
+    "quantity": 3,
+    "price": 430.05
+  },
+  {
+    "sale_id": 491,
+    "product_id": "P6e9fa7b1",
+    "sale_date": null,
+    "quantity": 9,
+    "price": 981.22
+  },
+  {
+    "sale_id": 492,
+    "product_id": "P3355fffe",
+    "sale_date": "2023-02-02",
+    "quantity": 8,
+    "price": 791.23
+  },
+  {
+    "sale_id": 493,
+    "product_id": "P314f27ab",
+    "sale_date": "2023-02-21",
+    "quantity": 6,
+    "price": 362.16
+  },
+  {
+    "sale_id": 494,
+    "product_id": "Pcb7d6b7c",
+    "sale_date": "2023-09-19",
+    "quantity": 8,
+    "price": 983.51
+  },
+  {
+    "sale_id": 495,
+    "product_id": "Pd45bc8b6",
+    "sale_date": "2023-03-11",
+    "quantity": 8,
+    "price": 609.69
+  },
+  {
+    "sale_id": 496,
+    "product_id": "Pbcca251f",
+    "sale_date": "2023-06-09",
+    "quantity": 6,
+    "price": 152.29
+  },
+  {
+    "sale_id": 497,
+    "product_id": "Pd145ff69",
+    "sale_date": "2023-10-18",
+    "quantity": 8,
+    "price": 811.45
+  },
+  {
+    "sale_id": 498,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-10-21",
+    "quantity": 10,
+    "price": 911.94
+  },
+  {
+    "sale_id": 499,
+    "product_id": "Pbe5f88eb",
+    "sale_date": "2023-06-18",
+    "quantity": 6,
+    "price": 443.06
+  },
+  {
+    "sale_id": 500,
+    "product_id": "P305f5a9a",
+    "sale_date": "2023-05-21",
+    "quantity": 2,
+    "price": 746.39
+  },
+  {
+    "sale_id": 501,
+    "product_id": "P6f47d618",
+    "sale_date": "2023-10-08",
+    "quantity": 10,
+    "price": 855.83
+  },
+  {
+    "sale_id": 502,
+    "product_id": "Pec5275bc",
+    "sale_date": "2023-03-07",
+    "quantity": 2,
+    "price": 394.78
+  },
+  {
+    "sale_id": 503,
+    "product_id": "P4ff925d8",
+    "sale_date": null,
+    "quantity": 4,
+    "price": 799.53
+  },
+  {
+    "sale_id": 504,
+    "product_id": "P8d72fba3",
+    "sale_date": "2023-11-19",
+    "quantity": 8,
+    "price": 611.73
+  },
+  {
+    "sale_id": 505,
+    "product_id": "Pe4451aad",
+    "sale_date": "2023-09-12",
+    "quantity": 1,
+    "price": 753.36
+  },
+  {
+    "sale_id": 506,
+    "product_id": "Pa894811e",
+    "sale_date": "2023-03-24",
+    "quantity": 6,
+    "price": 640.52
+  },
+  {
+    "sale_id": 507,
+    "product_id": null,
+    "sale_date": "2023-10-27",
+    "quantity": 7,
+    "price": 430.05
+  },
+  {
+    "sale_id": 508,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-09-29",
+    "quantity": 2,
+    "price": 418.73
+  },
+  {
+    "sale_id": 509,
+    "product_id": "P4b1f438a",
+    "sale_date": "2023-12-14",
+    "quantity": 6,
+    "price": 293.43
+  },
+  {
+    "sale_id": 510,
+    "product_id": "P353df400",
+    "sale_date": "2023-08-21",
+    "quantity": 10,
+    "price": 386.17
+  },
+  {
+    "sale_id": 511,
+    "product_id": "Pc0bca51b",
+    "sale_date": "2023-02-18",
+    "quantity": 1,
+    "price": 605.58
+  },
+  {
+    "sale_id": 512,
+    "product_id": "Pb90294ac",
+    "sale_date": "2023-06-01",
+    "quantity": 2,
+    "price": 196.83
+  },
+  {
+    "sale_id": 513,
+    "product_id": "P13cd8b1b",
+    "sale_date": "2023-05-27",
+    "quantity": 9,
+    "price": 657.03
+  },
+  {
+    "sale_id": 514,
+    "product_id": "Pf07cbe91",
+    "sale_date": null,
+    "quantity": 10,
+    "price": 189.18
+  },
+  {
+    "sale_id": 515,
+    "product_id": "Pb955ab77",
+    "sale_date": "2023-10-07",
+    "quantity": 9,
+    "price": 944.08
+  },
+  {
+    "sale_id": 516,
+    "product_id": "P7132e903",
+    "sale_date": "2023-03-12",
+    "quantity": 7,
+    "price": 609.92
+  },
+  {
+    "sale_id": 517,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-07-17",
+    "quantity": 4,
+    "price": 950.56
+  },
+  {
+    "sale_id": 518,
+    "product_id": "P5e6fdb01",
+    "sale_date": "2023-11-30",
+    "quantity": 3,
+    "price": 758.41
+  },
+  {
+    "sale_id": 519,
+    "product_id": "P6b5a19f5",
+    "sale_date": "2023-07-28",
+    "quantity": 4,
+    "price": 873.33
+  },
+  {
+    "sale_id": 520,
+    "product_id": "P6984f4b1",
+    "sale_date": "2023-02-09",
+    "quantity": 1,
+    "price": 717.75
+  },
+  {
+    "sale_id": 521,
+    "product_id": "P6eaf0059",
+    "sale_date": "2023-11-18",
+    "quantity": 6,
+    "price": 379.3
+  },
+  {
+    "sale_id": 522,
+    "product_id": "P60464576",
+    "sale_date": "2023-08-03",
+    "quantity": 1,
+    "price": 797.24
+  },
+  {
+    "sale_id": 523,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-06-10",
+    "quantity": 2,
+    "price": 672.41
+  },
+  {
+    "sale_id": 524,
+    "product_id": "P641ea97e",
+    "sale_date": "2023-04-30",
+    "quantity": 1,
+    "price": 27.05
+  },
+  {
+    "sale_id": 525,
+    "product_id": "P5b5ceadd",
+    "sale_date": "2023-07-25",
+    "quantity": 8,
+    "price": 44.27
+  },
+  {
+    "sale_id": 526,
+    "product_id": "P6d2ebd51",
+    "sale_date": "2023-11-12",
+    "quantity": 8,
+    "price": 921.93
+  },
+  {
+    "sale_id": 527,
+    "product_id": "Pd145ff69",
+    "sale_date": "2023-12-04",
+    "quantity": 7,
+    "price": 811.45
+  },
+  {
+    "sale_id": 528,
+    "product_id": "P353df400",
+    "sale_date": "2023-07-01",
+    "quantity": 5,
+    "price": 386.17
+  },
+  {
+    "sale_id": 529,
+    "product_id": "P90df1385",
+    "sale_date": null,
+    "quantity": 3,
+    "price": 773.28
+  },
+  {
+    "sale_id": 530,
+    "product_id": "P6eaf0059",
+    "sale_date": "2023-12-24",
+    "quantity": 10,
+    "price": 379.3
+  },
+  {
+    "sale_id": 531,
+    "product_id": "P5d2aa999",
+    "sale_date": "2023-07-02",
+    "quantity": 5,
+    "price": 489.04
+  },
+  {
+    "sale_id": 532,
+    "product_id": null,
+    "sale_date": "2023-06-07",
+    "quantity": 10,
+    "price": 640.52
+  },
+  {
+    "sale_id": 533,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-01-29",
+    "quantity": 8,
+    "price": 672.41
+  },
+  {
+    "sale_id": 534,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-08-10",
+    "quantity": 3,
+    "price": 307.11
+  },
+  {
+    "sale_id": 535,
+    "product_id": "Pbc91b309",
+    "sale_date": "2023-10-12",
+    "quantity": 7,
+    "price": 501.55
+  },
+  {
+    "sale_id": 536,
+    "product_id": "P0e36ec5f",
+    "sale_date": "2023-11-20",
+    "quantity": 10,
+    "price": 625.26
+  },
+  {
+    "sale_id": 537,
+    "product_id": "P7273646e",
+    "sale_date": "2023-10-13",
+    "quantity": 5,
+    "price": 770.66
+  },
+  {
+    "sale_id": 538,
+    "product_id": "P57eb39b7",
+    "sale_date": null,
+    "quantity": 7,
+    "price": 28.63
+  },
+  {
+    "sale_id": 539,
+    "product_id": "P61888905",
+    "sale_date": "2023-10-24",
+    "quantity": 5,
+    "price": 141.57
+  },
+  {
+    "sale_id": 540,
+    "product_id": "P0bae7a2a",
+    "sale_date": "2023-06-04",
+    "quantity": 9,
+    "price": 868.34
+  },
+  {
+    "sale_id": 541,
+    "product_id": "P90df1385",
+    "sale_date": "2023-08-07",
+    "quantity": 8,
+    "price": 773.28
+  },
+  {
+    "sale_id": 542,
+    "product_id": "P4ff925d8",
+    "sale_date": "2023-03-08",
+    "quantity": 9,
+    "price": 799.53
+  },
+  {
+    "sale_id": 543,
+    "product_id": "Pf9dc4bf0",
+    "sale_date": null,
+    "quantity": 5,
+    "price": 576.81
+  },
+  {
+    "sale_id": 544,
+    "product_id": "Pbd0a1129",
+    "sale_date": null,
+    "quantity": 1,
+    "price": 541.69
+  },
+  {
+    "sale_id": 545,
+    "product_id": "P1795da75",
+    "sale_date": "2023-08-04",
+    "quantity": 1,
+    "price": 996.86
+  },
+  {
+    "sale_id": 546,
+    "product_id": "P531b27ca",
+    "sale_date": null,
+    "quantity": 7,
+    "price": 950.56
+  },
+  {
+    "sale_id": 547,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-05-17",
+    "quantity": 4,
+    "price": 223.1
+  },
+  {
+    "sale_id": 548,
+    "product_id": "P22a3350b",
+    "sale_date": "2023-08-30",
+    "quantity": 1,
+    "price": 988.67
+  },
+  {
+    "sale_id": 549,
+    "product_id": "Pcc8d8340",
+    "sale_date": "2023-03-05",
+    "quantity": 3,
+    "price": 127.41
+  },
+  {
+    "sale_id": 550,
+    "product_id": "Pf9dc4bf0",
+    "sale_date": "2023-03-04",
+    "quantity": 7,
+    "price": 576.81
+  },
+  {
+    "sale_id": 551,
+    "product_id": "P6eaf0059",
+    "sale_date": "2023-10-01",
+    "quantity": 1,
+    "price": 379.3
+  },
+  {
+    "sale_id": 552,
+    "product_id": "Pa31ceb3a",
+    "sale_date": "2023-07-18",
+    "quantity": 6,
+    "price": 57.82
+  },
+  {
+    "sale_id": 553,
+    "product_id": "P23c258c9",
+    "sale_date": "2023-08-20",
+    "quantity": 5,
+    "price": 142.04
+  },
+  {
+    "sale_id": 554,
+    "product_id": "P6eaf0059",
+    "sale_date": "2023-04-29",
+    "quantity": 7,
+    "price": 379.3
+  },
+  {
+    "sale_id": 555,
+    "product_id": "P3f50b02c",
+    "sale_date": "2023-04-16",
+    "quantity": 4,
+    "price": 490.85
+  },
+  {
+    "sale_id": 556,
+    "product_id": "Pd36dc6ee",
+    "sale_date": "2023-10-11",
+    "quantity": 7,
+    "price": 711.54
+  },
+  {
+    "sale_id": 557,
+    "product_id": "P0e36ec5f",
+    "sale_date": "2023-11-12",
+    "quantity": 3,
+    "price": 625.26
+  },
+  {
+    "sale_id": 558,
+    "product_id": "P18e6512b",
+    "sale_date": "2023-05-09",
+    "quantity": 4,
+    "price": 845.15
+  },
+  {
+    "sale_id": 559,
+    "product_id": "P6eaf0059",
+    "sale_date": "2023-08-20",
+    "quantity": 7,
+    "price": 379.3
+  },
+  {
+    "sale_id": 560,
+    "product_id": "Pb3ad46f7",
+    "sale_date": "2023-06-17",
+    "quantity": 2,
+    "price": 484.78
+  },
+  {
+    "sale_id": 561,
+    "product_id": "P8e74e074",
+    "sale_date": "2023-02-15",
+    "quantity": 4,
+    "price": 760.15
+  },
+  {
+    "sale_id": 562,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-04-28",
+    "quantity": 9,
+    "price": 418.73
+  },
+  {
+    "sale_id": 563,
+    "product_id": "Pa894811e",
+    "sale_date": "2023-09-08",
+    "quantity": 8,
+    "price": 640.52
+  },
+  {
+    "sale_id": 564,
+    "product_id": "Pf9504018",
+    "sale_date": "2023-03-13",
+    "quantity": 1,
+    "price": 227.37
+  },
+  {
+    "sale_id": 565,
+    "product_id": "Pc6c8744b",
+    "sale_date": "2023-11-16",
+    "quantity": 5,
+    "price": 138.64
+  },
+  {
+    "sale_id": 566,
+    "product_id": "P6844351c",
+    "sale_date": "2023-06-16",
+    "quantity": 6,
+    "price": 638.15
+  },
+  {
+    "sale_id": 567,
+    "product_id": "Pc030509d",
+    "sale_date": "2023-02-08",
+    "quantity": 9,
+    "price": 544.84
+  },
+  {
+    "sale_id": 568,
+    "product_id": "P6844351c",
+    "sale_date": "2023-01-16",
+    "quantity": 5,
+    "price": 638.15
+  },
+  {
+    "sale_id": 569,
+    "product_id": "P6b5a19f5",
+    "sale_date": null,
+    "quantity": 10,
+    "price": 873.33
+  },
+  {
+    "sale_id": 570,
+    "product_id": "Pf6dd51df",
+    "sale_date": "2023-01-07",
+    "quantity": 1,
+    "price": 262.77
+  },
+  {
+    "sale_id": 571,
+    "product_id": "Pd45bc8b6",
+    "sale_date": "2023-02-04",
+    "quantity": 3,
+    "price": 609.69
+  },
+  {
+    "sale_id": 572,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-04-12",
+    "quantity": 1,
+    "price": 672.41
+  },
+  {
+    "sale_id": 573,
+    "product_id": "P23c258c9",
+    "sale_date": "2023-04-02",
+    "quantity": 3,
+    "price": 142.04
+  },
+  {
+    "sale_id": 574,
+    "product_id": "Pf6dd51df",
+    "sale_date": "2023-06-28",
+    "quantity": 4,
+    "price": 262.77
+  },
+  {
+    "sale_id": 575,
+    "product_id": "P305f5a9a",
+    "sale_date": "2023-06-25",
+    "quantity": 9,
+    "price": 746.39
+  },
+  {
+    "sale_id": 576,
+    "product_id": "Pd22247b2",
+    "sale_date": "2023-10-15",
+    "quantity": 3,
+    "price": 15.52
+  },
+  {
+    "sale_id": 577,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-03-30",
+    "quantity": 8,
+    "price": 307.11
+  },
+  {
+    "sale_id": 578,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-12-17",
+    "quantity": 9,
+    "price": 911.94
+  },
+  {
+    "sale_id": 579,
+    "product_id": "P229b6e90",
+    "sale_date": "2023-12-09",
+    "quantity": 2,
+    "price": 867.47
+  },
+  {
+    "sale_id": 580,
+    "product_id": "Pe8e2de1e",
+    "sale_date": "2023-08-10",
+    "quantity": 5,
+    "price": 273.52
+  },
+  {
+    "sale_id": 581,
+    "product_id": "P3e2df371",
+    "sale_date": "2023-03-05",
+    "quantity": 7,
+    "price": 430.05
+  },
+  {
+    "sale_id": 582,
+    "product_id": null,
+    "sale_date": "2023-04-18",
+    "quantity": 9,
+    "price": 69.31
+  },
+  {
+    "sale_id": 583,
+    "product_id": "Pf9504018",
+    "sale_date": "2023-08-14",
+    "quantity": 3,
+    "price": 227.37
+  },
+  {
+    "sale_id": 584,
+    "product_id": "Pe5ae5456",
+    "sale_date": "2023-04-02",
+    "quantity": 2,
+    "price": 665.79
+  },
+  {
+    "sale_id": 585,
+    "product_id": "P75467b4a",
+    "sale_date": "2023-06-05",
+    "quantity": 1,
+    "price": 148.89
+  },
+  {
+    "sale_id": 586,
+    "product_id": "P314f27ab",
+    "sale_date": "2023-08-15",
+    "quantity": 6,
+    "price": 362.16
+  },
+  {
+    "sale_id": 587,
+    "product_id": "Pe5ae5456",
+    "sale_date": "2023-10-16",
+    "quantity": 8,
+    "price": 665.79
+  },
+  {
+    "sale_id": 588,
+    "product_id": "Pb29bd58e",
+    "sale_date": "2023-07-11",
+    "quantity": 6,
+    "price": 927.12
+  },
+  {
+    "sale_id": 589,
+    "product_id": "Pd22247b2",
+    "sale_date": null,
+    "quantity": 8,
+    "price": 15.52
+  },
+  {
+    "sale_id": 590,
+    "product_id": "P8d72fba3",
+    "sale_date": "2023-09-22",
+    "quantity": 4,
+    "price": 611.73
+  },
+  {
+    "sale_id": 591,
+    "product_id": "Pbc91b309",
+    "sale_date": "2023-08-01",
+    "quantity": 7,
+    "price": 501.55
+  },
+  {
+    "sale_id": 592,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-12-04",
+    "quantity": 9,
+    "price": 418.73
+  },
+  {
+    "sale_id": 593,
+    "product_id": "Pe4451aad",
+    "sale_date": "2023-07-15",
+    "quantity": 1,
+    "price": 753.36
+  },
+  {
+    "sale_id": 594,
+    "product_id": null,
+    "sale_date": "2023-11-16",
+    "quantity": 2,
+    "price": 867.47
+  },
+  {
+    "sale_id": 595,
+    "product_id": "P30004008",
+    "sale_date": "2023-01-18",
+    "quantity": 8,
+    "price": 799.95
+  },
+  {
+    "sale_id": 596,
+    "product_id": "P57eb39b7",
+    "sale_date": "2023-11-03",
+    "quantity": 8,
+    "price": 28.63
+  },
+  {
+    "sale_id": 597,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-06-13",
+    "quantity": 9,
+    "price": 307.11
+  },
+  {
+    "sale_id": 598,
+    "product_id": "P40fe6be2",
+    "sale_date": "2023-07-11",
+    "quantity": 7,
+    "price": 229.66
+  },
+  {
+    "sale_id": 599,
+    "product_id": "P334ffc38",
+    "sale_date": "2023-01-23",
+    "quantity": 4,
+    "price": 688.27
+  },
+  {
+    "sale_id": 600,
+    "product_id": "P61888905",
+    "sale_date": "2023-07-04",
+    "quantity": 9,
+    "price": 141.57
+  },
+  {
+    "sale_id": 601,
+    "product_id": "P18e6512b",
+    "sale_date": "2023-06-02",
+    "quantity": 3,
+    "price": 845.15
+  },
+  {
+    "sale_id": 602,
+    "product_id": "P75467b4a",
+    "sale_date": "2023-04-16",
+    "quantity": 1,
+    "price": 148.89
+  },
+  {
+    "sale_id": 603,
+    "product_id": null,
+    "sale_date": "2023-08-01",
+    "quantity": 9,
+    "price": 665.79
+  },
+  {
+    "sale_id": 604,
+    "product_id": "Pbc516115",
+    "sale_date": "2023-01-23",
+    "quantity": 2,
+    "price": 320.79
+  },
+  {
+    "sale_id": 605,
+    "product_id": "Pc0bca51b",
+    "sale_date": "2023-01-23",
+    "quantity": 1,
+    "price": 605.58
+  },
+  {
+    "sale_id": 606,
+    "product_id": "Pe64f7aad",
+    "sale_date": "2023-12-25",
+    "quantity": 9,
+    "price": 963.6
+  },
+  {
+    "sale_id": 607,
+    "product_id": "P51e0297b",
+    "sale_date": "2023-07-24",
+    "quantity": 7,
+    "price": 947.48
+  },
+  {
+    "sale_id": 608,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-11-25",
+    "quantity": 9,
+    "price": 307.11
+  },
+  {
+    "sale_id": 609,
+    "product_id": "Pd45bc8b6",
+    "sale_date": "2023-07-14",
+    "quantity": 4,
+    "price": 609.69
+  },
+  {
+    "sale_id": 610,
+    "product_id": "P353df400",
+    "sale_date": "2023-03-26",
+    "quantity": 6,
+    "price": 386.17
+  },
+  {
+    "sale_id": 611,
+    "product_id": "P3e2df371",
+    "sale_date": "2023-05-28",
+    "quantity": 9,
+    "price": 430.05
+  },
+  {
+    "sale_id": 612,
+    "product_id": null,
+    "sale_date": "2023-04-06",
+    "quantity": 4,
+    "price": 152.29
+  },
+  {
+    "sale_id": 613,
+    "product_id": "Pb3ad46f7",
+    "sale_date": "2023-09-23",
+    "quantity": 5,
+    "price": 484.78
+  },
+  {
+    "sale_id": 614,
+    "product_id": "Pb3ad46f7",
+    "sale_date": "2023-11-24",
+    "quantity": 2,
+    "price": 484.78
+  },
+  {
+    "sale_id": 615,
+    "product_id": "Pa894811e",
+    "sale_date": "2023-06-14",
+    "quantity": 6,
+    "price": 640.52
+  },
+  {
+    "sale_id": 616,
+    "product_id": "Pc030509d",
+    "sale_date": "2023-07-21",
+    "quantity": 2,
+    "price": 544.84
+  },
+  {
+    "sale_id": 617,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-03-04",
+    "quantity": 7,
+    "price": 223.1
+  },
+  {
+    "sale_id": 618,
+    "product_id": "P3355fffe",
+    "sale_date": "2023-03-13",
+    "quantity": 6,
+    "price": 791.23
+  },
+  {
+    "sale_id": 619,
+    "product_id": "P60464576",
+    "sale_date": "2023-05-02",
+    "quantity": 5,
+    "price": 797.24
+  },
+  {
+    "sale_id": 620,
+    "product_id": "P5f05bcde",
+    "sale_date": "2023-07-01",
+    "quantity": 4,
+    "price": 328.14
+  },
+  {
+    "sale_id": 621,
+    "product_id": "P12338936",
+    "sale_date": "2023-12-19",
+    "quantity": 1,
+    "price": 575.3
+  },
+  {
+    "sale_id": 622,
+    "product_id": "P334ffc38",
+    "sale_date": "2023-06-24",
+    "quantity": 7,
+    "price": 688.27
+  },
+  {
+    "sale_id": 623,
+    "product_id": "P40fe6be2",
+    "sale_date": "2023-09-05",
+    "quantity": 8,
+    "price": 229.66
+  },
+  {
+    "sale_id": 624,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-03-17",
+    "quantity": 2,
+    "price": 672.41
+  },
+  {
+    "sale_id": 625,
+    "product_id": "P8e74e074",
+    "sale_date": "2023-12-27",
+    "quantity": 6,
+    "price": 760.15
+  },
+  {
+    "sale_id": 626,
+    "product_id": "P6844351c",
+    "sale_date": "2023-08-01",
+    "quantity": 7,
+    "price": 638.15
+  },
+  {
+    "sale_id": 627,
+    "product_id": "P641ea97e",
+    "sale_date": "2023-04-09",
+    "quantity": 1,
+    "price": 27.05
+  },
+  {
+    "sale_id": 628,
+    "product_id": "Pbc516115",
+    "sale_date": "2023-12-06",
+    "quantity": 8,
+    "price": 320.79
+  },
+  {
+    "sale_id": 629,
+    "product_id": "P8d72fba3",
+    "sale_date": "2023-02-26",
+    "quantity": 1,
+    "price": 611.73
+  },
+  {
+    "sale_id": 630,
+    "product_id": "P22a3350b",
+    "sale_date": "2023-05-21",
+    "quantity": 5,
+    "price": 988.67
+  },
+  {
+    "sale_id": 631,
+    "product_id": "P2742827a",
+    "sale_date": "2023-10-18",
+    "quantity": 8,
+    "price": 566.64
+  },
+  {
+    "sale_id": 632,
+    "product_id": "P6b5a19f5",
+    "sale_date": "2023-07-12",
+    "quantity": 4,
+    "price": 873.33
+  },
+  {
+    "sale_id": 633,
+    "product_id": null,
+    "sale_date": "2023-04-29",
+    "quantity": 10,
+    "price": 927.12
+  },
+  {
+    "sale_id": 634,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-08-15",
+    "quantity": 9,
+    "price": 950.56
+  },
+  {
+    "sale_id": 635,
+    "product_id": "P334ffc38",
+    "sale_date": "2023-06-26",
+    "quantity": 5,
+    "price": 688.27
+  },
+  {
+    "sale_id": 636,
+    "product_id": "Pbe5f88eb",
+    "sale_date": "2023-05-22",
+    "quantity": 8,
+    "price": 443.06
+  },
+  {
+    "sale_id": 637,
+    "product_id": "P12cc8a9e",
+    "sale_date": "2023-11-13",
+    "quantity": 8,
+    "price": 633.8
+  },
+  {
+    "sale_id": 638,
+    "product_id": "Pe8e2de1e",
+    "sale_date": "2023-04-24",
+    "quantity": 4,
+    "price": 273.52
+  },
+  {
+    "sale_id": 639,
+    "product_id": "P60464576",
+    "sale_date": "2023-01-10",
+    "quantity": 4,
+    "price": 797.24
+  },
+  {
+    "sale_id": 640,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-02-05",
+    "quantity": 10,
+    "price": 950.56
+  },
+  {
+    "sale_id": 641,
+    "product_id": "Pb92cf35b",
+    "sale_date": "2023-04-04",
+    "quantity": 10,
+    "price": 957.81
+  },
+  {
+    "sale_id": 642,
+    "product_id": "Pe64f7aad",
+    "sale_date": "2023-12-26",
+    "quantity": 8,
+    "price": 963.6
+  },
+  {
+    "sale_id": 643,
+    "product_id": "P6eaf0059",
+    "sale_date": "2023-12-05",
+    "quantity": 3,
+    "price": 379.3
+  },
+  {
+    "sale_id": 644,
+    "product_id": "Pb1944667",
+    "sale_date": null,
+    "quantity": 3,
+    "price": 418.73
+  },
+  {
+    "sale_id": 645,
+    "product_id": "P1795da75",
+    "sale_date": "2023-12-27",
+    "quantity": 2,
+    "price": 996.86
+  },
+  {
+    "sale_id": 646,
+    "product_id": "P66d770db",
+    "sale_date": "2023-06-20",
+    "quantity": 5,
+    "price": 382.75
+  },
+  {
+    "sale_id": 647,
+    "product_id": "Pe4451aad",
+    "sale_date": "2023-05-22",
+    "quantity": 1,
+    "price": 753.36
+  },
+  {
+    "sale_id": 648,
+    "product_id": "P13cd8b1b",
+    "sale_date": "2023-09-04",
+    "quantity": 4,
+    "price": 657.03
+  },
+  {
+    "sale_id": 649,
+    "product_id": "Pb3ad46f7",
+    "sale_date": "2023-04-01",
+    "quantity": 6,
+    "price": 484.78
+  },
+  {
+    "sale_id": 650,
+    "product_id": "Pc1a313e5",
+    "sale_date": "2023-12-04",
+    "quantity": 8,
+    "price": 880.15
+  },
+  {
+    "sale_id": 651,
+    "product_id": "P0bae7a2a",
+    "sale_date": "2023-06-24",
+    "quantity": 2,
+    "price": 868.34
+  },
+  {
+    "sale_id": 652,
+    "product_id": "P353df400",
+    "sale_date": "2023-12-12",
+    "quantity": 3,
+    "price": 386.17
+  },
+  {
+    "sale_id": 653,
+    "product_id": "P6eaf0059",
+    "sale_date": "2023-07-03",
+    "quantity": 1,
+    "price": 379.3
+  },
+  {
+    "sale_id": 654,
+    "product_id": "P356d389b",
+    "sale_date": "2023-04-10",
+    "quantity": 7,
+    "price": 309.96
+  },
+  {
+    "sale_id": 655,
+    "product_id": "Pf9504018",
+    "sale_date": "2023-09-12",
+    "quantity": 9,
+    "price": 227.37
+  },
+  {
+    "sale_id": 656,
+    "product_id": "P81e0c9cf",
+    "sale_date": "2023-11-08",
+    "quantity": 8,
+    "price": 773.86
+  },
+  {
+    "sale_id": 657,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-11-11",
+    "quantity": 9,
+    "price": 307.11
+  },
+  {
+    "sale_id": 658,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-04-20",
+    "quantity": 2,
+    "price": 223.1
+  },
+  {
+    "sale_id": 659,
+    "product_id": "P4b1f438a",
+    "sale_date": "2023-02-19",
+    "quantity": 3,
+    "price": 293.43
+  },
+  {
+    "sale_id": 660,
+    "product_id": "P8e74e074",
+    "sale_date": null,
+    "quantity": 6,
+    "price": 760.15
+  },
+  {
+    "sale_id": 661,
+    "product_id": null,
+    "sale_date": "2023-01-22",
+    "quantity": 6,
+    "price": 27.05
+  },
+  {
+    "sale_id": 662,
+    "product_id": "P6f47d618",
+    "sale_date": "2023-01-08",
+    "quantity": 1,
+    "price": 855.83
+  },
+  {
+    "sale_id": 663,
+    "product_id": "Pe5ae5456",
+    "sale_date": "2023-05-29",
+    "quantity": 2,
+    "price": 665.79
+  },
+  {
+    "sale_id": 664,
+    "product_id": null,
+    "sale_date": "2023-09-27",
+    "quantity": 3,
+    "price": 501.55
+  },
+  {
+    "sale_id": 665,
+    "product_id": "P7273646e",
+    "sale_date": "2023-11-11",
+    "quantity": 10,
+    "price": 770.66
+  },
+  {
+    "sale_id": 666,
+    "product_id": null,
+    "sale_date": "2023-04-17",
+    "quantity": 6,
+    "price": 379.3
+  },
+  {
+    "sale_id": 667,
+    "product_id": "P45832561",
+    "sale_date": "2023-08-30",
+    "quantity": 7,
+    "price": 148.85
+  },
+  {
+    "sale_id": 668,
+    "product_id": "P756738d4",
+    "sale_date": "2023-05-08",
+    "quantity": 10,
+    "price": 614.37
+  },
+  {
+    "sale_id": 669,
+    "product_id": "P5b5ceadd",
+    "sale_date": "2023-03-13",
+    "quantity": 3,
+    "price": 44.27
+  },
+  {
+    "sale_id": 670,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-09-18",
+    "quantity": 2,
+    "price": 307.11
+  },
+  {
+    "sale_id": 671,
+    "product_id": null,
+    "sale_date": "2023-12-30",
+    "quantity": 2,
+    "price": 855.83
+  },
+  {
+    "sale_id": 672,
+    "product_id": "P6984f4b1",
+    "sale_date": "2023-08-26",
+    "quantity": 9,
+    "price": 717.75
+  },
+  {
+    "sale_id": 673,
+    "product_id": "Pa67e2d7f",
+    "sale_date": "2023-11-25",
+    "quantity": 3,
+    "price": 127.15
+  },
+  {
+    "sale_id": 674,
+    "product_id": "Pc6c8744b",
+    "sale_date": "2023-05-27",
+    "quantity": 8,
+    "price": 138.64
+  },
+  {
+    "sale_id": 675,
+    "product_id": "Pc6c8744b",
+    "sale_date": "2023-06-05",
+    "quantity": 8,
+    "price": 138.64
+  },
+  {
+    "sale_id": 676,
+    "product_id": "P4ff925d8",
+    "sale_date": "2023-07-23",
+    "quantity": 5,
+    "price": 799.53
+  },
+  {
+    "sale_id": 677,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-11-30",
+    "quantity": 1,
+    "price": 911.94
+  },
+  {
+    "sale_id": 678,
+    "product_id": "Pe5ae5456",
+    "sale_date": "2023-05-06",
+    "quantity": 3,
+    "price": 665.79
+  },
+  {
+    "sale_id": 679,
+    "product_id": "P81e0c9cf",
+    "sale_date": "2023-03-24",
+    "quantity": 2,
+    "price": 773.86
+  },
+  {
+    "sale_id": 680,
+    "product_id": null,
+    "sale_date": "2023-12-03",
+    "quantity": 8,
+    "price": 237.1
+  },
+  {
+    "sale_id": 681,
+    "product_id": "Pbc91b309",
+    "sale_date": "2023-11-22",
+    "quantity": 8,
+    "price": 501.55
+  },
+  {
+    "sale_id": 682,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-06-22",
+    "quantity": 5,
+    "price": 418.73
+  },
+  {
+    "sale_id": 683,
+    "product_id": "P37b852b3",
+    "sale_date": "2023-04-28",
+    "quantity": 8,
+    "price": 527.17
+  },
+  {
+    "sale_id": 684,
+    "product_id": "P40fe6be2",
+    "sale_date": "2023-10-28",
+    "quantity": 2,
+    "price": 229.66
+  },
+  {
+    "sale_id": 685,
+    "product_id": "P96170136",
+    "sale_date": "2023-12-07",
+    "quantity": 9,
+    "price": 272.46
+  },
+  {
+    "sale_id": 686,
+    "product_id": "P5f05bcde",
+    "sale_date": null,
+    "quantity": 8,
+    "price": 328.14
+  },
+  {
+    "sale_id": 687,
+    "product_id": "P22a3350b",
+    "sale_date": "2023-05-23",
+    "quantity": 10,
+    "price": 988.67
+  },
+  {
+    "sale_id": 688,
+    "product_id": "Pbd0a1129",
+    "sale_date": "2023-02-10",
+    "quantity": 5,
+    "price": 541.69
+  },
+  {
+    "sale_id": 689,
+    "product_id": "P6d2ebd51",
+    "sale_date": "2023-08-23",
+    "quantity": 4,
+    "price": 921.93
+  },
+  {
+    "sale_id": 690,
+    "product_id": "P18e6512b",
+    "sale_date": "2023-09-28",
+    "quantity": 9,
+    "price": 845.15
+  },
+  {
+    "sale_id": 691,
+    "product_id": "P5d2aa999",
+    "sale_date": "2023-10-11",
+    "quantity": 2,
+    "price": 489.04
+  },
+  {
+    "sale_id": 692,
+    "product_id": "Pb3ad46f7",
+    "sale_date": "2023-02-22",
+    "quantity": 2,
+    "price": 484.78
+  },
+  {
+    "sale_id": 693,
+    "product_id": "Pf07cbe91",
+    "sale_date": "2023-10-12",
+    "quantity": 7,
+    "price": 189.18
+  },
+  {
+    "sale_id": 694,
+    "product_id": "Pf6dd51df",
+    "sale_date": "2023-09-23",
+    "quantity": 4,
+    "price": 262.77
+  },
+  {
+    "sale_id": 695,
+    "product_id": "Pe4451aad",
+    "sale_date": "2023-10-11",
+    "quantity": 9,
+    "price": 753.36
+  },
+  {
+    "sale_id": 696,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-05-18",
+    "quantity": 3,
+    "price": 672.41
+  },
+  {
+    "sale_id": 697,
+    "product_id": "P61888905",
+    "sale_date": "2023-10-14",
+    "quantity": 7,
+    "price": 141.57
+  },
+  {
+    "sale_id": 698,
+    "product_id": "P18f8f0b8",
+    "sale_date": "2023-06-19",
+    "quantity": 9,
+    "price": 196.7
+  },
+  {
+    "sale_id": 699,
+    "product_id": "Pc1a313e5",
+    "sale_date": "2023-09-29",
+    "quantity": 7,
+    "price": 880.15
+  },
+  {
+    "sale_id": 700,
+    "product_id": "P6b5a19f5",
+    "sale_date": "2023-12-22",
+    "quantity": 6,
+    "price": 873.33
+  },
+  {
+    "sale_id": 701,
+    "product_id": "P353df400",
+    "sale_date": null,
+    "quantity": 1,
+    "price": 386.17
+  },
+  {
+    "sale_id": 702,
+    "product_id": "Pf6dd51df",
+    "sale_date": "2023-03-22",
+    "quantity": 9,
+    "price": 262.77
+  },
+  {
+    "sale_id": 703,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-01-08",
+    "quantity": 8,
+    "price": 911.94
+  },
+  {
+    "sale_id": 704,
+    "product_id": "P531b27ca",
+    "sale_date": null,
+    "quantity": 10,
+    "price": 950.56
+  },
+  {
+    "sale_id": 705,
+    "product_id": "Pec5275bc",
+    "sale_date": "2023-05-30",
+    "quantity": 6,
+    "price": 394.78
+  },
+  {
+    "sale_id": 706,
+    "product_id": "P1795da75",
+    "sale_date": "2023-09-01",
+    "quantity": 9,
+    "price": 996.86
+  },
+  {
+    "sale_id": 707,
+    "product_id": "Pc1a313e5",
+    "sale_date": "2023-11-19",
+    "quantity": 5,
+    "price": 880.15
+  },
+  {
+    "sale_id": 708,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-04-17",
+    "quantity": 7,
+    "price": 223.1
+  },
+  {
+    "sale_id": 709,
+    "product_id": "Pb3ad46f7",
+    "sale_date": null,
+    "quantity": 8,
+    "price": 484.78
+  },
+  {
+    "sale_id": 710,
+    "product_id": "P30004008",
+    "sale_date": "2023-09-29",
+    "quantity": 10,
+    "price": 799.95
+  },
+  {
+    "sale_id": 711,
+    "product_id": "P5b5ceadd",
+    "sale_date": "2023-08-17",
+    "quantity": 9,
+    "price": 44.27
+  },
+  {
+    "sale_id": 712,
+    "product_id": "P4ff925d8",
+    "sale_date": "2023-08-28",
+    "quantity": 4,
+    "price": 799.53
+  },
+  {
+    "sale_id": 713,
+    "product_id": "Pb955ab77",
+    "sale_date": "2023-07-11",
+    "quantity": 10,
+    "price": 944.08
+  },
+  {
+    "sale_id": 714,
+    "product_id": "P6844351c",
+    "sale_date": "2023-02-02",
+    "quantity": 6,
+    "price": 638.15
+  },
+  {
+    "sale_id": 715,
+    "product_id": "P5b5ceadd",
+    "sale_date": "2023-01-14",
+    "quantity": 8,
+    "price": 44.27
+  },
+  {
+    "sale_id": 716,
+    "product_id": "P2742827a",
+    "sale_date": "2023-01-01",
+    "quantity": 4,
+    "price": 566.64
+  },
+  {
+    "sale_id": 717,
+    "product_id": "P6e9fa7b1",
+    "sale_date": "2023-03-22",
+    "quantity": 4,
+    "price": 981.22
+  },
+  {
+    "sale_id": 718,
+    "product_id": null,
+    "sale_date": "2023-01-27",
+    "quantity": 6,
+    "price": 773.28
+  },
+  {
+    "sale_id": 719,
+    "product_id": "P3f50b02c",
+    "sale_date": "2023-04-12",
+    "quantity": 5,
+    "price": 490.85
+  },
+  {
+    "sale_id": 720,
+    "product_id": "Pb29bd58e",
+    "sale_date": "2023-11-02",
+    "quantity": 9,
+    "price": 927.12
+  },
+  {
+    "sale_id": 721,
+    "product_id": "Pb29bd58e",
+    "sale_date": "2023-04-26",
+    "quantity": 6,
+    "price": 927.12
+  },
+  {
+    "sale_id": 722,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-12-28",
+    "quantity": 10,
+    "price": 307.11
+  },
+  {
+    "sale_id": 723,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-08-11",
+    "quantity": 3,
+    "price": 672.41
+  },
+  {
+    "sale_id": 724,
+    "product_id": "Pbc91b309",
+    "sale_date": "2023-09-07",
+    "quantity": 6,
+    "price": 501.55
+  },
+  {
+    "sale_id": 725,
+    "product_id": "P4b1f438a",
+    "sale_date": "2023-09-09",
+    "quantity": 2,
+    "price": 293.43
+  },
+  {
+    "sale_id": 726,
+    "product_id": "Pf54512a9",
+    "sale_date": "2023-05-25",
+    "quantity": 5,
+    "price": 989.61
+  },
+  {
+    "sale_id": 727,
+    "product_id": "P3355fffe",
+    "sale_date": "2023-01-11",
+    "quantity": 4,
+    "price": 791.23
+  },
+  {
+    "sale_id": 728,
+    "product_id": "P6f47d618",
+    "sale_date": "2023-10-31",
+    "quantity": 6,
+    "price": 855.83
+  },
+  {
+    "sale_id": 729,
+    "product_id": "Pd145ff69",
+    "sale_date": "2023-03-09",
+    "quantity": 3,
+    "price": 811.45
+  },
+  {
+    "sale_id": 730,
+    "product_id": "P90df1385",
+    "sale_date": "2023-10-25",
+    "quantity": 3,
+    "price": 773.28
+  },
+  {
+    "sale_id": 731,
+    "product_id": "P6f47d618",
+    "sale_date": "2023-10-13",
+    "quantity": 10,
+    "price": 855.83
+  },
+  {
+    "sale_id": 732,
+    "product_id": "Pf54512a9",
+    "sale_date": "2023-02-03",
+    "quantity": 5,
+    "price": 989.61
+  },
+  {
+    "sale_id": 733,
+    "product_id": "Pe5ae5456",
+    "sale_date": "2023-11-11",
+    "quantity": 3,
+    "price": 665.79
+  },
+  {
+    "sale_id": 734,
+    "product_id": "Pf54512a9",
+    "sale_date": "2023-08-21",
+    "quantity": 2,
+    "price": 989.61
+  },
+  {
+    "sale_id": 735,
+    "product_id": "P1795da75",
+    "sale_date": "2023-07-18",
+    "quantity": 8,
+    "price": 996.86
+  },
+  {
+    "sale_id": 736,
+    "product_id": "Pa37c28b9",
+    "sale_date": "2023-11-30",
+    "quantity": 1,
+    "price": 67.04
+  },
+  {
+    "sale_id": 737,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-06-24",
+    "quantity": 6,
+    "price": 418.73
+  },
+  {
+    "sale_id": 738,
+    "product_id": "P75467b4a",
+    "sale_date": "2023-11-10",
+    "quantity": 10,
+    "price": 148.89
+  },
+  {
+    "sale_id": 739,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-03-17",
+    "quantity": 6,
+    "price": 672.41
+  },
+  {
+    "sale_id": 740,
+    "product_id": "Pf9504018",
+    "sale_date": "2023-02-23",
+    "quantity": 2,
+    "price": 227.37
+  },
+  {
+    "sale_id": 741,
+    "product_id": "Pbe5f88eb",
+    "sale_date": "2023-05-31",
+    "quantity": 1,
+    "price": 443.06
+  },
+  {
+    "sale_id": 742,
+    "product_id": "P6f47d618",
+    "sale_date": "2023-07-17",
+    "quantity": 3,
+    "price": 855.83
+  },
+  {
+    "sale_id": 743,
+    "product_id": "P037a1296",
+    "sale_date": "2023-12-10",
+    "quantity": 7,
+    "price": 69.31
+  },
+  {
+    "sale_id": 744,
+    "product_id": "Pb29bd58e",
+    "sale_date": "2023-02-15",
+    "quantity": 7,
+    "price": 927.12
+  },
+  {
+    "sale_id": 745,
+    "product_id": "Pb92cf35b",
+    "sale_date": "2023-05-11",
+    "quantity": 1,
+    "price": 957.81
+  },
+  {
+    "sale_id": 746,
+    "product_id": "P037a1296",
+    "sale_date": "2023-12-16",
+    "quantity": 8,
+    "price": 69.31
+  },
+  {
+    "sale_id": 747,
+    "product_id": "P6e9fa7b1",
+    "sale_date": "2023-08-03",
+    "quantity": 5,
+    "price": 981.22
+  },
+  {
+    "sale_id": 748,
+    "product_id": "P1795da75",
+    "sale_date": "2023-11-13",
+    "quantity": 8,
+    "price": 996.86
+  },
+  {
+    "sale_id": 749,
+    "product_id": "P40fe6be2",
+    "sale_date": "2023-04-17",
+    "quantity": 8,
+    "price": 229.66
+  },
+  {
+    "sale_id": 750,
+    "product_id": "Pbbeead39",
+    "sale_date": "2023-12-16",
+    "quantity": 9,
+    "price": 478.18
+  },
+  {
+    "sale_id": 751,
+    "product_id": "Pbbeead39",
+    "sale_date": "2023-10-31",
+    "quantity": 7,
+    "price": 478.18
+  },
+  {
+    "sale_id": 752,
+    "product_id": "P60464576",
+    "sale_date": "2023-04-05",
+    "quantity": 3,
+    "price": 797.24
+  },
+  {
+    "sale_id": 753,
+    "product_id": "Pd1b2bf92",
+    "sale_date": "2023-03-19",
+    "quantity": 1,
+    "price": 794.03
+  },
+  {
+    "sale_id": 754,
+    "product_id": "P3e2df371",
+    "sale_date": "2023-08-01",
+    "quantity": 5,
+    "price": 430.05
+  },
+  {
+    "sale_id": 755,
+    "product_id": "Pf54512a9",
+    "sale_date": "2023-11-16",
+    "quantity": 2,
+    "price": 989.61
+  },
+  {
+    "sale_id": 756,
+    "product_id": "P12338936",
+    "sale_date": "2023-11-07",
+    "quantity": 7,
+    "price": 575.3
+  },
+  {
+    "sale_id": 757,
+    "product_id": "P7132e903",
+    "sale_date": "2023-03-22",
+    "quantity": 1,
+    "price": 609.92
+  },
+  {
+    "sale_id": 758,
+    "product_id": "P756738d4",
+    "sale_date": "2023-08-28",
+    "quantity": 6,
+    "price": 614.37
+  },
+  {
+    "sale_id": 759,
+    "product_id": "Pf99a0002",
+    "sale_date": "2023-05-18",
+    "quantity": 9,
+    "price": 489.72
+  },
+  {
+    "sale_id": 760,
+    "product_id": "P0bae7a2a",
+    "sale_date": "2023-12-15",
+    "quantity": 3,
+    "price": 868.34
+  },
+  {
+    "sale_id": 761,
+    "product_id": "P81e0c9cf",
+    "sale_date": "2023-06-24",
+    "quantity": 4,
+    "price": 773.86
+  },
+  {
+    "sale_id": 762,
+    "product_id": "P6e9fa7b1",
+    "sale_date": "2023-05-11",
+    "quantity": 8,
+    "price": 981.22
+  },
+  {
+    "sale_id": 763,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-03-26",
+    "quantity": 2,
+    "price": 223.1
+  },
+  {
+    "sale_id": 764,
+    "product_id": "Pd54c91b1",
+    "sale_date": "2023-06-17",
+    "quantity": 3,
+    "price": 237.1
+  },
+  {
+    "sale_id": 765,
+    "product_id": "P7491bf62",
+    "sale_date": "2023-09-18",
+    "quantity": 4,
+    "price": 665.52
+  },
+  {
+    "sale_id": 766,
+    "product_id": "Pe4451aad",
+    "sale_date": "2023-06-07",
+    "quantity": 4,
+    "price": 753.36
+  },
+  {
+    "sale_id": 767,
+    "product_id": "P6984f4b1",
+    "sale_date": "2023-11-25",
+    "quantity": 9,
+    "price": 717.75
+  },
+  {
+    "sale_id": 768,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-01-30",
+    "quantity": 3,
+    "price": 418.73
+  },
+  {
+    "sale_id": 769,
+    "product_id": "P4b7652f7",
+    "sale_date": "2023-02-11",
+    "quantity": 4,
+    "price": 684.41
+  },
+  {
+    "sale_id": 770,
+    "product_id": "P0bae7a2a",
+    "sale_date": "2023-09-14",
+    "quantity": 2,
+    "price": 868.34
+  },
+  {
+    "sale_id": 771,
+    "product_id": "P6e9fa7b1",
+    "sale_date": "2023-02-21",
+    "quantity": 5,
+    "price": 981.22
+  },
+  {
+    "sale_id": 772,
+    "product_id": "P13cd8b1b",
+    "sale_date": "2023-05-05",
+    "quantity": 2,
+    "price": 657.03
+  },
+  {
+    "sale_id": 773,
+    "product_id": "P305f5a9a",
+    "sale_date": "2023-02-20",
+    "quantity": 4,
+    "price": 746.39
+  },
+  {
+    "sale_id": 774,
+    "product_id": "P5b5ceadd",
+    "sale_date": "2023-12-16",
+    "quantity": 2,
+    "price": 44.27
+  },
+  {
+    "sale_id": 775,
+    "product_id": "P75467b4a",
+    "sale_date": "2023-01-09",
+    "quantity": 9,
+    "price": 148.89
+  },
+  {
+    "sale_id": 776,
+    "product_id": "Pbbeead39",
+    "sale_date": "2023-07-05",
+    "quantity": 1,
+    "price": 478.18
+  },
+  {
+    "sale_id": 777,
+    "product_id": "P30004008",
+    "sale_date": "2023-01-18",
+    "quantity": 2,
+    "price": 799.95
+  },
+  {
+    "sale_id": 778,
+    "product_id": "P314f27ab",
+    "sale_date": "2023-06-06",
+    "quantity": 8,
+    "price": 362.16
+  },
+  {
+    "sale_id": 779,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-08-28",
+    "quantity": 5,
+    "price": 911.94
+  },
+  {
+    "sale_id": 780,
+    "product_id": "P6b5a19f5",
+    "sale_date": "2023-08-06",
+    "quantity": 8,
+    "price": 873.33
+  },
+  {
+    "sale_id": 781,
+    "product_id": "Pe5ae5456",
+    "sale_date": "2023-04-03",
+    "quantity": 8,
+    "price": 665.79
+  },
+  {
+    "sale_id": 782,
+    "product_id": "Pe4451aad",
+    "sale_date": "2023-05-26",
+    "quantity": 9,
+    "price": 753.36
+  },
+  {
+    "sale_id": 783,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-03-03",
+    "quantity": 9,
+    "price": 950.56
+  },
+  {
+    "sale_id": 784,
+    "product_id": null,
+    "sale_date": "2023-07-27",
+    "quantity": 8,
+    "price": 527.17
+  },
+  {
+    "sale_id": 785,
+    "product_id": "Pbe5f88eb",
+    "sale_date": "2023-11-10",
+    "quantity": 3,
+    "price": 443.06
+  },
+  {
+    "sale_id": 786,
+    "product_id": "Pc6c8744b",
+    "sale_date": "2023-12-13",
+    "quantity": 5,
+    "price": 138.64
+  },
+  {
+    "sale_id": 787,
+    "product_id": "Pbe5f88eb",
+    "sale_date": "2023-08-02",
+    "quantity": 7,
+    "price": 443.06
+  },
+  {
+    "sale_id": 788,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-04-05",
+    "quantity": 2,
+    "price": 950.56
+  },
+  {
+    "sale_id": 789,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-04-09",
+    "quantity": 10,
+    "price": 223.1
+  },
+  {
+    "sale_id": 790,
+    "product_id": "Pb1944667",
+    "sale_date": null,
+    "quantity": 4,
+    "price": 418.73
+  },
+  {
+    "sale_id": 791,
+    "product_id": "P6e9fa7b1",
+    "sale_date": "2023-02-15",
+    "quantity": 1,
+    "price": 981.22
+  },
+  {
+    "sale_id": 792,
+    "product_id": "Pd1b2bf92",
+    "sale_date": "2023-05-29",
+    "quantity": 2,
+    "price": 794.03
+  },
+  {
+    "sale_id": 793,
+    "product_id": "P13cd8b1b",
+    "sale_date": "2023-01-18",
+    "quantity": 9,
+    "price": 657.03
+  },
+  {
+    "sale_id": 794,
+    "product_id": "Pcc8d8340",
+    "sale_date": "2023-04-09",
+    "quantity": 4,
+    "price": 127.41
+  },
+  {
+    "sale_id": 795,
+    "product_id": "P6844351c",
+    "sale_date": "2023-05-28",
+    "quantity": 7,
+    "price": 638.15
+  },
+  {
+    "sale_id": 796,
+    "product_id": "P3f50b02c",
+    "sale_date": "2023-03-25",
+    "quantity": 1,
+    "price": 490.85
+  },
+  {
+    "sale_id": 797,
+    "product_id": "P51e0297b",
+    "sale_date": "2023-10-17",
+    "quantity": 10,
+    "price": 947.48
+  },
+  {
+    "sale_id": 798,
+    "product_id": "Pb90294ac",
+    "sale_date": "2023-08-19",
+    "quantity": 4,
+    "price": 196.83
+  },
+  {
+    "sale_id": 799,
+    "product_id": "P1795da75",
+    "sale_date": "2023-05-23",
+    "quantity": 3,
+    "price": 996.86
+  },
+  {
+    "sale_id": 800,
+    "product_id": "P7273646e",
+    "sale_date": "2023-05-17",
+    "quantity": 7,
+    "price": 770.66
+  },
+  {
+    "sale_id": 801,
+    "product_id": "P4b1f438a",
+    "sale_date": "2023-12-16",
+    "quantity": 7,
+    "price": 293.43
+  },
+  {
+    "sale_id": 802,
+    "product_id": "Pb1944667",
+    "sale_date": "2023-09-25",
+    "quantity": 10,
+    "price": 418.73
+  },
+  {
+    "sale_id": 803,
+    "product_id": "Pd45bc8b6",
+    "sale_date": "2023-03-16",
+    "quantity": 6,
+    "price": 609.69
+  },
+  {
+    "sale_id": 804,
+    "product_id": "P18e6512b",
+    "sale_date": "2023-01-11",
+    "quantity": 4,
+    "price": 845.15
+  },
+  {
+    "sale_id": 805,
+    "product_id": "P5f05bcde",
+    "sale_date": "2023-09-29",
+    "quantity": 1,
+    "price": 328.14
+  },
+  {
+    "sale_id": 806,
+    "product_id": "Pa894811e",
+    "sale_date": "2023-10-14",
+    "quantity": 6,
+    "price": 640.52
+  },
+  {
+    "sale_id": 807,
+    "product_id": "Pa67e2d7f",
+    "sale_date": "2023-08-11",
+    "quantity": 8,
+    "price": 127.15
+  },
+  {
+    "sale_id": 808,
+    "product_id": "P30004008",
+    "sale_date": "2023-01-15",
+    "quantity": 7,
+    "price": 799.95
+  },
+  {
+    "sale_id": 809,
+    "product_id": null,
+    "sale_date": "2023-09-28",
+    "quantity": 4,
+    "price": 309.96
+  },
+  {
+    "sale_id": 810,
+    "product_id": "Pbe5f88eb",
+    "sale_date": "2023-03-20",
+    "quantity": 10,
+    "price": 443.06
+  },
+  {
+    "sale_id": 811,
+    "product_id": "P314f27ab",
+    "sale_date": "2023-02-20",
+    "quantity": 7,
+    "price": 362.16
+  },
+  {
+    "sale_id": 812,
+    "product_id": "Pe4451aad",
+    "sale_date": "2023-07-07",
+    "quantity": 1,
+    "price": 753.36
+  },
+  {
+    "sale_id": 813,
+    "product_id": "Pf9dc4bf0",
+    "sale_date": "2023-03-27",
+    "quantity": 9,
+    "price": 576.81
+  },
+  {
+    "sale_id": 814,
+    "product_id": "P5b5ceadd",
+    "sale_date": "2023-11-21",
+    "quantity": 7,
+    "price": 44.27
+  },
+  {
+    "sale_id": 815,
+    "product_id": "Pf07cbe91",
+    "sale_date": "2023-08-25",
+    "quantity": 6,
+    "price": 189.18
+  },
+  {
+    "sale_id": 816,
+    "product_id": "Pf99a0002",
+    "sale_date": "2023-07-20",
+    "quantity": 2,
+    "price": 489.72
+  },
+  {
+    "sale_id": 817,
+    "product_id": null,
+    "sale_date": "2023-11-22",
+    "quantity": 7,
+    "price": 609.92
+  },
+  {
+    "sale_id": 818,
+    "product_id": "Pc6c8744b",
+    "sale_date": "2023-08-01",
+    "quantity": 4,
+    "price": 138.64
+  },
+  {
+    "sale_id": 819,
+    "product_id": "Pe5ae5456",
+    "sale_date": "2023-08-19",
+    "quantity": 6,
+    "price": 665.79
+  },
+  {
+    "sale_id": 820,
+    "product_id": null,
+    "sale_date": "2023-11-08",
+    "quantity": 10,
+    "price": 142.04
+  },
+  {
+    "sale_id": 821,
+    "product_id": "P2742827a",
+    "sale_date": null,
+    "quantity": 6,
+    "price": 566.64
+  },
+  {
+    "sale_id": 822,
+    "product_id": "P314f27ab",
+    "sale_date": "2023-06-08",
+    "quantity": 9,
+    "price": 362.16
+  },
+  {
+    "sale_id": 823,
+    "product_id": "P5e6fdb01",
+    "sale_date": "2023-06-29",
+    "quantity": 3,
+    "price": 758.41
+  },
+  {
+    "sale_id": 824,
+    "product_id": "P3f50b02c",
+    "sale_date": "2023-05-16",
+    "quantity": 5,
+    "price": 490.85
+  },
+  {
+    "sale_id": 825,
+    "product_id": "P75467b4a",
+    "sale_date": "2023-04-19",
+    "quantity": 2,
+    "price": 148.89
+  },
+  {
+    "sale_id": 826,
+    "product_id": "P037a1296",
+    "sale_date": "2023-04-28",
+    "quantity": 5,
+    "price": 69.31
+  },
+  {
+    "sale_id": 827,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-09-09",
+    "quantity": 3,
+    "price": 672.41
+  },
+  {
+    "sale_id": 828,
+    "product_id": null,
+    "sale_date": "2023-06-22",
+    "quantity": 2,
+    "price": 196.7
+  },
+  {
+    "sale_id": 829,
+    "product_id": "P22a3350b",
+    "sale_date": "2023-08-31",
+    "quantity": 4,
+    "price": 988.67
+  },
+  {
+    "sale_id": 830,
+    "product_id": "P4ff925d8",
+    "sale_date": "2023-01-02",
+    "quantity": 3,
+    "price": 799.53
+  },
+  {
+    "sale_id": 831,
+    "product_id": "Pa67e2d7f",
+    "sale_date": "2023-02-17",
+    "quantity": 9,
+    "price": 127.15
+  },
+  {
+    "sale_id": 832,
+    "product_id": "P4b7652f7",
+    "sale_date": null,
+    "quantity": 1,
+    "price": 684.41
+  },
+  {
+    "sale_id": 833,
+    "product_id": "Pe5ae5456",
+    "sale_date": "2023-04-09",
+    "quantity": 10,
+    "price": 665.79
+  },
+  {
+    "sale_id": 834,
+    "product_id": "Pe64f7aad",
+    "sale_date": "2023-01-12",
+    "quantity": 3,
+    "price": 963.6
+  },
+  {
+    "sale_id": 835,
+    "product_id": "Pf99a0002",
+    "sale_date": "2023-02-27",
+    "quantity": 4,
+    "price": 489.72
+  },
+  {
+    "sale_id": 836,
+    "product_id": "Pf9dc4bf0",
+    "sale_date": "2023-06-14",
+    "quantity": 1,
+    "price": 576.81
+  },
+  {
+    "sale_id": 837,
+    "product_id": "P5e6fdb01",
+    "sale_date": "2023-07-31",
+    "quantity": 10,
+    "price": 758.41
+  },
+  {
+    "sale_id": 838,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-04-11",
+    "quantity": 7,
+    "price": 950.56
+  },
+  {
+    "sale_id": 839,
+    "product_id": "P5f05bcde",
+    "sale_date": "2023-03-30",
+    "quantity": 6,
+    "price": 328.14
+  },
+  {
+    "sale_id": 840,
+    "product_id": "Pa67e2d7f",
+    "sale_date": "2023-03-25",
+    "quantity": 7,
+    "price": 127.15
+  },
+  {
+    "sale_id": 841,
+    "product_id": "Pe8e2de1e",
+    "sale_date": "2023-03-15",
+    "quantity": 4,
+    "price": 273.52
+  },
+  {
+    "sale_id": 842,
+    "product_id": "Pe4451aad",
+    "sale_date": "2023-11-07",
+    "quantity": 3,
+    "price": 753.36
+  },
+  {
+    "sale_id": 843,
+    "product_id": "P12cc8a9e",
+    "sale_date": "2023-08-29",
+    "quantity": 9,
+    "price": 633.8
+  },
+  {
+    "sale_id": 844,
+    "product_id": "P356d389b",
+    "sale_date": "2023-10-16",
+    "quantity": 1,
+    "price": 309.96
+  },
+  {
+    "sale_id": 845,
+    "product_id": "Pf9504018",
+    "sale_date": "2023-11-15",
+    "quantity": 7,
+    "price": 227.37
+  },
+  {
+    "sale_id": 846,
+    "product_id": "P12cc8a9e",
+    "sale_date": null,
+    "quantity": 1,
+    "price": 633.8
+  },
+  {
+    "sale_id": 847,
+    "product_id": "Pbcca251f",
+    "sale_date": "2023-03-29",
+    "quantity": 9,
+    "price": 152.29
+  },
+  {
+    "sale_id": 848,
+    "product_id": "Pc0bca51b",
+    "sale_date": "2023-07-01",
+    "quantity": 9,
+    "price": 605.58
+  },
+  {
+    "sale_id": 849,
+    "product_id": "Pc1a313e5",
+    "sale_date": "2023-01-03",
+    "quantity": 1,
+    "price": 880.15
+  },
+  {
+    "sale_id": 850,
+    "product_id": "P4b1f438a",
+    "sale_date": "2023-03-02",
+    "quantity": 8,
+    "price": 293.43
+  },
+  {
+    "sale_id": 851,
+    "product_id": null,
+    "sale_date": "2023-11-27",
+    "quantity": 1,
+    "price": 773.28
+  },
+  {
+    "sale_id": 852,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-02-06",
+    "quantity": 7,
+    "price": 223.1
+  },
+  {
+    "sale_id": 853,
+    "product_id": "P57eb39b7",
+    "sale_date": "2023-05-25",
+    "quantity": 6,
+    "price": 28.63
+  },
+  {
+    "sale_id": 854,
+    "product_id": "P6eaf0059",
+    "sale_date": "2023-02-17",
+    "quantity": 6,
+    "price": 379.3
+  },
+  {
+    "sale_id": 855,
+    "product_id": "P18f8f0b8",
+    "sale_date": "2023-07-03",
+    "quantity": 2,
+    "price": 196.7
+  },
+  {
+    "sale_id": 856,
+    "product_id": "Pa894811e",
+    "sale_date": "2023-02-27",
+    "quantity": 3,
+    "price": 640.52
+  },
+  {
+    "sale_id": 857,
+    "product_id": null,
+    "sale_date": "2023-05-22",
+    "quantity": 1,
+    "price": 770.66
+  },
+  {
+    "sale_id": 858,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-11-11",
+    "quantity": 5,
+    "price": 307.11
+  },
+  {
+    "sale_id": 859,
+    "product_id": "Pbd0a1129",
+    "sale_date": "2023-03-28",
+    "quantity": 10,
+    "price": 541.69
+  },
+  {
+    "sale_id": 860,
+    "product_id": "P356d389b",
+    "sale_date": "2023-02-26",
+    "quantity": 5,
+    "price": 309.96
+  },
+  {
+    "sale_id": 861,
+    "product_id": "P5e6fdb01",
+    "sale_date": "2023-05-06",
+    "quantity": 6,
+    "price": 758.41
+  },
+  {
+    "sale_id": 862,
+    "product_id": "P5b5ceadd",
+    "sale_date": "2023-06-22",
+    "quantity": 4,
+    "price": 44.27
+  },
+  {
+    "sale_id": 863,
+    "product_id": "P6b5a19f5",
+    "sale_date": "2023-02-06",
+    "quantity": 7,
+    "price": 873.33
+  },
+  {
+    "sale_id": 864,
+    "product_id": "Pf07cbe91",
+    "sale_date": "2023-05-17",
+    "quantity": 7,
+    "price": 189.18
+  },
+  {
+    "sale_id": 865,
+    "product_id": "Pcc8d8340",
+    "sale_date": "2023-04-14",
+    "quantity": 4,
+    "price": 127.41
+  },
+  {
+    "sale_id": 866,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-08-04",
+    "quantity": 6,
+    "price": 950.56
+  },
+  {
+    "sale_id": 867,
+    "product_id": "P45832561",
+    "sale_date": "2023-08-18",
+    "quantity": 8,
+    "price": 148.85
+  },
+  {
+    "sale_id": 868,
+    "product_id": "Pcb7d6b7c",
+    "sale_date": "2023-10-02",
+    "quantity": 8,
+    "price": 983.51
+  },
+  {
+    "sale_id": 869,
+    "product_id": "P18e6512b",
+    "sale_date": "2023-04-15",
+    "quantity": 3,
+    "price": 845.15
+  },
+  {
+    "sale_id": 870,
+    "product_id": "P40fe6be2",
+    "sale_date": "2023-06-18",
+    "quantity": 4,
+    "price": 229.66
+  },
+  {
+    "sale_id": 871,
+    "product_id": "P75467b4a",
+    "sale_date": "2023-06-08",
+    "quantity": 7,
+    "price": 148.89
+  },
+  {
+    "sale_id": 872,
+    "product_id": "Pf99a0002",
+    "sale_date": "2023-09-07",
+    "quantity": 3,
+    "price": 489.72
+  },
+  {
+    "sale_id": 873,
+    "product_id": "Pc6c8744b",
+    "sale_date": "2023-08-31",
+    "quantity": 10,
+    "price": 138.64
+  },
+  {
+    "sale_id": 874,
+    "product_id": "P6f47d618",
+    "sale_date": "2023-08-22",
+    "quantity": 3,
+    "price": 855.83
+  },
+  {
+    "sale_id": 875,
+    "product_id": "P305f5a9a",
+    "sale_date": null,
+    "quantity": 6,
+    "price": 746.39
+  },
+  {
+    "sale_id": 876,
+    "product_id": "Pf07cbe91",
+    "sale_date": "2023-06-29",
+    "quantity": 8,
+    "price": 189.18
+  },
+  {
+    "sale_id": 877,
+    "product_id": "P6d2ebd51",
+    "sale_date": "2023-06-08",
+    "quantity": 2,
+    "price": 921.93
+  },
+  {
+    "sale_id": 878,
+    "product_id": "P18f8f0b8",
+    "sale_date": "2023-05-09",
+    "quantity": 10,
+    "price": 196.7
+  },
+  {
+    "sale_id": 879,
+    "product_id": "Pa894811e",
+    "sale_date": "2023-08-07",
+    "quantity": 4,
+    "price": 640.52
+  },
+  {
+    "sale_id": 880,
+    "product_id": "Pc6c8744b",
+    "sale_date": "2023-10-21",
+    "quantity": 10,
+    "price": 138.64
+  },
+  {
+    "sale_id": 881,
+    "product_id": "P12cc8a9e",
+    "sale_date": "2023-06-01",
+    "quantity": 7,
+    "price": 633.8
+  },
+  {
+    "sale_id": 882,
+    "product_id": "Pf9504018",
+    "sale_date": "2023-01-11",
+    "quantity": 5,
+    "price": 227.37
+  },
+  {
+    "sale_id": 883,
+    "product_id": "P037a1296",
+    "sale_date": "2023-05-11",
+    "quantity": 5,
+    "price": 69.31
+  },
+  {
+    "sale_id": 884,
+    "product_id": "Pbd0a1129",
+    "sale_date": "2023-01-15",
+    "quantity": 1,
+    "price": 541.69
+  },
+  {
+    "sale_id": 885,
+    "product_id": "P30004008",
+    "sale_date": "2023-04-02",
+    "quantity": 7,
+    "price": 799.95
+  },
+  {
+    "sale_id": 886,
+    "product_id": "P30004008",
+    "sale_date": "2023-09-12",
+    "quantity": 7,
+    "price": 799.95
+  },
+  {
+    "sale_id": 887,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-04-04",
+    "quantity": 8,
+    "price": 950.56
+  },
+  {
+    "sale_id": 888,
+    "product_id": "P12338936",
+    "sale_date": "2023-02-02",
+    "quantity": 1,
+    "price": 575.3
+  },
+  {
+    "sale_id": 889,
+    "product_id": "P4b1f438a",
+    "sale_date": "2023-02-03",
+    "quantity": 9,
+    "price": 293.43
+  },
+  {
+    "sale_id": 890,
+    "product_id": null,
+    "sale_date": "2023-08-14",
+    "quantity": 6,
+    "price": 307.11
+  },
+  {
+    "sale_id": 891,
+    "product_id": "P90df1385",
+    "sale_date": "2023-05-09",
+    "quantity": 4,
+    "price": 773.28
+  },
+  {
+    "sale_id": 892,
+    "product_id": "P96170136",
+    "sale_date": "2023-02-19",
+    "quantity": 3,
+    "price": 272.46
+  },
+  {
+    "sale_id": 893,
+    "product_id": "P44c1fa2f",
+    "sale_date": "2023-04-07",
+    "quantity": 7,
+    "price": 911.94
+  },
+  {
+    "sale_id": 894,
+    "product_id": null,
+    "sale_date": "2023-06-13",
+    "quantity": 10,
+    "price": 273.52
+  },
+  {
+    "sale_id": 895,
+    "product_id": null,
+    "sale_date": "2023-04-22",
+    "quantity": 2,
+    "price": 855.83
+  },
+  {
+    "sale_id": 896,
+    "product_id": "P314f27ab",
+    "sale_date": "2023-10-29",
+    "quantity": 5,
+    "price": 362.16
+  },
+  {
+    "sale_id": 897,
+    "product_id": "P037a1296",
+    "sale_date": "2023-08-10",
+    "quantity": 4,
+    "price": 69.31
+  },
+  {
+    "sale_id": 898,
+    "product_id": "Pd145ff69",
+    "sale_date": "2023-08-29",
+    "quantity": 6,
+    "price": 811.45
+  },
+  {
+    "sale_id": 899,
+    "product_id": "Pf6dd51df",
+    "sale_date": "2023-01-14",
+    "quantity": 8,
+    "price": 262.77
+  },
+  {
+    "sale_id": 900,
+    "product_id": "Pcb7d6b7c",
+    "sale_date": null,
+    "quantity": 2,
+    "price": 983.51
+  },
+  {
+    "sale_id": 901,
+    "product_id": "P1795da75",
+    "sale_date": "2023-05-12",
+    "quantity": 6,
+    "price": 996.86
+  },
+  {
+    "sale_id": 902,
+    "product_id": "P45832561",
+    "sale_date": "2023-07-16",
+    "quantity": 9,
+    "price": 148.85
+  },
+  {
+    "sale_id": 903,
+    "product_id": "Pcc8d8340",
+    "sale_date": "2023-02-24",
+    "quantity": 7,
+    "price": 127.41
+  },
+  {
+    "sale_id": 904,
+    "product_id": "P2742827a",
+    "sale_date": "2023-09-28",
+    "quantity": 7,
+    "price": 566.64
+  },
+  {
+    "sale_id": 905,
+    "product_id": "P3e2df371",
+    "sale_date": "2023-01-24",
+    "quantity": 10,
+    "price": 430.05
+  },
+  {
+    "sale_id": 906,
+    "product_id": "P641ea97e",
+    "sale_date": "2023-01-28",
+    "quantity": 10,
+    "price": 27.05
+  },
+  {
+    "sale_id": 907,
+    "product_id": "Pd54c91b1",
+    "sale_date": "2023-04-24",
+    "quantity": 7,
+    "price": 237.1
+  },
+  {
+    "sale_id": 908,
+    "product_id": "P6984f4b1",
+    "sale_date": "2023-01-13",
+    "quantity": 3,
+    "price": 717.75
+  },
+  {
+    "sale_id": 909,
+    "product_id": "P81e0c9cf",
+    "sale_date": "2023-07-08",
+    "quantity": 3,
+    "price": 773.86
+  },
+  {
+    "sale_id": 910,
+    "product_id": "Pe5ae5456",
+    "sale_date": "2023-12-25",
+    "quantity": 10,
+    "price": 665.79
+  },
+  {
+    "sale_id": 911,
+    "product_id": "P353df400",
+    "sale_date": "2023-03-05",
+    "quantity": 1,
+    "price": 386.17
+  },
+  {
+    "sale_id": 912,
+    "product_id": "Pf54512a9",
+    "sale_date": "2023-10-20",
+    "quantity": 7,
+    "price": 989.61
+  },
+  {
+    "sale_id": 913,
+    "product_id": "P7cc61dc7",
+    "sale_date": "2023-02-22",
+    "quantity": 8,
+    "price": 672.41
+  },
+  {
+    "sale_id": 914,
+    "product_id": "P3355fffe",
+    "sale_date": "2023-12-10",
+    "quantity": 7,
+    "price": 791.23
+  },
+  {
+    "sale_id": 915,
+    "product_id": "Pd36dc6ee",
+    "sale_date": "2023-01-22",
+    "quantity": 4,
+    "price": 711.54
+  },
+  {
+    "sale_id": 916,
+    "product_id": "P6e9fa7b1",
+    "sale_date": "2023-12-19",
+    "quantity": 6,
+    "price": 981.22
+  },
+  {
+    "sale_id": 917,
+    "product_id": "P314f27ab",
+    "sale_date": "2023-08-09",
+    "quantity": 9,
+    "price": 362.16
+  },
+  {
+    "sale_id": 918,
+    "product_id": "Pa31ceb3a",
+    "sale_date": "2023-07-22",
+    "quantity": 1,
+    "price": 57.82
+  },
+  {
+    "sale_id": 919,
+    "product_id": "P5b5ceadd",
+    "sale_date": "2023-01-04",
+    "quantity": 9,
+    "price": 44.27
+  },
+  {
+    "sale_id": 920,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-03-27",
+    "quantity": 7,
+    "price": 950.56
+  },
+  {
+    "sale_id": 921,
+    "product_id": "Pa67e2d7f",
+    "sale_date": "2023-05-12",
+    "quantity": 9,
+    "price": 127.15
+  },
+  {
+    "sale_id": 922,
+    "product_id": "P7491bf62",
+    "sale_date": "2023-12-12",
+    "quantity": 6,
+    "price": 665.52
+  },
+  {
+    "sale_id": 923,
+    "product_id": "Pc0bca51b",
+    "sale_date": null,
+    "quantity": 8,
+    "price": 605.58
+  },
+  {
+    "sale_id": 924,
+    "product_id": "P30004008",
+    "sale_date": "2023-12-25",
+    "quantity": 5,
+    "price": 799.95
+  },
+  {
+    "sale_id": 925,
+    "product_id": "P40fe6be2",
+    "sale_date": "2023-05-24",
+    "quantity": 8,
+    "price": 229.66
+  },
+  {
+    "sale_id": 926,
+    "product_id": "P13cd8b1b",
+    "sale_date": "2023-06-20",
+    "quantity": 3,
+    "price": 657.03
+  },
+  {
+    "sale_id": 927,
+    "product_id": "P4b7652f7",
+    "sale_date": "2023-10-25",
+    "quantity": 9,
+    "price": 684.41
+  },
+  {
+    "sale_id": 928,
+    "product_id": "Pa894811e",
+    "sale_date": "2023-02-26",
+    "quantity": 1,
+    "price": 640.52
+  },
+  {
+    "sale_id": 929,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-11-23",
+    "quantity": 4,
+    "price": 307.11
+  },
+  {
+    "sale_id": 930,
+    "product_id": "P30004008",
+    "sale_date": "2023-06-24",
+    "quantity": 5,
+    "price": 799.95
+  },
+  {
+    "sale_id": 931,
+    "product_id": "P531b27ca",
+    "sale_date": "2023-10-11",
+    "quantity": 6,
+    "price": 950.56
+  },
+  {
+    "sale_id": 932,
+    "product_id": "Pd36dc6ee",
+    "sale_date": "2023-08-23",
+    "quantity": 6,
+    "price": 711.54
+  },
+  {
+    "sale_id": 933,
+    "product_id": "P4ff925d8",
+    "sale_date": "2023-04-10",
+    "quantity": 7,
+    "price": 799.53
+  },
+  {
+    "sale_id": 934,
+    "product_id": "P81e0c9cf",
+    "sale_date": "2023-01-13",
+    "quantity": 9,
+    "price": 773.86
+  },
+  {
+    "sale_id": 935,
+    "product_id": "P57eb39b7",
+    "sale_date": "2023-12-03",
+    "quantity": 8,
+    "price": 28.63
+  },
+  {
+    "sale_id": 936,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-01-28",
+    "quantity": 1,
+    "price": 223.1
+  },
+  {
+    "sale_id": 937,
+    "product_id": "Pb90294ac",
+    "sale_date": "2023-04-24",
+    "quantity": 9,
+    "price": 196.83
+  },
+  {
+    "sale_id": 938,
+    "product_id": "Pd22247b2",
+    "sale_date": "2023-06-23",
+    "quantity": 9,
+    "price": 15.52
+  },
+  {
+    "sale_id": 939,
+    "product_id": "P60464576",
+    "sale_date": null,
+    "quantity": 2,
+    "price": 797.24
+  },
+  {
+    "sale_id": 940,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-09-23",
+    "quantity": 10,
+    "price": 223.1
+  },
+  {
+    "sale_id": 941,
+    "product_id": "P6984f4b1",
+    "sale_date": "2023-11-04",
+    "quantity": 9,
+    "price": 717.75
+  },
+  {
+    "sale_id": 942,
+    "product_id": "Pa37c28b9",
+    "sale_date": "2023-05-08",
+    "quantity": 7,
+    "price": 67.04
+  },
+  {
+    "sale_id": 943,
+    "product_id": "P6e9fa7b1",
+    "sale_date": "2023-11-01",
+    "quantity": 1,
+    "price": 981.22
+  },
+  {
+    "sale_id": 944,
+    "product_id": "Pd54c91b1",
+    "sale_date": "2023-05-08",
+    "quantity": 10,
+    "price": 237.1
+  },
+  {
+    "sale_id": 945,
+    "product_id": "P7491bf62",
+    "sale_date": "2023-04-29",
+    "quantity": 4,
+    "price": 665.52
+  },
+  {
+    "sale_id": 946,
+    "product_id": "P12cc8a9e",
+    "sale_date": "2023-03-24",
+    "quantity": 7,
+    "price": 633.8
+  },
+  {
+    "sale_id": 947,
+    "product_id": "P334ffc38",
+    "sale_date": "2023-12-07",
+    "quantity": 3,
+    "price": 688.27
+  },
+  {
+    "sale_id": 948,
+    "product_id": "Pbd0a1129",
+    "sale_date": null,
+    "quantity": 7,
+    "price": 541.69
+  },
+  {
+    "sale_id": 949,
+    "product_id": "Pcc8d8340",
+    "sale_date": "2023-01-23",
+    "quantity": 2,
+    "price": 127.41
+  },
+  {
+    "sale_id": 950,
+    "product_id": "P81e0c9cf",
+    "sale_date": "2023-11-14",
+    "quantity": 5,
+    "price": 773.86
+  },
+  {
+    "sale_id": 951,
+    "product_id": "P30004008",
+    "sale_date": "2023-06-19",
+    "quantity": 4,
+    "price": 799.95
+  },
+  {
+    "sale_id": 952,
+    "product_id": "P8e74e074",
+    "sale_date": "2023-04-27",
+    "quantity": 5,
+    "price": 760.15
+  },
+  {
+    "sale_id": 953,
+    "product_id": "P6844351c",
+    "sale_date": "2023-03-20",
+    "quantity": 8,
+    "price": 638.15
+  },
+  {
+    "sale_id": 954,
+    "product_id": "P12cc8a9e",
+    "sale_date": "2023-12-11",
+    "quantity": 5,
+    "price": 633.8
+  },
+  {
+    "sale_id": 955,
+    "product_id": "P6e9fa7b1",
+    "sale_date": "2023-10-08",
+    "quantity": 8,
+    "price": 981.22
+  },
+  {
+    "sale_id": 956,
+    "product_id": "P4ff925d8",
+    "sale_date": "2023-04-08",
+    "quantity": 9,
+    "price": 799.53
+  },
+  {
+    "sale_id": 957,
+    "product_id": "Pcc8d8340",
+    "sale_date": "2023-11-10",
+    "quantity": 5,
+    "price": 127.41
+  },
+  {
+    "sale_id": 958,
+    "product_id": "P5e6fdb01",
+    "sale_date": "2023-02-07",
+    "quantity": 7,
+    "price": 758.41
+  },
+  {
+    "sale_id": 959,
+    "product_id": "P3355fffe",
+    "sale_date": "2023-03-12",
+    "quantity": 5,
+    "price": 791.23
+  },
+  {
+    "sale_id": 960,
+    "product_id": "Pbcca251f",
+    "sale_date": "2023-11-08",
+    "quantity": 2,
+    "price": 152.29
+  },
+  {
+    "sale_id": 961,
+    "product_id": "Pe444cdce",
+    "sale_date": "2023-02-21",
+    "quantity": 10,
+    "price": 223.1
+  },
+  {
+    "sale_id": 962,
+    "product_id": "P0e36ec5f",
+    "sale_date": "2023-12-16",
+    "quantity": 6,
+    "price": 625.26
+  },
+  {
+    "sale_id": 963,
+    "product_id": "Pe4451aad",
+    "sale_date": "2023-09-14",
+    "quantity": 1,
+    "price": 753.36
+  },
+  {
+    "sale_id": 964,
+    "product_id": "P3e2df371",
+    "sale_date": "2023-05-17",
+    "quantity": 7,
+    "price": 430.05
+  },
+  {
+    "sale_id": 965,
+    "product_id": "Pd145ff69",
+    "sale_date": "2023-03-25",
+    "quantity": 5,
+    "price": 811.45
+  },
+  {
+    "sale_id": 966,
+    "product_id": "P4b7652f7",
+    "sale_date": "2023-12-03",
+    "quantity": 9,
+    "price": 684.41
+  },
+  {
+    "sale_id": 967,
+    "product_id": "P90df1385",
+    "sale_date": "2023-11-04",
+    "quantity": 8,
+    "price": 773.28
+  },
+  {
+    "sale_id": 968,
+    "product_id": "P8d0f618c",
+    "sale_date": null,
+    "quantity": 5,
+    "price": 307.11
+  },
+  {
+    "sale_id": 969,
+    "product_id": "P5b5ceadd",
+    "sale_date": "2023-03-25",
+    "quantity": 6,
+    "price": 44.27
+  },
+  {
+    "sale_id": 970,
+    "product_id": "Pf07cbe91",
+    "sale_date": "2023-07-26",
+    "quantity": 2,
+    "price": 189.18
+  },
+  {
+    "sale_id": 971,
+    "product_id": "P2742827a",
+    "sale_date": "2023-06-11",
+    "quantity": 4,
+    "price": 566.64
+  },
+  {
+    "sale_id": 972,
+    "product_id": "P356d389b",
+    "sale_date": "2023-02-04",
+    "quantity": 10,
+    "price": 309.96
+  },
+  {
+    "sale_id": 973,
+    "product_id": "Pb29bd58e",
+    "sale_date": "2023-07-04",
+    "quantity": 8,
+    "price": 927.12
+  },
+  {
+    "sale_id": 974,
+    "product_id": "P13cd8b1b",
+    "sale_date": "2023-08-30",
+    "quantity": 8,
+    "price": 657.03
+  },
+  {
+    "sale_id": 975,
+    "product_id": "P61888905",
+    "sale_date": "2023-03-27",
+    "quantity": 8,
+    "price": 141.57
+  },
+  {
+    "sale_id": 976,
+    "product_id": "Pf07cbe91",
+    "sale_date": "2023-10-03",
+    "quantity": 10,
+    "price": 189.18
+  },
+  {
+    "sale_id": 977,
+    "product_id": "P40fe6be2",
+    "sale_date": "2023-05-04",
+    "quantity": 5,
+    "price": 229.66
+  },
+  {
+    "sale_id": 978,
+    "product_id": null,
+    "sale_date": "2023-07-02",
+    "quantity": 1,
+    "price": 544.84
+  },
+  {
+    "sale_id": 979,
+    "product_id": "P8d0f618c",
+    "sale_date": "2023-03-14",
+    "quantity": 9,
+    "price": 307.11
+  },
+  {
+    "sale_id": 980,
+    "product_id": "Pf9dc4bf0",
+    "sale_date": "2023-07-25",
+    "quantity": 9,
+    "price": 576.81
+  },
+  {
+    "sale_id": 981,
+    "product_id": "P0e36ec5f",
+    "sale_date": "2023-04-01",
+    "quantity": 2,
+    "price": 625.26
+  },
+  {
+    "sale_id": 982,
+    "product_id": "P334ffc38",
+    "sale_date": "2023-12-11",
+    "quantity": 6,
+    "price": 688.27
+  },
+  {
+    "sale_id": 983,
+    "product_id": "P037a1296",
+    "sale_date": "2023-06-19",
+    "quantity": 9,
+    "price": 69.31
+  },
+  {
+    "sale_id": 984,
+    "product_id": "P2742827a",
+    "sale_date": "2023-07-25",
+    "quantity": 1,
+    "price": 566.64
+  },
+  {
+    "sale_id": 985,
+    "product_id": "P12cc8a9e",
+    "sale_date": "2023-10-23",
+    "quantity": 5,
+    "price": 633.8
+  },
+  {
+    "sale_id": 986,
+    "product_id": "P305f5a9a",
+    "sale_date": "2023-10-15",
+    "quantity": 7,
+    "price": 746.39
+  },
+  {
+    "sale_id": 987,
+    "product_id": "P6844351c",
+    "sale_date": "2023-05-19",
+    "quantity": 6,
+    "price": 638.15
+  },
+  {
+    "sale_id": 988,
+    "product_id": "Pcc8d8340",
+    "sale_date": "2023-03-30",
+    "quantity": 3,
+    "price": 127.41
+  },
+  {
+    "sale_id": 989,
+    "product_id": "Pd54c91b1",
+    "sale_date": "2023-10-24",
+    "quantity": 4,
+    "price": 237.1
+  },
+  {
+    "sale_id": 990,
+    "product_id": "P40fe6be2",
+    "sale_date": "2023-04-04",
+    "quantity": 3,
+    "price": 229.66
+  },
+  {
+    "sale_id": 991,
+    "product_id": "P1795da75",
+    "sale_date": "2023-09-20",
+    "quantity": 5,
+    "price": 996.86
+  },
+  {
+    "sale_id": 992,
+    "product_id": "P18e6512b",
+    "sale_date": "2023-10-13",
+    "quantity": 4,
+    "price": 845.15
+  },
+  {
+    "sale_id": 993,
+    "product_id": "Pd22247b2",
+    "sale_date": "2023-12-02",
+    "quantity": 9,
+    "price": 15.52
+  },
+  {
+    "sale_id": 994,
+    "product_id": "P18e6512b",
+    "sale_date": "2023-01-05",
+    "quantity": 4,
+    "price": 845.15
+  },
+  {
+    "sale_id": 995,
+    "product_id": "P18f8f0b8",
+    "sale_date": "2023-03-14",
+    "quantity": 4,
+    "price": 196.7
+  },
+  {
+    "sale_id": 996,
+    "product_id": "P7132e903",
+    "sale_date": "2023-01-12",
+    "quantity": 8,
+    "price": 609.92
+  },
+  {
+    "sale_id": 997,
+    "product_id": "P37b852b3",
+    "sale_date": "2023-08-30",
+    "quantity": 10,
+    "price": 527.17
+  },
+  {
+    "sale_id": 998,
+    "product_id": "P96170136",
+    "sale_date": "2023-11-18",
+    "quantity": 7,
+    "price": 272.46
+  },
+  {
+    "sale_id": 999,
+    "product_id": "P18f8f0b8",
+    "sale_date": "2023-11-17",
+    "quantity": 3,
+    "price": 196.7
+  },
+  {
+    "sale_id": 1000,
+    "product_id": "P61888905",
+    "sale_date": "2023-02-07",
+    "quantity": 1,
+    "price": 141.57
+  }
+]

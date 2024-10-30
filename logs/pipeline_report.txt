@@ -1,0 +1,19 @@
+=== Pipeline Execution Report ===
+
+Data Quality Check Results:
+
+Check: Missing Sale IDs
+Status: PASSED
+Details: Found 0 missing sale IDs
+
+Check: Negative Values
+Status: PASSED
+Details: Found 0 negative quantities and 0 negative prices
+
+Check: Product ID Consistency
+Status: PASSED
+Details: Found 0 invalid product IDs
+
+Check: Total Sales Calculation
+Status: PASSED
+Details: Found 0 incorrect total_sales calculations

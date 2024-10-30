@@ -1,0 +1,44 @@
+2024-10-30 at 20:57:04 | INFO | Starting warehouse loading process
+2024-10-30 at 20:57:04 | INFO | Created sales_data table schema
+2024-10-30 at 20:57:04 | INFO | Current schema for sales_data table:
+2024-10-30 at 20:57:04 | INFO | ('sale_id', 'VARCHAR', 'NO', 'PRI', None, None)
+2024-10-30 at 20:57:04 | INFO | ('product_id', 'VARCHAR', 'YES', None, None, None)
+2024-10-30 at 20:57:04 | INFO | ('sale_date', 'DATE', 'YES', None, None, None)
+2024-10-30 at 20:57:04 | INFO | ('quantity', 'INTEGER', 'YES', None, None, None)
+2024-10-30 at 20:57:04 | INFO | ('price_sale', 'DECIMAL(10,2)', 'YES', None, None, None)
+2024-10-30 at 20:57:04 | INFO | ('price_product', 'DECIMAL(10,2)', 'YES', None, None, None)
+2024-10-30 at 20:57:04 | INFO | ('product_name', 'VARCHAR', 'YES', None, None, None)
+2024-10-30 at 20:57:04 | INFO | ('category', 'VARCHAR', 'YES', None, None, None)
+2024-10-30 at 20:57:04 | INFO | ('total_sales', 'DECIMAL(12,2)', 'YES', None, None, None)
+2024-10-30 at 20:57:04 | INFO | ('ingestion_timestamp_sale', 'TIMESTAMP', 'YES', None, None, None)
+2024-10-30 at 20:57:04 | INFO | ('ingestion_timestamp_product', 'TIMESTAMP', 'YES', None, None, None)
+2024-10-30 at 20:57:04 | INFO | ('sale_year', 'INTEGER', 'YES', None, None, None)
+2024-10-30 at 20:57:04 | INFO | ('sale_month', 'INTEGER', 'YES', None, None, None)
+2024-10-30 at 20:57:04 | INFO | Loaded 895 records from silver layer
+2024-10-30 at 20:57:04 | INFO | Enriched columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price_sale', 'price_product', 'product_name', 'category', 'total_sales', 'ingestion_timestamp_sale', 'ingestion_timestamp_product', 'sale_year', 'sale_month']
+2024-10-30 at 20:57:04 | INFO | Successfully inserted 895 records into warehouse
+2024-10-30 at 20:57:04 | INFO | Created indexes for efficient querying
+2024-10-30 at 20:57:04 | INFO | Created materialized views for common analyses
+2024-10-30 at 20:57:04 | INFO | Warehouse loading process completed successfully
+2024-10-30 at 20:58:24 | INFO | Starting warehouse loading process
+2024-10-30 at 20:58:24 | INFO | Created sales_data table schema
+2024-10-30 at 20:58:24 | INFO | Current schema for sales_data table:
+2024-10-30 at 20:58:24 | INFO | ('sale_id', 'VARCHAR', 'NO', 'PRI', None, None)
+2024-10-30 at 20:58:24 | INFO | ('product_id', 'VARCHAR', 'YES', None, None, None)
+2024-10-30 at 20:58:24 | INFO | ('sale_date', 'DATE', 'YES', None, None, None)
+2024-10-30 at 20:58:24 | INFO | ('quantity', 'INTEGER', 'YES', None, None, None)
+2024-10-30 at 20:58:24 | INFO | ('price_sale', 'DECIMAL(10,2)', 'YES', None, None, None)
+2024-10-30 at 20:58:24 | INFO | ('price_product', 'DECIMAL(10,2)', 'YES', None, None, None)
+2024-10-30 at 20:58:24 | INFO | ('product_name', 'VARCHAR', 'YES', None, None, None)
+2024-10-30 at 20:58:24 | INFO | ('category', 'VARCHAR', 'YES', None, None, None)
+2024-10-30 at 20:58:24 | INFO | ('total_sales', 'DECIMAL(12,2)', 'YES', None, None, None)
+2024-10-30 at 20:58:24 | INFO | ('ingestion_timestamp_sale', 'TIMESTAMP', 'YES', None, None, None)
+2024-10-30 at 20:58:24 | INFO | ('ingestion_timestamp_product', 'TIMESTAMP', 'YES', None, None, None)
+2024-10-30 at 20:58:24 | INFO | ('sale_year', 'INTEGER', 'YES', None, None, None)
+2024-10-30 at 20:58:24 | INFO | ('sale_month', 'INTEGER', 'YES', None, None, None)
+2024-10-30 at 20:58:24 | INFO | Loaded 897 records from silver layer
+2024-10-30 at 20:58:24 | INFO | Enriched columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price_sale', 'price_product', 'product_name', 'category', 'total_sales', 'ingestion_timestamp_sale', 'ingestion_timestamp_product', 'sale_year', 'sale_month']
+2024-10-30 at 20:58:24 | INFO | Successfully inserted 897 records into warehouse
+2024-10-30 at 20:58:24 | INFO | Created indexes for efficient querying
+2024-10-30 at 20:58:24 | INFO | Created materialized views for common analyses
+2024-10-30 at 20:58:24 | INFO | Warehouse loading process completed successfully

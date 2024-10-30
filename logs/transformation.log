@@ -1,0 +1,144 @@
+2024-10-30 at 20:55:49 | INFO | Starting data transformation process
+2024-10-30 at 20:55:49 | INFO | Reading sales data from: data/bronze/sales_data.json
+2024-10-30 at 20:55:49 | INFO | Reading products data from: data/bronze/product_data.json
+2024-10-30 at 20:55:49 | INFO | Successfully read data from bronze layer
+2024-10-30 at 20:55:49 | INFO | Sales records: 1000
+2024-10-30 at 20:55:49 | INFO | Products records: 100
+2024-10-30 at 20:55:49 | INFO | 
+Sales DataFrame Info:
+2024-10-30 at 20:55:49 | INFO | 
+Columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price', 'ingestion_timestamp']
+2024-10-30 at 20:55:49 | INFO | Sample data:
+   sale_id product_id   sale_date  quantity   price       ingestion_timestamp
+0        1  Pf3977b90  2023-06-05         1  901.14  2024-10-30T20:55:49.014Z
+1        2  P34163c57  2023-04-02         2  627.85  2024-10-30T20:55:49.014Z
+2        3  P3c68d594  2023-04-09         8  900.39  2024-10-30T20:55:49.014Z
+3        4  Pe605d380  2023-09-10         1  582.52  2024-10-30T20:55:49.014Z
+4        5  P4a31c723  2023-12-25         3  499.10  2024-10-30T20:55:49.014Z
+2024-10-30 at 20:55:49 | INFO | 
+Products DataFrame Info:
+2024-10-30 at 20:55:49 | INFO | 
+Columns: ['product_id', 'product_name', 'category', 'price', 'ingestion_timestamp']
+2024-10-30 at 20:55:49 | INFO | Sample data:
+  product_id product_name  category   price       ingestion_timestamp
+0  P203ed1f1    Product_1      Home  940.22  2024-10-30T20:55:49.024Z
+1  P258f8847    Product_2  Clothing   23.02  2024-10-30T20:55:49.024Z
+2  P53f0c8a6    Product_3     Books  322.90  2024-10-30T20:55:49.024Z
+3  P98f8c35d    Product_4     Books  930.02  2024-10-30T20:55:49.024Z
+4  P30389698    Product_5    Sports  669.41  2024-10-30T20:55:49.024Z
+2024-10-30 at 20:55:49 | INFO | Initial number of rows: 1000
+2024-10-30 at 20:55:49 | INFO | Rows removed: 110
+2024-10-30 at 20:55:49 | INFO | Remaining rows: 890
+2024-10-30 at 20:55:49 | INFO | Starting data enrichment
+2024-10-30 at 20:55:49 | INFO | Sales columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price', 'ingestion_timestamp']
+2024-10-30 at 20:55:49 | INFO | Products columns: ['product_id', 'product_name', 'category', 'price', 'ingestion_timestamp']
+2024-10-30 at 20:55:49 | INFO | Enriched columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price_sale', 'ingestion_timestamp_sale', 'product_name', 'category', 'price_product', 'ingestion_timestamp_product']
+2024-10-30 at 20:55:49 | INFO | Available columns after merge: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price_sale', 'ingestion_timestamp_sale', 'product_name', 'category', 'price_product', 'ingestion_timestamp_product', 'total_sales']
+2024-10-30 at 20:55:49 | INFO | Successfully enriched data. Final record count: 890
+2024-10-30 at 20:55:49 | INFO | Sample of enriched data:
+   sale_id product_id   sale_date  quantity  price_sale  ...  product_name     category total_sales  ingestion_timestamp_sale ingestion_timestamp_product
+0        1  Pf3977b90  2023-06-05         1      901.14  ...    Product_84     Clothing      901.14  2024-10-30T20:55:49.014Z    2024-10-30T20:55:49.024Z
+1        2  P34163c57  2023-04-02         2      627.85  ...    Product_27     Clothing     1255.70  2024-10-30T20:55:49.014Z    2024-10-30T20:55:49.024Z
+2        3  P3c68d594  2023-04-09         8      900.39  ...    Product_48  Electronics     7203.12  2024-10-30T20:55:49.014Z    2024-10-30T20:55:49.024Z
+3        4  Pe605d380  2023-09-10         1      582.52  ...    Product_46       Sports      582.52  2024-10-30T20:55:49.014Z    2024-10-30T20:55:49.024Z
+4        5  P4a31c723  2023-12-25         3      499.10  ...    Product_24     Clothing     1497.30  2024-10-30T20:55:49.014Z    2024-10-30T20:55:49.024Z
+
+[5 rows x 11 columns]
+2024-10-30 at 20:55:49 | INFO | Successfully saved transformed data to data/silver/transformed_sales.parquet
+2024-10-30 at 20:55:49 | INFO | Data transformation process completed successfully
+2024-10-30 at 20:57:04 | INFO | Starting data transformation process
+2024-10-30 at 20:57:04 | INFO | Reading sales data from: data/bronze/sales_data.json
+2024-10-30 at 20:57:04 | INFO | Reading products data from: data/bronze/product_data.json
+2024-10-30 at 20:57:04 | INFO | Successfully read data from bronze layer
+2024-10-30 at 20:57:04 | INFO | Sales records: 1000
+2024-10-30 at 20:57:04 | INFO | Products records: 100
+2024-10-30 at 20:57:04 | INFO | 
+Sales DataFrame Info:
+2024-10-30 at 20:57:04 | INFO | 
+Columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price', 'ingestion_timestamp']
+2024-10-30 at 20:57:04 | INFO | Sample data:
+   sale_id product_id   sale_date  quantity   price       ingestion_timestamp
+0        1       None  2023-09-17         3  397.85  2024-10-30T20:57:04.436Z
+1        2  P1c28eb69  2023-02-23         4  476.57  2024-10-30T20:57:04.436Z
+2        3       None  2023-11-29         2  853.30  2024-10-30T20:57:04.436Z
+3        4  P23521154  2023-01-02         1  397.57  2024-10-30T20:57:04.436Z
+4        5  P264f9e68  2023-07-15         4  112.36  2024-10-30T20:57:04.436Z
+2024-10-30 at 20:57:04 | INFO | 
+Products DataFrame Info:
+2024-10-30 at 20:57:04 | INFO | 
+Columns: ['product_id', 'product_name', 'category', 'price', 'ingestion_timestamp']
+2024-10-30 at 20:57:04 | INFO | Sample data:
+  product_id product_name     category   price       ingestion_timestamp
+0  P0aa3b55f    Product_1     Clothing   31.52  2024-10-30T20:57:04.447Z
+1  Pd5763e36    Product_2        Books  230.08  2024-10-30T20:57:04.447Z
+2  P5abaefc6    Product_3     Clothing  873.37  2024-10-30T20:57:04.447Z
+3  Pd856462a    Product_4     Clothing  512.48  2024-10-30T20:57:04.447Z
+4  Pb1908e40    Product_5  Electronics  114.35  2024-10-30T20:57:04.447Z
+2024-10-30 at 20:57:04 | INFO | Initial number of rows: 1000
+2024-10-30 at 20:57:04 | INFO | Rows removed: 105
+2024-10-30 at 20:57:04 | INFO | Remaining rows: 895
+2024-10-30 at 20:57:04 | INFO | Starting data enrichment
+2024-10-30 at 20:57:04 | INFO | Sales columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price', 'ingestion_timestamp']
+2024-10-30 at 20:57:04 | INFO | Products columns: ['product_id', 'product_name', 'category', 'price', 'ingestion_timestamp']
+2024-10-30 at 20:57:04 | INFO | Enriched columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price_sale', 'ingestion_timestamp_sale', 'product_name', 'category', 'price_product', 'ingestion_timestamp_product']
+2024-10-30 at 20:57:04 | INFO | Available columns after merge: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price_sale', 'ingestion_timestamp_sale', 'product_name', 'category', 'price_product', 'ingestion_timestamp_product', 'total_sales']
+2024-10-30 at 20:57:04 | INFO | Successfully enriched data. Final record count: 895
+2024-10-30 at 20:57:04 | INFO | Sample of enriched data:
+   sale_id product_id   sale_date  quantity  price_sale  ...  product_name     category total_sales  ingestion_timestamp_sale ingestion_timestamp_product
+0        2  P1c28eb69  2023-02-23         4      476.57  ...    Product_10        Books     1906.28  2024-10-30T20:57:04.436Z    2024-10-30T20:57:04.447Z
+1        4  P23521154  2023-01-02         1      397.57  ...    Product_63        Books      397.57  2024-10-30T20:57:04.436Z    2024-10-30T20:57:04.447Z
+2        5  P264f9e68  2023-07-15         4      112.36  ...    Product_32         Home      449.44  2024-10-30T20:57:04.436Z    2024-10-30T20:57:04.447Z
+3        6  P2fcdef6e  2023-04-16         9      711.01  ...    Product_90  Electronics     6399.09  2024-10-30T20:57:04.436Z    2024-10-30T20:57:04.447Z
+4        7  P6b322cb0  2023-01-23         6      233.63  ...    Product_30       Sports     1401.78  2024-10-30T20:57:04.436Z    2024-10-30T20:57:04.447Z
+
+[5 rows x 11 columns]
+2024-10-30 at 20:57:04 | INFO | Successfully saved transformed data to data/silver/transformed_sales.parquet
+2024-10-30 at 20:57:04 | INFO | Data transformation process completed successfully
+2024-10-30 at 20:58:24 | INFO | Starting data transformation process
+2024-10-30 at 20:58:24 | INFO | Reading sales data from: data/bronze/sales_data.json
+2024-10-30 at 20:58:24 | INFO | Reading products data from: data/bronze/product_data.json
+2024-10-30 at 20:58:24 | INFO | Successfully read data from bronze layer
+2024-10-30 at 20:58:24 | INFO | Sales records: 1000
+2024-10-30 at 20:58:24 | INFO | Products records: 100
+2024-10-30 at 20:58:24 | INFO | 
+Sales DataFrame Info:
+2024-10-30 at 20:58:24 | INFO | 
+Columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price', 'ingestion_timestamp']
+2024-10-30 at 20:58:24 | INFO | Sample data:
+   sale_id product_id   sale_date  quantity   price       ingestion_timestamp
+0        1  P6eaf0059  2023-01-13         2  379.30  2024-10-30T20:58:24.576Z
+1        2       None  2023-07-29        10  489.04  2024-10-30T20:58:24.576Z
+2        3  P57eb39b7  2023-02-06         1   28.63  2024-10-30T20:58:24.576Z
+3        4  P18e6512b  2023-12-21        10  845.15  2024-10-30T20:58:24.576Z
+4        5  P90df1385  2023-06-19         7  773.28  2024-10-30T20:58:24.576Z
+2024-10-30 at 20:58:24 | INFO | 
+Products DataFrame Info:
+2024-10-30 at 20:58:24 | INFO | 
+Columns: ['product_id', 'product_name', 'category', 'price', 'ingestion_timestamp']
+2024-10-30 at 20:58:24 | INFO | Sample data:
+  product_id product_name     category   price       ingestion_timestamp
+0  P1795da75    Product_1  Electronics  996.86  2024-10-30T20:58:24.585Z
+1  Pbcca251f    Product_2        Books  152.29  2024-10-30T20:58:24.585Z
+2  Pa37c28b9    Product_3     Clothing   67.04  2024-10-30T20:58:24.585Z
+3  P6844351c    Product_4         Home  638.15  2024-10-30T20:58:24.585Z
+4  P45832561    Product_5       Sports  148.85  2024-10-30T20:58:24.585Z
+2024-10-30 at 20:58:24 | INFO | Initial number of rows: 1000
+2024-10-30 at 20:58:24 | INFO | Rows removed: 103
+2024-10-30 at 20:58:24 | INFO | Remaining rows: 897
+2024-10-30 at 20:58:24 | INFO | Starting data enrichment
+2024-10-30 at 20:58:24 | INFO | Sales columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price', 'ingestion_timestamp']
+2024-10-30 at 20:58:24 | INFO | Products columns: ['product_id', 'product_name', 'category', 'price', 'ingestion_timestamp']
+2024-10-30 at 20:58:24 | INFO | Enriched columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price_sale', 'ingestion_timestamp_sale', 'product_name', 'category', 'price_product', 'ingestion_timestamp_product']
+2024-10-30 at 20:58:24 | INFO | Available columns after merge: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price_sale', 'ingestion_timestamp_sale', 'product_name', 'category', 'price_product', 'ingestion_timestamp_product', 'total_sales']
+2024-10-30 at 20:58:24 | INFO | Successfully enriched data. Final record count: 897
+2024-10-30 at 20:58:24 | INFO | Sample of enriched data:
+   sale_id product_id   sale_date  quantity  price_sale  ...  product_name     category total_sales  ingestion_timestamp_sale ingestion_timestamp_product
+0        1  P6eaf0059  2023-01-13         2      379.30  ...    Product_66        Books      758.60  2024-10-30T20:58:24.576Z    2024-10-30T20:58:24.585Z
+1        3  P57eb39b7  2023-02-06         1       28.63  ...    Product_28  Electronics       28.63  2024-10-30T20:58:24.576Z    2024-10-30T20:58:24.585Z
+2        4  P18e6512b  2023-12-21        10      845.15  ...    Product_27         Home     8451.50  2024-10-30T20:58:24.576Z    2024-10-30T20:58:24.585Z
+3        5  P90df1385  2023-06-19         7      773.28  ...    Product_80     Clothing     5412.96  2024-10-30T20:58:24.576Z    2024-10-30T20:58:24.585Z
+4        6  Pe8e2de1e  2023-06-10         5      273.52  ...    Product_77        Books     1367.60  2024-10-30T20:58:24.576Z    2024-10-30T20:58:24.585Z
+
+[5 rows x 11 columns]
+2024-10-30 at 20:58:24 | INFO | Successfully saved transformed data to data/silver/transformed_sales.parquet
+2024-10-30 at 20:58:24 | INFO | Data transformation process completed successfully
