@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Logs
+logs/
+
+# Data directories
+data/bronze/
+data/silver/
+data/gold/
+
+# IDE config
+.vscode/
