@@ -21,6 +21,7 @@ project_root/
     ├── transform.py # Data transformation script
     └── warehouse_load.py # Warehouse loading script
 ├── AccessDW    # Queries for the Data Warehouse
+├── Dockerfile    # Dockerfile
 └── requirements.txt # Python dependencies
 
 
@@ -51,11 +52,21 @@ One of the main challenges was structuring the logs correctly so that each compo
 
 This project includes a Docker setup to facilitate the deployment and execution of the data pipeline. The Dockerfile defines the environment required to run the application smoothly.
 
+### Requirments
+
+Have install Docker in your computer
+
 ### Accessing the Docker Image
 
 To pull the Docker image, use the following command:
 
 docker pull saadelbekkali/proyectpipeline
+
+### Running the Docker Image
+
+To run the Docker image and execute the data pipeline, use the following command:
+
+docker run -it --rm -v $(pwd)/data:/app/data saadelbekkali/proyectpipeline
 
 #### Accesing Python Interactively
 
@@ -63,21 +74,29 @@ To access Python interactively within the Docker container, you can run:
 
 docker run -it --rm -v $(pwd)/data:/app/data saadelbekkali/proyectpipeline python
 
-## Examples of Queries You Can Launch
+##### Examples of Queries You Can Launch
 
 Once you have loaded your data into the DuckDB database, you can execute various SQL queries to analyze your data. Here are some examples:
 
-### 1. Retrieve All Sales Data
+
+**Connect to the database**
 
 import duckdb
 
- # Connect to the database 
- conn = duckdb.connect('/app/data/gold/sales_warehouse.db')
- df = conn.execute('SELECT * FROM sales_data LIMIT 10').fetchdf()
- print(df)
- 
-### 2. Materialized view
+conn = duckdb.connect('/app/data/gold/sales_warehouse.db')
 
- conn = duckdb.connect('/app/data/gold/monthly_sales.db')
- df1 = conn.execute('SELECT * FROM sales_data LIMIT 10').fetchdf()
- print(df)
+ ***All Sales Data***
+
+df_allsales = conn.execute('SELECT * FROM sales_data LIMIT 10').fetchdf()
+
+print(df_allsales)
+ 
+ ***Materialized view***
+
+dfMonthly_sales = conn.execute('SELECT * FROM monthly_sales LIMIT 10').fetchdf()
+
+print(dfMonthly_sales)
+
+***If you want to exit from Python Interactively***
+
+exit()
