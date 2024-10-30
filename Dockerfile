@@ -1,13 +1,19 @@
-# Use a base Python image
-FROM python:3.9-slim
+# Use a Python base image
+FROM python:3.8-slim
 
-# Create a working directory
+# Set the working directory
 WORKDIR /app
 
-# Copy project files into the container
-COPY . /app
+# Copy the requirements file and source code to the container
+COPY requirements.txt .
+COPY src/ ./src/
+COPY AccessDW.py ./
+COPY README.md ./
+COPY logs/ ./logs/
+COPY data/ ./data/
 
-# Install dependencies, including duckdb
-RUN pip install --no-cache-dir -r requirements.txt 
-# Command to run the pipeline (adjust if you have a main script)
-CMD ["python", "main.py"]
+# Install the dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Define the default command to run your application
+CMD ["python", "src/main_pipeline.py"]

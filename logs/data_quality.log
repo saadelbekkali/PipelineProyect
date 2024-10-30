@@ -28,3 +28,33 @@ Total Checks: 4
 Passed: 4
 Failed: 0
 2024-10-30 at 20:58:24 | INFO | Data quality checks completed
+2024-10-30 at 22:38:42 | INFO | Starting data quality checks
+2024-10-30 at 22:38:42 | INFO | Successfully loaded data for quality checks
+2024-10-30 at 22:38:42 | INFO | Missing sale IDs check: PASSED
+2024-10-30 at 22:38:42 | INFO | Negative values check: PASSED
+2024-10-30 at 22:38:42 | INFO | Product ID consistency check: PASSED
+2024-10-30 at 22:38:42 | INFO | Total sales calculation check: PASSED
+2024-10-30 at 22:38:42 | INFO | 
+=== Data Quality Check Summary ===
+2024-10-30 at 22:38:42 | INFO | 
+Check: Missing Sale IDs
+Status: PASSED
+Details: Found 0 missing sale IDs
+2024-10-30 at 22:38:42 | INFO | 
+Check: Negative Values
+Status: PASSED
+Details: Found 0 negative quantities and 0 negative prices
+2024-10-30 at 22:38:42 | INFO | 
+Check: Product ID Consistency
+Status: PASSED
+Details: Found 0 invalid product IDs
+2024-10-30 at 22:38:42 | INFO | 
+Check: Total Sales Calculation
+Status: PASSED
+Details: Found 0 incorrect total_sales calculations
+2024-10-30 at 22:38:42 | INFO | 
+Overall Summary:
+Total Checks: 4
+Passed: 4
+Failed: 0
+2024-10-30 at 22:38:42 | INFO | Data quality checks completed

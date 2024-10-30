@@ -463,3 +463,138 @@ Failed: 0
 2024-10-30 at 20:58:24 | SUCCESS | All data quality checks passed
 2024-10-30 at 20:58:24 | SUCCESS | Pipeline completed successfully in 0:00:00.327211
 2024-10-30 at 20:58:24 | INFO | Pipeline report generated at logs/pipeline_report.txt
+2024-10-30 at 22:38:41 | INFO | DataGenerator initialized
+2024-10-30 at 22:38:41 | INFO | Directories created: data/raw, data/bronze
+2024-10-30 at 22:38:41 | INFO | DataIngestion initialized
+2024-10-30 at 22:38:41 | INFO | Starting pipeline run at 2024-10-30 22:38:41.764607
+2024-10-30 at 22:38:41 | INFO | Starting data generation stage
+2024-10-30 at 22:38:41 | INFO | Starting data generation process
+2024-10-30 at 22:38:41 | INFO | Generating 100 products
+2024-10-30 at 22:38:41 | INFO | Generated 100 products
+2024-10-30 at 22:38:41 | INFO | Saved data to data/raw/product_data.json
+2024-10-30 at 22:38:41 | INFO | Generating 1000 sales records
+2024-10-30 at 22:38:41 | INFO | Generated 1000 sales records
+2024-10-30 at 22:38:41 | INFO | Saved data to data/raw/sales_data.json
+2024-10-30 at 22:38:41 | SUCCESS | Data generation completed successfully
+2024-10-30 at 22:38:41 | INFO | Generated 100 products and 1000 sales records
+2024-10-30 at 22:38:41 | SUCCESS | Data generation completed successfully
+2024-10-30 at 22:38:41 | INFO | Starting data ingestion stage
+2024-10-30 at 22:38:41 | INFO | Starting ingestion process
+2024-10-30 at 22:38:41 | INFO | Processing sales_data.json
+2024-10-30 at 22:38:41 | INFO | Reading from: data/raw/sales_data.json
+2024-10-30 at 22:38:41 | INFO | Writing to: data/bronze/sales_data.json
+2024-10-30 at 22:38:41 | INFO | Successfully wrote sales_data.json to bronze
+2024-10-30 at 22:38:41 | INFO | Processing product_data.json
+2024-10-30 at 22:38:41 | INFO | Reading from: data/raw/product_data.json
+2024-10-30 at 22:38:41 | INFO | Writing to: data/bronze/product_data.json
+2024-10-30 at 22:38:41 | INFO | Successfully wrote product_data.json to bronze
+2024-10-30 at 22:38:41 | INFO | Ingestion process completed successfully
+2024-10-30 at 22:38:41 | SUCCESS | Data ingestion completed successfully
+2024-10-30 at 22:38:41 | INFO | Starting data transformation stage
+2024-10-30 at 22:38:41 | INFO | Starting data transformation process
+2024-10-30 at 22:38:41 | INFO | Reading sales data from: data/bronze/sales_data.json
+2024-10-30 at 22:38:41 | INFO | Reading products data from: data/bronze/product_data.json
+2024-10-30 at 22:38:41 | INFO | Successfully read data from bronze layer
+2024-10-30 at 22:38:41 | INFO | Sales records: 1000
+2024-10-30 at 22:38:41 | INFO | Products records: 100
+2024-10-30 at 22:38:41 | INFO | 
+Sales DataFrame Info:
+2024-10-30 at 22:38:41 | INFO | 
+Columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price', 'ingestion_timestamp']
+2024-10-30 at 22:38:41 | INFO | Sample data:
+   sale_id product_id   sale_date  quantity   price       ingestion_timestamp
+0        1  Pcc5e816a  2023-08-13         7  969.18  2024-10-30T22:38:41.808Z
+1        2  P188cbc56  2023-01-27         9  487.60  2024-10-30T22:38:41.808Z
+2        3  P6694b24f  2023-03-26         9  893.55  2024-10-30T22:38:41.808Z
+3        4  P9189f004  2023-06-16         1  867.11  2024-10-30T22:38:41.808Z
+4        5  P8fe39cca  2023-07-04         5   30.11  2024-10-30T22:38:41.808Z
+2024-10-30 at 22:38:41 | INFO | 
+Products DataFrame Info:
+2024-10-30 at 22:38:41 | INFO | 
+Columns: ['product_id', 'product_name', 'category', 'price', 'ingestion_timestamp']
+2024-10-30 at 22:38:41 | INFO | Sample data:
+  product_id product_name  category   price       ingestion_timestamp
+0  P4fe0ea44    Product_1      Home  201.29  2024-10-30T22:38:41.816Z
+1  Pb942dcf7    Product_2     Books  729.68  2024-10-30T22:38:41.816Z
+2  P9e5b97ee    Product_3  Clothing  100.52  2024-10-30T22:38:41.816Z
+3  P9fe38932    Product_4     Books  561.93  2024-10-30T22:38:41.816Z
+4  P4ffd2baf    Product_5     Books  146.60  2024-10-30T22:38:41.816Z
+2024-10-30 at 22:38:41 | INFO | Initial number of rows: 1000
+2024-10-30 at 22:38:41 | INFO | Rows removed: 116
+2024-10-30 at 22:38:41 | INFO | Remaining rows: 884
+2024-10-30 at 22:38:41 | INFO | Starting data enrichment
+2024-10-30 at 22:38:41 | INFO | Sales columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price', 'ingestion_timestamp']
+2024-10-30 at 22:38:41 | INFO | Products columns: ['product_id', 'product_name', 'category', 'price', 'ingestion_timestamp']
+2024-10-30 at 22:38:41 | INFO | Enriched columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price_sale', 'ingestion_timestamp_sale', 'product_name', 'category', 'price_product', 'ingestion_timestamp_product']
+2024-10-30 at 22:38:41 | INFO | Available columns after merge: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price_sale', 'ingestion_timestamp_sale', 'product_name', 'category', 'price_product', 'ingestion_timestamp_product', 'total_sales']
+2024-10-30 at 22:38:41 | INFO | Successfully enriched data. Final record count: 884
+2024-10-30 at 22:38:41 | INFO | Sample of enriched data:
+   sale_id product_id   sale_date  quantity  price_sale  ...  product_name     category total_sales  ingestion_timestamp_sale ingestion_timestamp_product
+0        1  Pcc5e816a  2023-08-13         7      969.18  ...    Product_16        Books     6784.26  2024-10-30T22:38:41.808Z    2024-10-30T22:38:41.816Z
+1        2  P188cbc56  2023-01-27         9      487.60  ...    Product_89     Clothing     4388.40  2024-10-30T22:38:41.808Z    2024-10-30T22:38:41.816Z
+2        3  P6694b24f  2023-03-26         9      893.55  ...    Product_30  Electronics     8041.95  2024-10-30T22:38:41.808Z    2024-10-30T22:38:41.816Z
+3        4  P9189f004  2023-06-16         1      867.11  ...    Product_96       Sports      867.11  2024-10-30T22:38:41.808Z    2024-10-30T22:38:41.816Z
+4        5  P8fe39cca  2023-07-04         5       30.11  ...    Product_66  Electronics      150.55  2024-10-30T22:38:41.808Z    2024-10-30T22:38:41.816Z
+
+[5 rows x 11 columns]
+2024-10-30 at 22:38:41 | INFO | Successfully saved transformed data to data/silver/transformed_sales.parquet
+2024-10-30 at 22:38:41 | INFO | Data transformation process completed successfully
+2024-10-30 at 22:38:41 | SUCCESS | Data transformation completed successfully
+2024-10-30 at 22:38:41 | INFO | Starting warehouse loading stage
+2024-10-30 at 22:38:41 | INFO | Starting warehouse loading process
+2024-10-30 at 22:38:41 | INFO | Created sales_data table schema
+2024-10-30 at 22:38:41 | INFO | Current schema for sales_data table:
+2024-10-30 at 22:38:41 | INFO | ('sale_id', 'VARCHAR', 'NO', 'PRI', None, None)
+2024-10-30 at 22:38:41 | INFO | ('product_id', 'VARCHAR', 'YES', None, None, None)
+2024-10-30 at 22:38:41 | INFO | ('sale_date', 'DATE', 'YES', None, None, None)
+2024-10-30 at 22:38:41 | INFO | ('quantity', 'INTEGER', 'YES', None, None, None)
+2024-10-30 at 22:38:41 | INFO | ('price_sale', 'DECIMAL(10,2)', 'YES', None, None, None)
+2024-10-30 at 22:38:41 | INFO | ('price_product', 'DECIMAL(10,2)', 'YES', None, None, None)
+2024-10-30 at 22:38:41 | INFO | ('product_name', 'VARCHAR', 'YES', None, None, None)
+2024-10-30 at 22:38:41 | INFO | ('category', 'VARCHAR', 'YES', None, None, None)
+2024-10-30 at 22:38:41 | INFO | ('total_sales', 'DECIMAL(12,2)', 'YES', None, None, None)
+2024-10-30 at 22:38:41 | INFO | ('ingestion_timestamp_sale', 'TIMESTAMP', 'YES', None, None, None)
+2024-10-30 at 22:38:41 | INFO | ('ingestion_timestamp_product', 'TIMESTAMP', 'YES', None, None, None)
+2024-10-30 at 22:38:41 | INFO | ('sale_year', 'INTEGER', 'YES', None, None, None)
+2024-10-30 at 22:38:41 | INFO | ('sale_month', 'INTEGER', 'YES', None, None, None)
+2024-10-30 at 22:38:41 | INFO | Loaded 884 records from silver layer
+2024-10-30 at 22:38:41 | INFO | Enriched columns: ['sale_id', 'product_id', 'sale_date', 'quantity', 'price_sale', 'price_product', 'product_name', 'category', 'total_sales', 'ingestion_timestamp_sale', 'ingestion_timestamp_product', 'sale_year', 'sale_month']
+2024-10-30 at 22:38:41 | INFO | Successfully inserted 884 records into warehouse
+2024-10-30 at 22:38:42 | INFO | Created indexes for efficient querying
+2024-10-30 at 22:38:42 | INFO | Created materialized views for common analyses
+2024-10-30 at 22:38:42 | INFO | Warehouse loading process completed successfully
+2024-10-30 at 22:38:42 | SUCCESS | Warehouse loading completed successfully
+2024-10-30 at 22:38:42 | INFO | Starting data quality checks
+2024-10-30 at 22:38:42 | INFO | Starting data quality checks
+2024-10-30 at 22:38:42 | INFO | Successfully loaded data for quality checks
+2024-10-30 at 22:38:42 | INFO | Missing sale IDs check: PASSED
+2024-10-30 at 22:38:42 | INFO | Negative values check: PASSED
+2024-10-30 at 22:38:42 | INFO | Product ID consistency check: PASSED
+2024-10-30 at 22:38:42 | INFO | Total sales calculation check: PASSED
+2024-10-30 at 22:38:42 | INFO | 
+=== Data Quality Check Summary ===
+2024-10-30 at 22:38:42 | INFO | 
+Check: Missing Sale IDs
+Status: PASSED
+Details: Found 0 missing sale IDs
+2024-10-30 at 22:38:42 | INFO | 
+Check: Negative Values
+Status: PASSED
+Details: Found 0 negative quantities and 0 negative prices
+2024-10-30 at 22:38:42 | INFO | 
+Check: Product ID Consistency
+Status: PASSED
+Details: Found 0 invalid product IDs
+2024-10-30 at 22:38:42 | INFO | 
+Check: Total Sales Calculation
+Status: PASSED
+Details: Found 0 incorrect total_sales calculations
+2024-10-30 at 22:38:42 | INFO | 
+Overall Summary:
+Total Checks: 4
+Passed: 4
+Failed: 0
+2024-10-30 at 22:38:42 | INFO | Data quality checks completed
+2024-10-30 at 22:38:42 | SUCCESS | All data quality checks passed
+2024-10-30 at 22:38:42 | SUCCESS | Pipeline completed successfully in 0:00:00.283515
+2024-10-30 at 22:38:42 | INFO | Pipeline report generated at logs/pipeline_report.txt
