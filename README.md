@@ -19,7 +19,7 @@ project_root/
 
  ├── logs/ # Log files for different processes 
 
- │ └── src/ # Source code
+ ├── src/ # Source code
 
         ├── datageneration.py # Data generation script 
 
