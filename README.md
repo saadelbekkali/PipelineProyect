@@ -8,21 +8,36 @@ This project implements a data pipeline for loading, transforming, and validatin
 
 
 project_root/ 
-│ ├── data/ │ 
+
+ ├── data/ │
+
     ├── bronze/ # Raw data │ 
+
     ├── silver/ # Transformed data │
+
     ├── gold/ # Data warehouse │ 
-├── logs/ # Log files for different processes 
-│ └── src/ # Source code
-    ├── datageneration.py # Data generation script 
-    ├── ingestion.py # Data ingestion script 
-    ├── main_pipeline.py # Main pipeline orchestration 
-    ├── quality_checks.py # Data quality checks 
-    ├── transform.py # Data transformation script
-    └── warehouse_load.py # Warehouse loading script
-├── AccessDW    # Queries for the Data Warehouse
-├── Dockerfile    # Dockerfile
-└── requirements.txt # Python dependencies
+
+ ├── logs/ # Log files for different processes 
+
+ │ └── src/ # Source code
+
+        ├── datageneration.py # Data generation script 
+
+        ├── ingestion.py # Data ingestion script 
+
+        ├── main_pipeline.py # Main pipeline orchestration 
+
+        ├── quality_checks.py # Data quality checks 
+
+        ├── transform.py # Data transformation script
+
+        └── warehouse_load.py # Warehouse loading script
+
+  ├── AccessDW    # Access and queries for the Data Warehouse
+
+  ├── Dockerfile    # Dockerfile
+
+  └── requirements.txt # Python dependencies
 
 
 ## How to Run the Code
