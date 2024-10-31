@@ -40,7 +40,7 @@ project_root/
   └── requirements.txt # Python dependencies
 
 
-## How to Run the Code
+## How to Run the Code in your local
 
 1. **Install Requirements**: 
    Before running the project, make sure to install the required packages. You can do this by executing:
