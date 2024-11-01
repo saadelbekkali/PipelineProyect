@@ -59,8 +59,9 @@ Execute the main pipeline to start the data processing workflow:
 3. **Query the Data Warehouse**: 
 Use the AccessDW script to run queries on the created DuckDB database. It will check if the sales_data table exists and will execute a query to fetch results:
   
+```  
      python AccessDW
-
+```
 
 ## Challenges Faced
 
@@ -79,19 +80,24 @@ Have install Docker in your computer
 
 To pull the Docker image, use the following command:
 
+```
 docker pull saadelbekkali/proyectpipeline
+```
 
 ### Running the Docker Image
 
 To run the Docker image and execute the data pipeline, use the following command:
 
+```
 docker run -it --rm -v $(pwd)/data:/app/data saadelbekkali/proyectpipeline
-
+```
 #### Accesing Python Interactively
 
 To access Python interactively within the Docker container, you can run:
 
+```
 docker run -it --rm -v $(pwd)/data:/app/data saadelbekkali/proyectpipeline python
+```
 
 ##### Examples of Queries You Can Launch
 
@@ -99,23 +105,32 @@ Once you have loaded your data into the DuckDB database, you can execute various
 
 
 **Connect to the database**
-
+```
 import duckdb
 
 conn = duckdb.connect('/app/data/gold/sales_warehouse.db')
 
+```
+
  ***All Sales Data***
 
+```
 df_allsales = conn.execute('SELECT * FROM sales_data LIMIT 10').fetchdf()
 
 print(df_allsales)
+```
  
  ***Materialized view***
 
+
+```
 dfMonthly_sales = conn.execute('SELECT * FROM monthly_sales LIMIT 10').fetchdf()
 
 print(dfMonthly_sales)
 
+```
 ***If you want to exit from Python Interactively***
 
+```
 exit()
+```
