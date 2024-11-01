@@ -45,12 +45,16 @@ project_root/
 1. **Install Requirements**: 
    Before running the project, make sure to install the required packages. You can do this by executing:
    
+```
    pip install -r requirements.txt
+```
 
 2. **Run the Main Pipeline**: 
 Execute the main pipeline to start the data processing workflow:
    
+```
    python src/main_pipeline.py
+```
 
 3. **Query the Data Warehouse**: 
 Use the AccessDW script to run queries on the created DuckDB database. It will check if the sales_data table exists and will execute a query to fetch results:
